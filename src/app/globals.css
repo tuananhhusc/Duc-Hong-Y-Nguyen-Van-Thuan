@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #FDFBF7;
+    /* parchment-bg */
+    --foreground: #1F2937;
+    /* ink-black */
+
+    --card: #FFFFFF;
+    --card-foreground: #1F2937;
+    --popover: #FFFFFF;
+    --popover-foreground: #1F2937;
+    --primary: #D4AF37;
+    --primary-foreground: #FFFFFF;
+    --secondary: #F1F5F9;
+    --secondary-foreground: #0F172A;
+    --muted: #F1F5F9;
+    --muted-foreground: #64748B;
+    --accent: #F1F5F9;
+    --accent-foreground: #0F172A;
+    --destructive: #EF4444;
+    --destructive-foreground: #FAFAFA;
+    --border: #E2E8F0;
+    --input: #E2E8F0;
+    --ring: #D4AF37;
+    --radius: 0.5rem;
+
+    --catholic-gold: #D4AF37;
+    --liturgical-purple: #6B46C1;
+    --sacred-red: #B91C1C;
+    --heavenly-blue: #1E40AF;
+
+    --hope-gold: #F59E0B;
+    --prayer-blue: #3B82F6;
+    --cross-brown: #92400E;
+  }
+
+  .dark {
+    --background: #1F2937;
+    /* ink-black */
+    --foreground: #F9FAFB;
+    /* soft-white */
+
+    --card: #111827;
+    --card-foreground: #F9FAFB;
+    --popover: #111827;
+    --popover-foreground: #F9FAFB;
+    --primary: #D4AF37;
+    --primary-foreground: #FFFFFF;
+    --secondary: #1E293B;
+    --secondary-foreground: #F8FAFC;
+    --muted: #1E293B;
+    --muted-foreground: #94A3B8;
+    --accent: #1E293B;
+    --accent-foreground: #F8FAFC;
+    --destructive: #7F1D1D;
+    --destructive-foreground: #F8FAFC;
+    --border: #374151;
+    --input: #374151;
+    --ring: #D4AF37;
+
+    --catholic-gold: #D4AF37;
+    --liturgical-purple: #8B5CF6;
+    /* Lighter purple for dark mode */
+    --sacred-red: #EF4444;
+    /* Lighter red */
+    --heavenly-blue: #3B82F6;
+    /* Lighter blue */
+
+    --parchment-bg: #111827;
+    --paper-white: #1F2937;
+    --ink-black: #F9FAFB;
+    --soft-gray: #9CA3AF;
+    --border-gray: #374151;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif;
+  }
+}
+
+/* Custom scrollbar for better aesthetics */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-gray-700 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400 dark:bg-gray-600;
+}
