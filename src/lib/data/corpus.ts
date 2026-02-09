@@ -59,7 +59,7 @@ export const bookStructure: ChapterInfo[] = [
 export const duongHyVongCorpus: CorpusEntry[] = [
     {
         stt: 1,
-        noi_dung: "Chúa đặt con trên đường, để con ra đi và thu được nhiều hoa trái (Ga 15,16). Đường ấy là đường hy vọng, vì chan chứa hy vọng, vì đẹp như hy vọng. Sao không hy vọng khi con đi với Chúa Giêsu, khi con về cùng Chúa Cha? và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cảnhững gì anh em xin cùng Chúa Chanhân danh Thầy, thì Người ban cho anh em. loại và đôi khi tỏ ranhư một đoàn chiên nhỏ, nhưng lại là một mầm mống của hiệp nhất, hy vọng và cứu rỗi vững chắc nhất cho toàn thể nhân loại. Dân tộc thiên sai ấy được Chúa Kitô thiết lập để thông dự vào sự sống, bácái và chân lý, được Người sử dụng như khí cụ cứu rỗi cho mọi người, và được sai đi khắp thế giới như ánh sáng trần gian và muối đất (x. Mt 5,13-16).",
+        noi_dung: "Chúa đặt con trên đường, để con ra đi và thu được nhiều hoa trái (Ga 15,16). Đường ấy là đường hy vọng, vì chan chứa hy vọng, vì đẹp như hy vọng. Sao không hy vọng khi con đi với Chúa Giêsu, khi con về cùng Chúa Cha? và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cảnhững gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. loại và đôi khi tỏ ra như một đoàn chiên nhỏ, nhưng lại là một mầm mống của hiệp nhất, hy vọng và cứu rỗi vững chắc nhất cho toàn thể nhân loại. Dân tộc thiên sai ấy được Chúa Kitô thiết lập để thông dự vào sự sống, bác ái và chân lý, được Người sử dụng như khí cụ cứu rỗi cho mọi người, và được sai đi khắp thế giới như ánh sáng trần gian và muối đất (x. Mt 5,13-16).",
         chuong: 1,
         loi_chua: [
             "Ga 15,16a: Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em,",
@@ -120,7 +120,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 7,
-        noi_dung: "Đã ra đi, phải bất chấp lưỡi thiên hạ đàm tiếu. Ba đạo sĩ ra đi, hy vọng gặp Chúa Cứu Thế, họ đã gặp; Phanxicô Xaviê ra đi, hy vọng cứu các linh hồn, ông đã gặp; Gôrétti ra đi, thoát chước cám dỗ, hy vọng gặp được Chúa, chịđã gặp.",
+        noi_dung: "Đã ra đi, phải bất chấp lưỡi thiên hạ đàm tiếu. Ba đạo sĩ ra đi, hy vọng gặp Chúa Cứu Thế, họ đã gặp; Phanxicô Xaviê ra đi, hy vọng cứu các linh hồn, ông đã gặp; Gôrétti ra đi, thoát chước cám dỗ, hy vọng gặp được Chúa, chị đã gặp.",
         chuong: 1,
     },
     {
@@ -148,10 +148,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 11,
-        noi_dung: "Ta là sự thật (Ga 14,6). Không phải báo chí là sự thật, không phải đài phát thanh là sự thật, không phải ti-vi là sự thật. Con theo loại sự thật nào? đến với ai? Thầy mới có những lời đem lại sự sống đời đời. có nhiệm vụ chính thức loan b áo và truyền dạy Chân lý là Chúa Kitô… (C ác Kitô hữu) phải cố gắng toả ánh sáng sự sống với tất cả lòng tin tưởng vững chắc và lòng can đảm của người tông đồ, cho dù phải đổ máu. Bởi thế, mỗi môn đệ đều có bổn phận quan trọng đối với Chúa Kitô, Thầy chí thánh của mình, là phải luôn luôn tìm cách thấu hiểu chân lý mà Người đã trao ban, phải trung thành loan truyền và can đảm bảo vệ…",
+        noi_dung: "Ta là sự thật (Ga 14,6). Không phải báo chí là sự thật, không phải đài phát thanh là sự thật, không phải ti-vi là sự thật. Con theo loại sự thật nào? đến với ai? Thầy mới có những lời đem lại sự sống đời đời. có nhiệm vụ chính thức loan b áo và truyền dạy Chân lý là Chúa Kitô… (Các Kitô hữu) phải cố gắng toả ánh sáng sự sống với tất cả lòng tin tưởng vững chắc và lòng can đảm của người tông đồ, cho dù phải đổ máu. Bởi thế, mỗi môn đệ đều có bổn phận quan trọng đối với Chúa Kitô, Thầy chí thánh của mình, là phải luôn luôn tìm cách thấu hiểu chân lý mà Người đã trao ban, phải trung thành loan truyền và can đảm bảo vệ…",
         chuong: 1,
         loi_chua: [
-            "Ga 6,68: Ông Si-môn Phê-rô nói: – Thưa Thầy, bỏ Thầy thì ch úng con bi ết",
+            "Ga 6,68: Ông Si-môn Phê-rô nói: – Thưa Thầy, bỏ Thầy thì chúng con biết",
             "TD 14c: … Theo ý định của Chúa Kitô, Giáo hội Công giáo là thầy dạy chân lý và",
         ],
         tham_chieu: [
@@ -161,7 +161,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 12,
-        noi_dung: "Đi, đi mãi, đi quyết liệt, đi không nhượng bộ; không ai tin người nhượng bộ cũng như không ai đi với người đi lùi. trong giây lát, để duy trì cho anh em chân lý của Tin Mừng. Còn về các vị có thế giá - lúc bấy giờ các vịấy có là gì đi nữa, điều đó không quan hệ đối với tôi: Thiên Chúa không thiên vị ai, c ác vị có thế giá ấy đã không đưa ra th êm điều gì cho tôi. dữ dù phải trải quanhiều gian nan cũng như phải chết nữa.",
+        noi_dung: "Đi, đi mãi, đi quyết liệt, đi không nhượng bộ; không ai tin người nhượng bộ cũng như không ai đi với người đi lùi. trong giây lát, để duy trì cho anh em chân lý của Tin Mừng. Còn về các vị có thế giá - lúc bấy giờ các vị ấy có là gì đi nữa, điều đó không quan hệ đối với tôi: Thiên Chúa không thiên vị ai, c ác vị có thế giá ấy đã không đưa ra thêm điều gì cho tôi. dữ dù phải trải qua nhiều gian nan cũng như phải chết nữa.",
         chuong: 1,
         loi_chua: [
             "Gl 2,5-6: Nhưng với những người ấy, chúng tôi đã không chịu nhượng bộ, dù chỉ",
@@ -179,7 +179,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 14,
-        noi_dung: "Ba phải? Đi đường nào được? Chẳng lẽ có: Ba Chúa? Ba Hội Thánh? Ba luân lý? Ba lương tâm? Phải chi ng ươi lạnh h ẳn hay nóng h ẳn đi! Nhưng vì ng ươi h âm h ẩm chẳng nóng chẳng lạnh, nên Ta sắp mửa ngươi ra khỏi miệng Ta.",
+        noi_dung: "Ba phải? Đi đường nào được? Chẳng lẽ có: Ba Chúa? Ba Hội Thánh? Ba luân lý? Ba lương tâm? Phải chi ngươi lạnh h ẳn hay nóng h ẳn đi! Nhưng vì ngươi hâm hẩm chẳng nóng chẳng lạnh, nên Ta sắp mửa ngươi ra khỏi miệng Ta.",
         chuong: 1,
         loi_chua: [
             "Kh 3,15-16: Ta biết các việc ngươi làm: ngươi chẳng lạnh mà cũng chẳng nóng.",
@@ -195,7 +195,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 16,
-        noi_dung: "Thà mất tiền của, chức tước, thà mất mạng sống để giữ lý tưởng, danh dự, đức tin, con chấp nhận. Nhưng không bao giờ con chấp nhận đổi ngược lại: lỗ lã quá! thiệt thòi. Hơn nữa, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Kitô Giêsu, Chúa của tôi. Vì Người, tôi đành mất hết, và tôi coi tất cảnhư rác, để được Đức Kitô. chuyên lo làm đẹp lòng Thiên Chúa hơn làm đẹp lòng người ta. H ọ luôn sẵn sàng từ bỏ mọi sự vì Chúa Kitô (x. Lc 14,26), và chịu bách hại vì sự công chính (x. Mt 5,10) vì nhớ lời Chúa: Nếu ai muốn theo Ta, phải từ bỏ mình, vác thập giá mình mà theo Ta (Mt 16,24). Bổn phận là giấy vào Nước Trời",
+        noi_dung: "Thà mất tiền của, chức tước, thà mất mạng sống để giữ lý tưởng, danh dự, đức tin, con chấp nhận. Nhưng không bao giờ con chấp nhận đổi ngược lại: lỗ lã quá! thiệt thòi. Hơn nữa, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Kitô Giêsu, Chúa của tôi. Vì Người, tôi đành mất hết, và tôi coi tất cả như rác, để được Đức Kitô. chuyên lo làm đẹp lòng Thiên Chúa hơn làm đẹp lòng người ta. Họ luôn sẵn sàng từ bỏ mọi sự vì Chúa Kitô (x. Lc 14,26), và chịu bách hại vì sự công chính (x. Mt 5,10) vì nhớ lời Chúa: Nếu ai muốn theo Ta, phải từ bỏ mình, vác thập giá mình mà theo Ta (Mt 16,24). Bổn phận là giấy vào Nước Trời",
         chuong: 1,
         loi_chua: [
             "Pl 3,7-8: Nhưng, những gì xưa kia tôi cho là có lợi, thì nay, vì Đức Kitô, tôi cho là",
@@ -245,7 +245,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 20,
-        noi_dung: "Nếu ai cũng thánh hoá trong bổn phận thì tâm hồn mới, gia đình mới, thế giới mới. liên tục làm cho tr ật tự trần th êm tốt đẹp. … Giáo d ân phải đảm nhận việc canh tân trật tự trần thế như là nhiệm vụ riêng, và trong nhi ệm vụ đó, được hướng dẫn nhờ ánh sáng Phúc âm và theo tinh thần của Giáo hội, với bácái Kitô giáo thúc đẩy, họ phải trực tiếp và cương quyết hành động.",
+        noi_dung: "Nếu ai cũng thánh hoá trong bổn phận thì tâm hồn mới, gia đình mới, thế giới mới. liên tục làm cho tr ật tự trần thêm tốt đẹp. … Giáo d ân phải đảm nhận việc canh tân trật tự trần thế như là nhiệm vụ riêng, và trong nhi ệm vụ đó, được hướng dẫn nhờ ánh sáng Phúc âm và theo tinh thần của Giáo hội, với bác ái Kitô giáo thúc đẩy, họ phải trực tiếp và cương quyết hành động.",
         chuong: 2,
         loi_chua: [
             "TĐ  1ac: Ý định của Thiên Chúa về thế giới là loài người đồng tâm canh t ân và",
@@ -348,7 +348,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Chính sự chết cũng là một bổn phận cuối cùng mà con làm cách sẵn sàng và đầy yêu mến. không ai chết cho chính mình. Chúng ta có sống là sống cho Chúa, mà có chết cũng là chết cho Chúa. Vậy, dù sống, dù chết, chúng ta vẫn thuộc về Chúa.",
         chuong: 2,
         loi_chua: [
-            "Rm 14,7 -8: Thật vậy, không ai trong ch úng ta sống cho chính mình, cũng như",
+            "Rm 14,7 -8: Thật vậy, không ai trong chúng ta sống cho chính mình, cũng như",
         ],
         tham_chieu: [
             "Lc 23,46; Cv 7,59-60; 1Pr 4,19; Kh 14,13",
@@ -361,7 +361,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 34,
-        noi_dung: "Vì thương thuyết đòi điều kiện trong bổn phận, vì không theo ý Chúa, vì theo ý Chúa có giới hạn mà tâm hồn con khắc khoải, bất an. hậu và khiêm nhường. Tâm hồn anh em sẽ được nghỉ ngơi bồi dưỡng.",
+        noi_dung: "Vì thương thuyết đòi điều kiện trong bổn phận, vì không theo ý Chúa, vì theo ý Chúa có giới hạn mà tâm hồn con khắc khoải, bấtan. hậu và khiêm nhường. Tâm hồn anh em sẽ được nghỉ ngơi bồi dưỡng.",
         chuong: 2,
         loi_chua: [
             "Mt 11,29: Anh em hãy mang lấy ách của tôi, và hãy học với tôi, vì tôi có lòng hiền",
@@ -383,7 +383,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Vấn đề rất đơn giản: trước khi hành động con nghĩ: Chúa muốn con làm gì? Hãy thực hiện ý Chúa! nguyện và kêu xin Thiên Chúa cho anh em được am tường thánh ý Người, với tất cả sự khôn ngoan v à hiểu biết mà Thần Khí ban cho. Như vậy, anh em sẽ sống được như Chúa đòi hỏi, và làm đẹp lòng Người về mọi phương diện, sẽ sinh hoa trái là mọi thứ việc lành, và mỗi ngày một hiểu biết Thiên Chúa hơn. nhận ra Chúa trong mọi sự và mọi lúc, vì trong Ngài ta sống, ta hoạt động, ta hiện hữu (Cv 17,28). Tìm ý Chúa trong mọi biến cố, thấy Chúa Kitô trong mọi người, dù là người thân hay kẻ lạ, phê phán đúng đắn về ý nghĩa đích thực và giá trị của sự vật trần thế, xét nơi chính nó v à xét theo tương quan với cứu cánh của con người.",
         chuong: 2,
         loi_chua: [
-            "Cl 1,9 -10: T ừ ngày chúng t ôi nghe bi ết…, ch úng t ôi cũng không ng ừng cầu",
+            "Cl 1,9 -10: T ừ ngày chúng t ôi nghe biết…, chúng t ôi cũng không ng ừng cầu",
             "TĐ  4c: Chỉ nhờ ánh sáng đức tin và nhờ suy niệm Lời Chúa, mỗi người mới có thể",
         ],
         tham_chieu: [
@@ -435,7 +435,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Đừng nản lòng vì thất bại. Nếu con tìm ý Chúa thực sự, thì chính sự thất bại đó là thành công. Chúa muốn vậy. Xem gương Chúa Giêsu trên thánh giá. của Thiên Chúa: gian nan, khốn qu ẫn, lo âu, đòn v ọt, t ù tội, loạn ly, nhọc nhằn, vất vả, mất ăn mất ngủ, chúng tôi đều rất mực kiên trì chịu đựng. Chúng tôi còn chứng tỏ điều đó bằng cách ănở trong sạch, khôn khéo, nhẫn nhục, nhân hậu, bằng một tinh thần thánh thiện, một tình thương không giả dối, bằng lời chân lý, bằng sức mạnh của Thiên Chúa. Chúng tôi lấy sự công chính làm vũ khí tấn công và tự vệ. thôi nhưng còn có thể thấu triệt thực tại siêu hình một cách thực sự chắc chắn, cho dù trí tuệ phần nào đã bị mờ tối và suy nhược do hậu quả của tội lỗi… Nhờ hồng ân của Chúa Thánh Thần, con người, qua đức tin, tiến tới sự chi êm ngưỡng và nếm hưởng mầu nhiệm thánh ý Thiên Chúa.",
         chuong: 3,
         loi_chua: [
-            "2Cr 6,4-7: Trong mọi sự, ch úng tôi luôn chứng tỏ mình là những thừa tác viên",
+            "2Cr 6,4-7: Trong mọi sự, chúng tôi luôn chứng tỏ mình là những thừa tác viên",
             "MV 15ad: Trí khôn con người không hẳn chỉ giới hạn trong những hiện tượng mà",
         ],
         tham_chieu: [
@@ -461,7 +461,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 44,
-        noi_dung: "Đường Hy vọng dài thăm thẳm. Con đừng làm Thánh lâm thời: phong ba d ồn dập, nước sơn sẽ phai nhạt và tượng thánh sẽ hiện hình quỷ. tin. Hai ông nói: Chúng ta phải chịu nhi ều gian khổ mới được v ào N ước Thiên Chúa. sống sự thánh thiện mà họ đã lãnh nhận. Họ được thánh Tông đồ khuyên sống xứng đáng như những vị thánh (Ep 5,3) v à mặc lấy lòng thương xót, nhân hậu, khiêm nhượng, tiết độ và nhẫn nại như những người đã được Thiên Chúa chọn l ựa, thánh ho á v à yêu thương (Cl  3,12), v à dùng hoa trái của Thánh Thần để thánh hoá mình (x. Gl 5,22; Rm 6,22). Nhưng vì ch úng ta ai cũng có nhiều lầm lỗi (x. Gc 3,2), n ên chúng ta lu ôn cần đến lòng nhân từ của Thiên Chúa và hằng ngày phải cầu nguyện xin Chúa tha nợ chúng tôi (Mt 6,12).",
+        noi_dung: "Đường Hy vọng dài thăm thẳm. Con đừng làm Thánh lâm thời: phong ba d ồn dập, nước sơn sẽ phai nhạt và tượng thánh sẽ hiện hình quỷ. tin. Hai ông nói: Chúng ta phải chịu nhi ều gian khổ mới được v ào N ước Thiên Chúa. sống sự thánh thiện mà họ đã lãnh nhận. Họ được thánh Tông đồ khuyên sống xứng đáng như những vị thánh (Ep 5,3) v à mặc lấy lòng thương xót, nhân hậu, khiêm nhượng, tiết độ và nhẫn nại như những người đã được Thiên Chúa chọn l ựa, thánh ho á v à yêu thương (Cl  3,12), v à dùng hoa trái của Thánh Thần để thánh hoá mình (x. Gl 5,22; Rm 6,22). Nhưng vì chúng ta ai cũng có nhiều lầm lỗi (x. Gc 3,2), n ên chúng ta lu ôn cần đến lòng nhân từ của Thiên Chúa và hằng ngày phải cầu nguyện xin Chúa tha nợ chúng tôi (Mt 6,12).",
         chuong: 3,
         loi_chua: [
             "Cv 14,22: Hai ông củng cố tinh thần các môn đệ, và khuyên nhủ họ giữ vững đức",
@@ -514,7 +514,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Dù mọi người bỏ dở hành trình, con c ứ tiến. Quần chúng dễ bị lôi cuốn thì đông đảo, lãnh đạo sáng suốt lại hiếm hoi. Con phải có bản lãnh, đừng theo quần chúng mù quáng. đến với ai? Thầy mới có những lời đem lại sự sống đời đời.",
         chuong: 3,
         loi_chua: [
-            "Ga 6,68: Ông Si-môn Phê-rô nói: – Thưa Thầy, bỏ Thầy thì ch úng con bi ết",
+            "Ga 6,68: Ông Si-môn Phê-rô nói: – Thưa Thầy, bỏ Thầy thì chúng con biết",
         ],
         tham_chieu: [
             "2Tm 4,3-5",
@@ -568,7 +568,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 56,
-        noi_dung: "Mỗi ngày con phải bớt tự ái mà thêm bácái. Mỗi ngày hãy bớt tự tín mà thêm tin Chúa.",
+        noi_dung: "Mỗi ngày con phải bớt tự ái mà thêm bác ái. Mỗi ngày hãy bớt tự tín mà thêm tin Chúa.",
         chuong: 3,
     },
     {
@@ -578,7 +578,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 58,
-        noi_dung: "Con cứ than thở: Tôi mà được ở chỗ này, được cộng tác với người kia, được nắm chức vụ nọ, chắc tôi thành công rực rỡ. Làm việc Chúa giao cho, conở nơi Chúa đặt con, con sẽ đi thẳng! Chạy lăng xăng không đến đích đâu! phận không có cùng một chức năng, thì ch úng ta cũng vậy: tuy nhi ều nhưng chỉ là một thân thể trong Đức Kitô, mỗi người liên đới với những người khác như những bộ phận của một thân thể.",
+        noi_dung: "Con cứ than thở: Tôi mà được ở chỗ này, được cộng tác với người kia, được nắm chức vụ nọ, chắc tôi thành công rực rỡ. Làm việc Chúa giao cho, conở nơi Chúa đặt con, con sẽ đi thẳng! Chạy lăng xăng không đến đích đâu! phận không có cùng một chức năng, thì chúng ta cũng vậy: tuy nhi ều nhưng chỉ là một thân thể trong Đức Kitô, mỗi người liên đới với những người khác như những bộ phận của một thân thể.",
         chuong: 3,
         loi_chua: [
             "Rm 12,4-5: Cũng như trong một thân thể, chúng ta có nhiều bộ phận, mà các bộ",
@@ -599,7 +599,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 61,
-        noi_dung: "Hãy theo Ta (Mt 9,9)! C ác Tông đồ đã bỏ mọi sự theo Chúa, con có dứt khoát một phen theo Chúa không? Chúa phải gọi con mấy lần rồi? họ.",
+        noi_dung: "Hãy theo Ta (Mt 9,9)! Các Tông đồ đã bỏ mọi sự theo Chúa, con có dứt khoát một phen theo Chúa không? Chúa phải gọi con mấy lần rồi? họ.",
         chuong: 3,
         loi_chua: [
             "Mt 8,22: Đức Giêsu bảo: Anh hãy đi theo t ôi, cứ để kẻ chết chôn kẻ chết của",
@@ -633,7 +633,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 64,
-        noi_dung: "Hãy đi rao giảng Phúc Âm… (Mc 16,15), Chúa cần những người cảm tử để đảm nhận một sứ mạng cao cảnhư thế. Hai ng àn năm lịch sử Hội Thánh cho ta thấy, giai đoạn nào cũng không thiếu cảm tử, từ mọi tầng lớp giáo dân. tim tôi? Phần tôi, tôi sẵn sàng không những để cho người ta trói, mà còn chịu chết tại Giê-ru-sa-lem vì danh Chúa Giêsu. đáp ứng hành động của Chúa Quan Ph òng: chính Người ban những ơn thích hợp cho những ai được Người tuyển chọn để tham dự chức Linh mục phẩm trật của Chúa Kitô v à Người giúp đỡ h ọ bằng ân sủng Người, đồng thời còn ủy nhiệm cho các thừa tác viên hợp pháp của Giáo hội quyền được gọi những ứng sinh mà các Ngài nhận thấy có đủ khả năng, đã được thử thách, có ý ngay lành và hoàn toàn tự do xin thi hành chức vụ cao cả này; các Ngài còn được quyền thánh hiến họ bằng ấn tích Chúa Thánh Thần để họ phụng thờ Thiên Chúa và phục vụ Giáo hội.",
+        noi_dung: "Hãy đi rao giảng Phúc Âm… (Mc 16,15), Chúa cần những người cảm tử để đảm nhận một sứ mạng cao cả như thế. Hai ng àn năm lịch sử Hội Thánh cho ta thấy, giai đoạn nào cũng không thiếu cảm tử, từ mọi tầng lớp giáo dân. tim tôi? Phần tôi, tôi sẵn sàng không những để cho người ta trói, mà còn chịu chết tại Giê-ru-sa-lem vì danh Chúa Giêsu. đáp ứng hành động của Chúa Quan Ph òng: chính Người ban những ơn thích hợp cho những ai được Người tuyển chọn để tham dự chức Linh mục phẩm trật của Chúa Kitô v à Người giúp đỡ h ọ bằng ân sủng Người, đồng thời còn ủy nhiệm cho các thừa tác viên hợp pháp của Giáo hội quyền được gọi những ứng sinh mà các Ngài nhận thấy có đủ khả năng, đã được thử thách, có ý ngay lành và hoàn toàn tự do xin thi hành chức vụ cao cả này; các Ngài còn được quyền thánh hiến họ bằng ấn tích Chúa Thánh Thần để họ phụng thờ Thiên Chúa và phục vụ Giáo hội.",
         chuong: 3,
         loi_chua: [
             "Cv 21,13: Ông Phao-lô nói: – Có gì mà anh em phải khóc và làm tan nát trái",
@@ -646,7 +646,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 65,
-        noi_dung: "Có những người suốt đời chỉ nhờ thiên hạ quyết định giùm. Con có thuộc vào hạng đó không? phụ nữ: Không còn phải vì lời chị kể m à ch úng t ôi tin. Quả thật, chính chúng tôi đã nghe và biết rằng Người thật là Đấng cứu độ trần gian.",
+        noi_dung: "Có những người suốt đời chỉ nhờ thiên hạ quyết định giùm. Con có thuộc vào hạng đó không? phụ nữ: Không còn phải vì lời chị kể m à chúng t ôi tin. Quả thật, chính chúng tôi đã nghe và biết rằng Người thật là Đấng cứu độ trần gian.",
         chuong: 3,
         loi_chua: [
             "Ga 4,41-42: Số người tin vì lời Đức Giêsu nói còn đông hơn nữa. Họ bảo người",
@@ -683,7 +683,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 70,
-        noi_dung: "Này chúng con đã bỏ mọi sự mà theo Thầy, chúng con sẽ được gì? (Mt 19,27). Con bỏ tất cảnhưng theo Chúa Quan Phòng, con còn lo gì? danh Thầy, thì sẽ được gấp bội và còn được sự sống vĩnh cửu làm gia nghiệp.",
+        noi_dung: "Này chúng con đã bỏ mọi sự mà theo Thầy, chúng con sẽ được gì? (Mt 19,27). Con bỏ tất cả nhưng theo Chúa Quan Phòng, con còn lo gì? danh Thầy, thì sẽ được gấp bội và còn được sự sống vĩnh cửu làm gia nghiệp.",
         chuong: 3,
         loi_chua: [
             "Mt 19,29: Phàm ai bỏ nhà cửa, anh em, chị em, cha mẹ, con cái hay ruộng đất, vì",
@@ -697,7 +697,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Con đừng lấy làm lạ, lúc theo Chúa con nghe tiếng gọi của khoái lạc, của danh vọng, của cả bạn thân, cha mẹ, quyến rũ con bỏ đường Chúa. Cứ tiến lên, Chúa đã nói trước: Ai cầm cầy còn ngoảnh mặt lui, không đáng vào Nước Thiên Chúa (Lc 9,62). quanh, chúng ta h ãy cởi bỏ mọi gánh nặng và tội lỗi đang trói buộc mình, v à hãy kiên trì chạy trong cuộc đua dành cho ta.",
         chuong: 3,
         loi_chua: [
-            "Dt 12,1: Ph ần ch úng ta, được ngần ấy nhân chứng đức tin như đám m ây bao",
+            "Dt 12,1: Ph ần chúng ta, được ngần ấy nhân chứng đức tin như đám m ây bao",
         ],
     },
     {
@@ -729,7 +729,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 3,
         loi_chua: [
             "Cv 5,42: Mỗi ngày, trong Đ ền Thờ và tại tư gia, các ông không ngừng giảng dạy",
-            "LM 4a: C ác linh mục, vì là cộng sự viên của các Giám mục, n ên trước tiên có",
+            "LM 4a: Các linh mục, vì là cộng sự viên của các Giám mục, n ên trước tiên có",
         ],
         tham_chieu: [
             "1Cr 1,17; Ep 6,14-17",
@@ -803,7 +803,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 83,
-        noi_dung: "Nếu mỗi năm con quyết tập một nhân đức, hằng ngày con rèn luyện một ít, đến nay con đã khá trọn lành. lòng tin thì có thêm đức độ, có đức độ lại thêm hiểu biết, có hiểu biết lại thêm tiết độ, có tiết độ lại thêm kiên nhẫn, có kiên nhẫn lại thêm đạo đức, có đạo đức lại thêm tình huynh đệ, có tình huynh đệ lại thêm bácái.",
+        noi_dung: "Nếu mỗi năm con quyết tập một nhân đức, hằng ngày con rèn luyện một ít, đến nay con đã khá trọn lành. lòng tin thì có thêm đức độ, có đức độ lại thêm hiểu biết, có hiểu biết lại thêm tiết độ, có tiết độ lại thêm kiên nhẫn, có kiên nhẫn lại thêm đạo đức, có đạo đức lại thêm tình huynh đệ, có tình huynh đệ lại thêm bác ái.",
         chuong: 5,
         loi_chua: [
             "2Pr 1,5-7: Chính vì thế, anh em h ãy đem tất cảnhiệt tình, làm sao để khi đã có",
@@ -811,7 +811,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 84,
-        noi_dung: "Thủy thủ lặn đáy biển, phi hành gia bay trên không gian để dấn thân mạo hiểm vì khoa học. Ngày nào con bỏ tất cả và bất cứ giây phút nào cũng sẵn sàng liều mình vì Chúa, người ta mới tin đời nội tâm con. Thiên Chúa. T ôi cùng chịu đóng đinh với Đức Kitô v ào thập gi á. T ôi sống, nhưng không còn phải là tôi, mà là Đức Kitô sống trong tôi. Thiên Chúa trên hết mọi sự, vì Người đã yêu ch úng ta trước (x. 1Ga 4,10); trong mọi hoàn cảnh, phải cố gắng phát triển đời sống ẩn dật cùng Chúa Kitô trong Thiên Chúa (x. Cl 3,3), vì đó là nguồn mạch và động lực phát sinh tình yêu thanhân nhằm cứu rỗi nhân loại và xây dựng Giáo hội. Cũng chính đức mến này làm linh động, điều khiển việc thực hành các lời khuyên Phúc âm.",
+        noi_dung: "Thủy thủ lặn đáy biển, phi hành gia bay trên không gian để dấn thân mạo hiểm vì khoa học. Ngày nào con bỏ tất cả và bất cứ giây phút nào cũng sẵn sàng liều mình vì Chúa, người ta mới tin đời nội tâm con. Thiên Chúa. T ôi cùng chịu đóng đinh với Đức Kitô v ào thập gi á. T ôi sống, nhưng không còn phải là tôi, mà là Đức Kitô sống trong tôi. Thiên Chúa trên hết mọi sự, vì Người đã yêu chúng ta trước (x. 1Ga 4,10); trong mọi hoàn cảnh, phải cố gắng phát triển đời sống ẩn dật cùng Chúa Kitô trong Thiên Chúa (x. Cl 3,3), vì đó là nguồn mạch và động lực phát sinh tình yêu thanhân nhằm cứu rỗi nhân loại và xây dựng Giáo hội. Cũng chính đức mến này làm linh động, điều khiển việc thực hành các lời khuyên Phúc âm.",
         chuong: 5,
         loi_chua: [
             "Gl 2,19-20a: Quả thế, tại vì Lề Luật mà tôi đã chết đối với Lề Luật, để sống cho",
@@ -859,7 +859,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Con hăng say phụng sự Chúa, rất tốt! Nhưng lòng sốt sắng không đi đôi với sự canh tân tâm hồn thì không đẹp ý Chúa. thập phân về bạc hà, vân hương, và đủ thứ rau cỏ, mà xao lãng lẽ công bình và lòng yêu mến Thiên Chúa. Các điều này phải làm, mà các điều kia cũng không được bỏ.",
         chuong: 5,
         loi_chua: [
-            "Lc 11,42: Khốn cho c ác người, h ỡi c ác người Pha -ri-sêu! C ác người n ộp thu ế",
+            "Lc 11,42: Khốn cho c ác người, h ỡi c ác người Pha -ri-sêu! Các người n ộp thu ế",
         ],
         tham_chieu: [
             "Lc 18,11-12.14",
@@ -956,7 +956,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 100,
-        noi_dung: "Con không hiểu tại sao thánh Augustinô cầu nguyện: Xin cho con bi ết Chúa, cho con biết con! Vì Chúa nói với Philipphê: Đã bao l âu rồi, Ta ở với các ngươi! Thế mà, Philipphê, ngươi đã không biết Ta sao? (Ga 14,9). Nếu biết thật, đời con sẽ đổi hẳn. nguyện và kêu xin Thiên Chúa cho anh em được am tường thánh ý Người, với tất cả sự khôn ngoan v à hiểu biết mà Thần Khí ban cho. Như vậy, anh em sẽ sống được như Chúa đòi hỏi, và làm đẹp lòng Người về mọi phương diện, sẽ sinh hoa trái là mọi thứ việc lành, và mỗi ngày một hiểu biết Thiên Chúa hơn.",
+        noi_dung: "Con không hiểu tại sao thánh Augustinô cầu nguyện: Xin cho con biết Chúa, cho con biết con! Vì Chúa nói với Philipphê: Đã bao l âu rồi, Ta ở với các ngươi! Thế mà, Philipphê, ngươi đã không biết Ta sao? (Ga 14,9). Nếu biết thật, đời con sẽ đổi hẳn. nguyện và kêu xin Thiên Chúa cho anh em được am tường thánh ý Người, với tất cả sự khôn ngoan v à hiểu biết mà Thần Khí ban cho. Như vậy, anh em sẽ sống được như Chúa đòi hỏi, và làm đẹp lòng Người về mọi phương diện, sẽ sinh hoa trái là mọi thứ việc lành, và mỗi ngày một hiểu biết Thiên Chúa hơn.",
         chuong: 5,
         loi_chua: [
             "Cl 1,9-10: Từ ngày chúng tôi nghe biết như vậy, chúng tôi cũng không ngừng cầu",
@@ -1021,7 +1021,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 107,
-        noi_dung: "Thánh giá là sự dại dột đối với người Do thái, là cớ vấp phạm đối với người Hy lạp. Nhưng phần chúng ta, chúng ta phải hãnh diện vì thánh giá Chúa. người Hy -lạp tìm ki ếm lẽ khôn ngoan, thì ch úng tôi lại rao giảng một Đấng Kitô bịđóng đinh, điều mà người Do-thái coi là ô nhục không thể chấp nhận, và dân ngoại cho là điên rồ. Nhưng đối với những ai được Thiên Chúa kêu gọi, dù là Do-thái hay Hy -lạp, Đấng ấy chính là Đức Kitô, sức mạnh và sự khôn ngoan của Thiên Chúa",
+        noi_dung: "Thánh giá là sự dại dột đối với người Do thái, là cớ vấp phạm đối với người Hy lạp. Nhưng phần chúng ta, chúng ta phải hãnh diện vì thánh giá Chúa. người Hy -lạp tìm ki ếm lẽ khôn ngoan, thì chúng tôi lại rao giảng một Đấng Kitô bịđóng đinh, điều mà người Do-thái coi là ô nhục không thể chấp nhận, và dân ngoại cho là điên rồ. Nhưng đối với những ai được Thiên Chúa kêu gọi, dù là Do-thái hay Hy -lạp, Đấng ấy chính là Đức Kitô, sức mạnh và sự khôn ngoan của Thiên Chúa",
         chuong: 6,
         loi_chua: [
             "1Cr 1,22 -24: Trong khi người Do -thái đòi hỏi những điềm thiêng dấu lạ, còn",
@@ -1037,10 +1037,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 109,
-        noi_dung: "Đừng nói tôi làm theo lương tâm. Còn lương tâm không mà theo? bóng tối, thì chúng ta nói dối và không hành động theo sự thật… N ếu chúng ta nói là ch úng ta không có tội, ch úng ta tự lừa d ối mình, v à sự thật không ở trong chúng ta. thế mà mất hết phẩm giá. Nhưng không thể nói như vậy khi con người ít lo lắng tìm điều chân và điều thiện cũng như khi vì th ói quen phạm tội mà lương tâm dần dần trở nên mù quáng.",
+        noi_dung: "Đừng nói tôi làm theo lương tâm. Còn lương tâm không mà theo? bóng tối, thì chúng ta nói dối và không hành động theo sự thật… N ếu chúng ta nói là chúng ta không có tội, chúng ta tự lừa d ối mình, v à sự thật không ở trong chúng ta. thế mà mất hết phẩm giá. Nhưng không thể nói như vậy khi con người ít lo lắng tìm điều chân và điều thiện cũng như khi vì th ói quen phạm tội mà lương tâm dần dần trở nên mù quáng.",
         chuong: 6,
         loi_chua: [
-            "1Ga 1,6.8: N ếu chúng ta nói là ch úng ta hiệp thông với Người mà lại đi trong",
+            "1Ga 1,6.8: N ếu chúng ta nói là chúng ta hiệp thông với Người mà lại đi trong",
             "MV 16: Lương tâm nhiều khi lầm lạc vì vô tri bất khả thắng, nhưng cũng không vì",
         ],
         tham_chieu: [
@@ -1049,7 +1049,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 110,
-        noi_dung: "Khó nghèo, vâng phục, hãm mình, nhịn nhục, bácái, tha thứ, khiêm tốn đều là dại trước mặt người đời, nhưng cao trọng trước mặt Chúa. Thế gian cho là xui, Chúa cho là phúc thật.",
+        noi_dung: "Khó nghèo, vâng phục, hãm mình, nhịn nhục, bác ái, tha thứ, khiêm tốn đều là dại trước mặt người đời, nhưng cao trọng trước mặt Chúa. Thế gian cho là xui, Chúa cho là phúc thật.",
         chuong: 6,
     },
     {
@@ -1081,7 +1081,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 114,
-        noi_dung: "Nếu không có sự phục sinh thì người công giáo là hạng người vô phúc nhất trần gian. trống rỗng, và cả đức tin của anh em cũng trống rỗng… N ếu chúng ta đặt hy vọng v ào Đức Kitô chỉ vì đời n ày m à th ôi, thì ch úng ta là những kẻ đáng thương hơn hết mọi người.",
+        noi_dung: "Nếu không có sự phục sinh thì người công giáo là hạng người vô phúc nhất trần gian. trống rỗng, và cả đức tin của anh em cũng trống rỗng… N ếu chúng ta đặt hy vọng v ào Đức Kitô chỉ vì đời n ày m à th ôi, thì chúng ta là những kẻ đáng thương hơn hết mọi người.",
         chuong: 6,
         loi_chua: [
             "1Cr 15,14.19: Mà nếu Đức Kitô đã không trỗi dậy, thì lời rao giảng của chúng tôi",
@@ -1092,7 +1092,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 115,
-        noi_dung: "Trong lúc con tuyên bố: Vì Chúa, vì H ội Thánh, con hãy thinh lặng trước mặt Chúa và thành thật hỏi Chúa: Chúa thấy con hành động hoàn toàn vì Chúa không? Hay Chúa là lý do thứ yếu, còn lý do khác mạnh hơn, con không tiện nói. cho chính mình. Ch úng ta có sống là sống cho Chúa, mà có chết cũng là chết cho Chúa. Vậy, dù sống, dù chết, chúng ta vẫn thuộc về Chúa. Chúa Kitô là Đ ầu. Họ được chính Chúa chỉđịnh làm việc tông đồ, vì phép Rửa tội sát nhập họ v ào Nhiệm Thể Chúa Kitô, phép Thêm sức làm cho họ thêm mạnh m ẽ nhờ quy ền n ăng của Chúa Thánh Thần. H ọ được thánh hi ến v ào chức vụ tư tế vương giả và dân tộc thánh (x. 1Pr 2,2-10), hầu trong mọi việc họ dâng những lễ vật thiêng liêng v à làm chứng cho Chúa Kitô ở mọi nơi trên hoàn cầu. Đà ng kh ác, đứcái như là linh hồn của tất cả việc t ông đồ, được chuyển thông và nuôi dưỡng nhờ các bí tích nhất là bí tích Thánh Thể.",
+        noi_dung: "Trong lúc con tuyên bố: Vì Chúa, vì H ội Thánh, con hãy thinh lặng trước mặt Chúa và thành thật hỏi Chúa: Chúa thấy con hành động hoàn toàn vì Chúa không? Hay Chúa là lý do thứ yếu, còn lý do khác mạnh hơn, con không tiện nói. cho chính mình. Ch úng ta có sống là sống cho Chúa, mà có chết cũng là chết cho Chúa. Vậy, dù sống, dù chết, chúng ta vẫn thuộc về Chúa. Chúa Kitô là Đ ầu. Họ được chính Chúa chỉđịnh làm việc tông đồ, vì phép Rửa tội sát nhập họ v ào Nhiệm Thể Chúa Kitô, phép Thêm sức làm cho họ thêm mạnh m ẽ nhờ quy ền n ăng của Chúa Thánh Thần. Họ được thánh hi ến v ào chức vụ tư tế vương giả và dân tộc thánh (x. 1Pr 2,2-10), hầu trong mọi việc họ dâng những lễ vật thiêng liêng v à làm chứng cho Chúa Kitô ở mọi nơi trên hoàn cầu. Đà ng kh ác, đứcái như là linh hồn của tất cả việc t ông đồ, được chuyển thông và nuôi dưỡng nhờ các bí tích nhất là bí tích Thánh Thể.",
         chuong: 6,
         loi_chua: [
             "Rm 14,7-8: Không ai trong chúng ta sống cho chính mình, cũng như không ai chết",
@@ -1155,7 +1155,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Bí quyết nuôi dưỡng đời sống Kitô hữu là cầu nguyện. Ai không cầu nguyện, dù có làm phép lạ, con cũng đừng tin. thông với nhau, siêng năng tham dự lễ bẻ bánh, và cầu nguyện không ngừng.",
         chuong: 7,
         loi_chua: [
-            "Cv 2,42: C ác tín h ữu chuyên cần nghe c ác Tông Đ ồ giảng dạy, lu ôn luôn hiệp",
+            "Cv 2,42: Các tín h ữu chuyên cần nghe c ác Tông Đ ồ giảng dạy, lu ôn luôn hiệp",
         ],
     },
     {
@@ -1192,7 +1192,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 127,
-        noi_dung: "Chúa dạy đọc kinh để giúp con cầu nguyện, nhưng việc chính là gặp gỡ, nói chuyện giữa Cha v à con: C òn ngươi khi cầu nguyện thì h ãy vào buồng, khóa cửa lại mà cầu nguyện với Cha ng ươi, có mặt cả nơi kín ẩn; và Cha ngươi, Đấng thấu suốt cả nơi kín ẩn sẽ hoàn trả lại cho ngươi (Mt 6,6). Tuy cần hình thức, nhưng chính yếu vẫn là tâm tình phụ tử. thánh. B ởi vì người Kitô h ữu được m ời gọi cầu nguy ện chung, nhưng cũng phải vào phòng riêng âm thầm cầu nguyện cùng Chúa Cha, hơn nữa phải cầu nguyện không ngừng như lời vị Tông đồ đã dạy. Chính vị Tông đồ này còn dạy chúng ta phải mang trong mình sự khổ ch ế của Chúa Giêsu để sự sống của Người được phô diễn trong xác thể hay chết của chúng ta.",
+        noi_dung: "Chúa dạy đọc kinh để giúp con cầu nguyện, nhưng việc chính là gặp gỡ, nói chuyện giữa Cha v à con: C òn ngươi khi cầu nguyện thì h ãy vào buồng, khóa cửa lại mà cầu nguyện với Cha ngươi, có mặt cả nơi kín ẩn; và Cha ngươi, Đấng thấu suốt cả nơi kín ẩn sẽ hoàn trả lại cho ngươi (Mt 6,6). Tuy cần hình thức, nhưng chính yếu vẫn là tâm tình phụ tử. thánh. B ởi vì người Kitô h ữu được m ời gọi cầu nguy ện chung, nhưng cũng phải vào phòng riêng âm thầm cầu nguyện cùng Chúa Cha, hơn nữa phải cầu nguyện không ngừng như lời vị Tông đồ đã dạy. Chính vị Tông đồ này còn dạy chúng ta phải mang trong mình sự khổ ch ế của Chúa Giêsu để sự sống của Người được phô diễn trong xác thể hay chết của chúng ta.",
         chuong: 7,
         loi_chua: [
             "PV 12: Đời sống thiêng liêng không chỉ giới hạn trong việc tham d ự Phụng vụ",
@@ -1291,7 +1291,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Tinh thần cầu nguyện giống như một lò lửa nung đốt tâm hồn tông đồ của con. Muốn nuôi ngọn lửa ấy, con hãy nhen vào đó những thanh gỗ lớn của hy sinh, củanhững cuộc tĩnh tâm và cảnhững que củi nhỏ của lời nguyện tắt và hy sinh thầm kín. và bổ túc những gì còn thiếu trong đức tin của anh em. của mọi việc Tông đồ trong Giáo hội, nên hiển nhiên là kết qủa phong phú của việc tông đồ giáo dân tuỳ thuộc ở sự kết hiệp sống động của chính họ với Chúa Kitô, Đấng phán rằng: Ai ở trong Thầy và Thầy ở trong kẻ ấy, như vậy mới sinh được nhiều hoa trái vì ngoài Thầy ra chúng con chẳng làm gì được (Ga 15,5).",
         chuong: 7,
         loi_chua: [
-            "1Tx 3,10: Đêm ngày chúng tôi tha thi ết nài xin Chúa cho được thấy mặt anh em",
+            "1Tx 3,10: Đêm ngày chúng tôi tha thi ết nài xin Chúa cho được thấy mặtanh em",
             "TĐ  4a: Vì Chúa Kitô, Đấng được Chúa Cha sai đến, là nguồn mạch nguyên ủy",
         ],
         tham_chieu: [
@@ -1312,7 +1312,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 140,
-        noi_dung: "Con tội lỗi không dám ra t rước mặt Chúa, nhưng lời Hội thánh khiến con vững tâm: Nhờ Đức Kitô, Chúa chúng con. Tất cả công nghiệp của Chúa Giêsu, Đức Mẹ và các thánh không đủ bao bọc lời cầu nhỏ bé của con sao? những điều này, để anh em đừng phạm tội. Nhưng nếu ai phạm tội, thì chúng ta có một Đấng Bảo Trợ trước mặt Chúa Cha: đó là Đức Giêsu Kitô, Đấng Công Chính. Chính Đức Giêsu Kitô là của lễ đền bù tội lỗi chúng ta, không những tội lỗi chúng ta mà thôi, nhưng còn tội lỗi cả thế gian nữa. đưa chúng ta tới gần Chúa Kitô hơn, thì sự liên kết với các thánh cũnghiệp nhất chúng ta với Người, là Đ ầu và là Nguồn phát sinh mọi ân sủng và sự sống của chính D ân Thiên Chúa. Do đó, điều hết sức thích đáng là ch úng ta yêu mến các bạn hữu và các người đồng thừa tự của Chúa Kitô, cũng là anh em và ân nhân đặc biệt của chúng ta, cũng như chúng ta dâng lời cảm tạ Thiên Chúa vì các ngài và thành khẩn van n ài, chạy đến xin c ác ngài cầu nguyện và trợ lực, giúp đỡ, hầu Chúa Cha ban cho nhiều ơn lành, nhờ Chúa Giêsu Kitô, Con Chúa, Chúa chúng ta, Đấng Cứu chuộc và Giải thoát duy nhất của chúng ta.",
+        noi_dung: "Con tội lỗi không dám ra t rước mặt Chúa, nhưng lời Hội thánh khiến con vững tâm: Nhờ Đức Kitô, Chúa chúng con. Tất cả công nghiệp của Chúa Giêsu, Đức Mẹ và các thánh không đủ bao bọc lời cầu nhỏ bé của con sao? những điều này, để anh em đừng phạm tội. Nhưng nếu ai phạm tội, thì chúng ta có một Đấng Bảo Trợ trước mặt Chúa Cha: đó là Đức Giêsu Kitô, Đấng Công Chính. Chính Đức Giêsu Kitô là của lễ đền bù tội lỗi chúng ta, không những tội lỗi chúng ta mà thôi, nhưng còn tội lỗi cả thế gian nữa. đưa chúng ta tới gần Chúa Kitô hơn, thì sự liên kết với các thánh cũnghiệp nhất chúng ta với Người, là Đ ầu và là Nguồn phát sinh mọi ân sủng và sự sống của chính D ân Thiên Chúa. Do đó, điều hết sức thích đáng là chúng ta yêu mến các bạn hữu và các người đồng thừa tự của Chúa Kitô, cũng là anh em và ân nhân đặc biệt của chúng ta, cũng như chúng ta dâng lời cảm tạ Thiên Chúa vì các ngài và thành khẩn van n ài, chạy đến xin c ác ngài cầu nguyện và trợ lực, giúp đỡ, hầu Chúa Cha ban cho nhiều ơn lành, nhờ Chúa Giêsu Kitô, Con Chúa, Chúa chúng ta, Đấng Cứu chuộc và Giải thoát duy nhất của chúng ta.",
         chuong: 7,
         loi_chua: [
             "1Ga 2,1-2: Hỡi anh em là những người con b é nhỏ của tôi, tôi viết cho anh em",
@@ -1339,7 +1339,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Giờ cầu nguyện là giờ tâm sự với Chúa là Cha, ch ứ không phải là giờ làm bài, là giờ của quả tim, chứ không phải là giờ của luân lý. Đừng nặnóc bóp trán để trình bày với Chúa. chúng ta không biết cầu nguyện thế nào cho phải; nhưng chính Thần Khí cầu thay nguyện giúp chúng ta, bằng những tiếng rên siết khôn tả.",
         chuong: 7,
         loi_chua: [
-            "Rm 8,26: H ơn nữa, lại có Thần Khí giúp đỡ ch úng ta là những kẻ yếu hèn, vì",
+            "Rm 8,26: H ơn nữa, lại có Thần Khí giúp đỡ chúng ta là những kẻ yếu hèn, vì",
         ],
     },
     {
@@ -1365,7 +1365,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 146,
-        noi_dung: "Đ ặc bi ệt với t âm hồn toàn hi ến, đáng lẽ trong lý l ịch phải khai: Người nghiệp: cầu nguyện. C ác nghề kh ác thế gian đều làm cả. Thế gian đòi hỏi con giữ đại lý cầu nguyện và nài xin con: Cầu nguyện cho tôi. Chúa. cầu nguy ện, m úc l ấy nơi ngu ồn m ạch đích thực của nền tu đức Kitô giáo. Trước hết, hằng ngày phải có quyển Thánh Kinh trong tay, để nhờ đọc và suy gẫm m à học được những kiến th ức si êu việt về Chúa Giêsu Kitô (Pl 3,8). Phải theo tinh thần của Giáo hội mà đem hết tâm hồn, miệng lưỡi chu toàn các Lễ nghi Phụng vụ, nhất là Mầu nhiệm Thánh Thể, lại phải nuôi dưỡng đời sống tu đức bằng nguồn mạch phong phú ấy.",
+        noi_dung: "Đ ặc bi ệt với t âm hồn toàn hi ến, đáng lẽ trong lý l ịch phải khai: Người nghiệp: cầu nguyện. Các nghề kh ác thế gian đều làm cả. Thế gian đòi hỏi con giữ đại lý cầu nguyện và nài xin con: Cầu nguyện cho tôi. Chúa. cầu nguy ện, m úc l ấy nơi ngu ồn m ạch đích thực của nền tu đức Kitô giáo. Trước hết, hằng ngày phải có quyển Thánh Kinh trong tay, để nhờ đọc và suy gẫm m à học được những kiến th ức si êu việt về Chúa Giêsu Kitô (Pl 3,8). Phải theo tinh thần của Giáo hội mà đem hết tâm hồn, miệng lưỡi chu toàn các Lễ nghi Phụng vụ, nhất là Mầu nhiệm Thánh Thể, lại phải nuôi dưỡng đời sống tu đức bằng nguồn mạch phong phú ấy.",
         chuong: 7,
         loi_chua: [
             "Cv 6,4: C òn chúng tôi, chúng tôi sẽ chuyên lo cầu nguyện và phục vụ Lời Thiên",
@@ -1398,7 +1398,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Con phải hy sinh nhi ều, khi sống giữanhững người khác chính ki ến con, kh ác địa vị con, khác lý tưởng con. Hãy xem gương Chúa Giêsu là Thiên Chúa, Ngài sống giữa loài người tội lỗi,33 năm hy sinh liên lỉ. thônghiệp này biết hy sinh ý riêng mình, qua việc vâng lời phục vụ Chúa và anh em, bằng cách lấy tinh thần đức tin m à lãnh nhận và tuân theo những gì được Đức Giáo Hoàng, Đức Giám Mục của mình, cũng như các Bề trên khác truyền dạy và khuyên bảo, bằng cách hoàn toàn sẵn lòng tự hiến và tự hiến hết mức cho mình dù là thấp kém và nghèo hèn.",
         chuong: 8,
         loi_chua: [
-            "LM 15b: Đức bácái mục vụ thôi thúc các Linh mục đang hoạt động trong mối",
+            "LM 15b: Đức bác ái mục vụ thôi thúc các Linh mục đang hoạt động trong mối",
         ],
         tham_chieu: [
             "GH 10b, 41a; Đ T 9a",
@@ -1427,12 +1427,12 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 153,
-        noi_dung: "Con nghĩ rằng con không có gì để hy sinh cho Chúa, nhưng Chúa thấy con bỏ quanhiều dịp: tươi cười với một người nói móc họng, thinh l ặng trước một vu cáo bất công, yêu thương một người bạn phản bội, không nói một lời hóc búa trả đũa. Mỗi giây phút đều có dịp hy sinh.",
+        noi_dung: "Con nghĩ rằng con không có gì để hy sinh cho Chúa, nhưng Chúa thấy con bỏ qua nhiều dịp: tươi cười với một người nói móc họng, thinh l ặng trước một vu cáo bất công, yêu thương một người bạn phản bội, không nói một lời hóc búa trả đũa. Mỗi giây phút đều có dịp hy sinh.",
         chuong: 8,
     },
     {
         stt: 154,
-        noi_dung: "Đừng hy sinh kiểu Biệt phái, hãy hy sinh theo Phúc âm. cho ra vẻ thiểu não, để thiên hạ thấy là chúng ăn chay. Thầy bảo thật anh em, chúng đã được phần thưởng rồi.",
+        noi_dung: "Đừng hy sinh kiểu Biệt phái, hãy hy sinh theo Phúc âm. cho ra vẻ thiểu não, để thiên hạ thấy là chúng ăn chay. Thầy bảo thậtanh em, chúng đã được phần thưởng rồi.",
         chuong: 8,
         loi_chua: [
             "Mt 6,16: Khi ăn chay, anh em chớ làm bộ rầu rĩ như bọn đạo đức giả: chúng làm",
@@ -1466,7 +1466,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 8,
         loi_chua: [
             "Mt 10,38: Ai không vác thập giá mình mà theo Thầy, thì không xứng với Thầy.",
-            "DT 5d: C ác tu s ĩ phải trung thành với lời khấn của mình v à vì Chúa Kitô, từ bỏ",
+            "DT 5d: Các tu s ĩ phải trung thành với lời khấn của mình v à vì Chúa Kitô, từ bỏ",
         ],
         tham_chieu: [
             "Mt 16,24",
@@ -1480,7 +1480,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 159,
-        noi_dung: "Vì yêu thương, ta sẵn sàng hy sinh tất cảnhư Chúa Giêsu: … để cho thế gian biết là Ta yêu mến Cha, v à như Cha truy ền dạy Ta sao, Ta làm như vậy. Đ ứng dậy! Ta đi khỏi đây! (Ga 14,31). hữu sống bácái và khuyên họ phải có tâm tình như Chúa Giêsu Kitô Đấng tự diệt mình, nhận lấy hình hài tôi tớ…, v à vâng lời cho đến chết (Pl 2,7-8), và vì chúng ta, Người đã trở nên nghèo nàn tuy Người vốn giàu sang (2Cr 8,9). Việc noi theo v à làm chứng đứcái cùng sự khiêm hạ của Chúa Kitô cần được các môn đệ thực hiện không ngừng; nên Giáo hội là Mẹ chúng ta vui l òng khi thấy trong lòng mình có nhiều con cái nam nữ muốn theo sát gương Đấng Cứu Thế và tỏ lộ rõ ràng hơn sự tự diệt của Người.",
+        noi_dung: "Vì yêu thương, ta sẵn sàng hy sinh tất cả như Chúa Giêsu: … để cho thế gian biết là Ta yêu mến Cha, v à như Cha truy ền dạy Ta sao, Ta làm như vậy. Đ ứng dậy! Ta đi khỏi đây! (Ga 14,31). hữu sống bác ái và khuyên họ phải có tâm tình như Chúa Giêsu Kitô Đấng tự diệt mình, nhận lấy hình hài tôi tớ…, v à vâng lời cho đến chết (Pl 2,7-8), và vì chúng ta, Người đã trở nên nghèo nàn tuy Người vốn giàu sang (2Cr 8,9). Việc noi theo v à làm chứng đứcái cùng sự khiêm hạ của Chúa Kitô cần được các môn đệ thực hiện không ngừng; nên Giáo hội là Mẹ chúng ta vui l òng khi thấy trong lòng mình có nhiều con cái nam nữ muốn theo sát gương Đấng Cứu Thế và tỏ lộ rõ ràng hơn sự tự diệt của Người.",
         chuong: 8,
         loi_chua: [
             "GH 42d: Giáo hội cũng nhớ lời khuyên nhủ của thánh Tông đồ thúc giục các tín",
@@ -1560,7 +1560,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 169,
-        noi_dung: "Người hy sinh bi ết rộng lượng trước khuy ết điểm của người v à nghi êm khắc trước khuyết điểm của mình.",
+        noi_dung: "Người hy sinh biết rộng lượng trước khuy ết điểm của người v à nghi êm khắc trước khuyết điểm của mình.",
         chuong: 8,
     },
     {
@@ -1660,7 +1660,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Con dâng cho Chúa một quả tim, trong đó đủ mọi thụ tạo chen nhau chiếm chỗ rồi con bảo Chúanhận và giữ quả tim ấy sao? linh hồn và hết trí khôn ngươi.",
         chuong: 9,
         loi_chua: [
-            "Mt 22,37: Ng ươi phải yêu mến Đức Chúa, Thiên Chúa của ngươi, hết lòng, hết",
+            "Mt 22,37: Ngươi phải yêu mến Đức Chúa, Thiên Chúa của ngươi, hết lòng, hết",
         ],
         tham_chieu: [
             "1Cr 6,15",
@@ -1729,10 +1729,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 191,
-        noi_dung: "Quả tim v à bổn phận, phải chọn bên nào? Hãy chọn bổn phận và thực hiện với tất cả quả tim. tuyển chọn ngay giữa Dân Chúa, nhưng không phải để tách biệt khỏi họ hoặc bất cứ một người nào, mà để hoàn toàn tận hiến làm công việc Chúa đã chọn họ làm. C ác ng ài không thể làm thừa t ác vi ên của Chúa Kitô nếu không là chứng nhân và là người ban phát một đời sống khác một đời sống thế tục; tuy nhiên c ác ng ài không thể phục vụ nhân lo ại nếu lại sống xa cuộc sống v à những hoàn cảnh của họ. Chính thừa tác vụ của các ngài, vì mang một danh nghĩa đặc biệt, nên đòi buộc các ngài không được theo th ói thế gian; nhưng đồng thời lại đòi hỏi các ngài sống trong thế gian giữa loài người.",
+        noi_dung: "Quả tim v à bổn phận, phải chọn bên nào? Hãy chọn bổn phận và thực hiện với tất cả quả tim. tuyển chọn ngay giữa Dân Chúa, nhưng không phải để tách biệt khỏi họ hoặc bất cứ một người nào, mà để hoàn toàn tận hiến làm công việc Chúa đã chọn họ làm. Các ng ài không thể làm thừa t ác vi ên của Chúa Kitô nếu không là chứng nhân và là người ban phát một đời sống khác một đời sống thế tục; tuy nhiên c ác ng ài không thể phục vụ nhân lo ại nếu lại sống xa cuộc sống v à những hoàn cảnh của họ. Chính thừa tác vụ của các ngài, vì mang một danh nghĩa đặc biệt, nên đòi buộc các ngài không được theo th ói thế gian; nhưng đồng thời lại đòi hỏi các ngài sống trong thế gian giữa loài người.",
         chuong: 9,
         loi_chua: [
-            "LM 3: C ác Linh mục Tân Ư ớc, do ơn gọi và chức thánh, một cách nào đó được",
+            "LM 3: Các Linh mục Tân Ư ớc, do ơn gọi và chức thánh, một cách nào đó được",
         ],
         tham_chieu: [
             "GH 34b, 41cg; MV 34b, 38a, 93",
@@ -1857,7 +1857,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 204,
-        noi_dung: "Người chí khí bi ết thinh lặng, ăn nói bừa bãi, thiếu suy nghĩ, gieo rắc chia rẽ, thủ đoạn đó là khí cụ của ma quỷ để hạ đức bácái. dữ, nóng nảy, độc ác, nào là thoá mạ, ăn nói thô tục. Anh em đừng nói dối nhau, vì anh em đã cởi bỏ con người cũ với những hành vi của nó rồi",
+        noi_dung: "Người chí khí biết thinh lặng, ăn nói bừa bãi, thiếu suy nghĩ, gieo rắc chia rẽ, thủ đoạn đó là khí cụ của ma quỷ để hạ đức bác ái. dữ, nóng nảy, độc ác, nào là thoá mạ, ăn nói thô tục. Anh em đừng nói dối nhau, vì anh em đã cởi bỏ con người cũ với những hành vi của nó rồi",
         chuong: 10,
         loi_chua: [
             "Cl 3,8-9: Nhưng nay, cả anh em nữa, hãy từ bỏ tất cảnhững cái đó: nào là giận",
@@ -1932,7 +1932,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 216,
-        noi_dung: "Điều cần nói, con hãy nói với một giọng khác, bácái dịu dàng sẽ làm cho lý luận của con truyền cảm hơn, lôi cuốn hơn. Cùng một điều nhưng hai c ách nói, do hai t âm hồn khác nhau và mang lại hai hiệu quả khác nhau. hiện tại.  Lời nói của anh em phải luôn luôn mặn mà dễ thương, để anh em biết đối đáp sao cho phải với mỗi người.",
+        noi_dung: "Điều cần nói, con hãy nói với một giọng khác, bác ái dịu dàng sẽ làm cho lý luận của con truyền cảm hơn, lôi cuốn hơn. Cùng một điều nhưng hai c ách nói, do hai t âm hồn khác nhau và mang lại hai hiệu quả khác nhau. hiện tại.  Lời nói của anh em phải luôn luôn mặn mà dễ thương, để anh em biết đối đáp sao cho phải với mỗi người.",
         chuong: 10,
         loi_chua: [
             "Cl 4,5-6: Anh em h ãy ănở khôn ngoan với người ngoài; hãy tận dụng thời buổi",
@@ -1951,7 +1951,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 218,
-        noi_dung: "Ý chí cương quyết: việc phải làm cứ làm, không do dự, không e ngại… Bạo dạn và hy vọng, ơn Chúa và can đảm. chúng tôi đã dạy cho anh e m, bằng lời nói hay bằng thư từ. Xin chính Chúa chúng ta là Đức Giêsu Kitô, v à xin Thiên Chúa là Cha ch úng ta, Đấng yêu thương chúng ta và đã dùng ân sủng mà ban cho ch úng ta niềm an ủi bất diệt và niềm cậy trông tốt đẹp, xin c ác Ng ài an ủi và cho t âm hồn anh em được vững mạnh, để làm và nói tất cảnhững gì tốt lành.",
+        noi_dung: "Ý chí cương quyết: việc phải làm cứ làm, không do dự, không e ngại… Bạo dạn và hy vọng, ơn Chúa và can đảm. chúng tôi đã dạy cho anh e m, bằng lời nói hay bằng thư từ. Xin chính Chúa chúng ta là Đức Giêsu Kitô, v à xin Thiên Chúa là Cha chúng ta, Đấng yêu thương chúng ta và đã dùng ân sủng mà ban cho chúng ta niềm an ủi bất diệt và niềm cậy trông tốt đẹp, xin c ác Ng ài an ủi và cho t âm hồn anh em được vững mạnh, để làm và nói tất cảnhững gì tốt lành.",
         chuong: 10,
         loi_chua: [
             "2Tx 2,15-17: Thưa anh em, anh em h ãy đứng vững và nắm giữ các truyền thống",
@@ -1991,7 +1991,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 223,
-        noi_dung: "Hãy quay l ưng cho h ạng tiểu nhân đang r ỉ tai con: D ại gì cho khổ cái đời! Chúa Giêsu đã đuổi Phêrô: Xéo đi sau Ta! H ỡi Satan! Ng ươi là cớ vấp phạm cho Ta, vì ý tưởng của ng ươi, không phải ý tưởng của Thiên Chúa, m à là của loài người (Mt 16,23). lạc đường. Ai sống công chính, kẻ ấy là người công chính, như Đức Giêsu là Đấng Công Chính.",
+        noi_dung: "Hãy quay l ưng cho h ạng tiểu nhân đang r ỉ tai con: D ại gì cho khổ cái đời! Chúa Giêsu đã đuổi Phêrô: Xéo đi sau Ta! H ỡi Satan! Ngươi là cớ vấp phạm cho Ta, vì ý tưởng của ngươi, không phải ý tưởng của Thiên Chúa, m à là của loài người (Mt 16,23). lạc đường. Ai sống công chính, kẻ ấy là người công chính, như Đức Giêsu là Đấng Công Chính.",
         chuong: 10,
         loi_chua: [
             "1Ga 3,7: Hỡi anh em là những người con b é nhỏ, đừng để ai làm cho anh em đi",
@@ -2021,10 +2021,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 226,
-        noi_dung: "Chiếu sáng đời con bằng đức tin v à đứcái. Đ ốt cháy thế gian với ngọn lửa Chúa đặt trong tim con. mặc áo giáp là đức tin và đức mến, đội mũ chiến là niềm hy vọng ơn cứu độ. nhập thể trở nên hiện diện và như thể thấy được bằng cách chính Giáo hội tự đổi mới và không ngừng tinh luy ện chính mình dưới sự hướng dẫn của Chúa Thánh Thần. Điều đó trước h ết nhờ chứng tá của một đức tin sống động v à trưởng thành, ngh ĩa là một đức tin đã được hu ấn luy ện để có thể sáng suốt nhận định v à thắng vượt những khó kh ăn ấy. Rất nhiều vị tử đạo đã v à còn đang hùng hồn làm chứng cho đức tin ấy. Đức tin ấy phải biểu lộ sự phong phú của mình bằng cách thâm nhập vào toàn thể đời sống của các tín h ữu, kể cả đời sống thế tục và thúc đẩy họ sống công bằng, bácái nhất là đối với người nghèo khổ. Sau hết, điều có thể làm chứng về sự hiện diện của Thiên Chúa hơn cả là đứcái huynh đệ của các tín h ữu như họ đồng tâm nhất trí cộng tác cho đức tin Phúc âm và tỏ ra họ là dấu chỉ hiệp nhất.",
+        noi_dung: "Chiếu sáng đời con bằng đức tin v à đứcái. Đ ốt cháy thế gian với ngọn lửa Chúa đặt trong tim con. mặc áo giáp là đức tin và đức mến, đội mũ chiến là niềm hy vọng ơn cứu độ. nhập thể trở nên hiện diện và như thể thấy được bằng cách chính Giáo hội tự đổi mới và không ngừng tinh luy ện chính mình dưới sự hướng dẫn của Chúa Thánh Thần. Điều đó trước h ết nhờ chứng tá của một đức tin sống động v à trưởng thành, ngh ĩa là một đức tin đã được hu ấn luy ện để có thể sáng suốt nhận định v à thắng vượt những khó kh ăn ấy. Rất nhiều vị tử đạo đã v à còn đang hùng hồn làm chứng cho đức tin ấy. Đức tin ấy phải biểu lộ sự phong phú của mình bằng cách thâm nhập vào toàn thể đời sống của các tín h ữu, kể cả đời sống thế tục và thúc đẩy họ sống công bằng, bác ái nhất là đối với người nghèo khổ. Sau hết, điều có thể làm chứng về sự hiện diện của Thiên Chúa hơn cả là đứcái huynh đệ của các tín h ữu như họ đồng tâm nhất trí cộng tác cho đức tin Phúc âm và tỏ ra họ là dấu chỉ hiệp nhất.",
         chuong: 10,
         loi_chua: [
-            "1Tx 5,8: … Nhưng chúng ta, ch úng ta thuộc về ban ngày, nên hãy sống tiết độ,",
+            "1Tx 5,8: … Nhưng chúng ta, chúng ta thuộc về ban ngày, nên hãy sống tiết độ,",
             "MV 21e: Nhi ệm vụ của Giáo hội là làm sao cho Thiên Chúa Cha v à Chúa Con",
         ],
         tham_chieu: [
@@ -2058,7 +2058,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 229,
-        noi_dung: "Thân phụ Bernadette dẫn chị vào dòng và đặt điều kiện: Đừng ép con tôi ăn phó mát, nó chết mất! Suốt bảy năm, ngày ngày Bernadette chiến đấu ở bàn ăn: Tôi phải ăn phó m át, Tôi không ăn phó m át được, T ôi phải ăn phó m át. Cu ối cùng chị ăn được, chịđã thắng, chịđã làm thánh. Có Chúa đời đâu còn cô đơn.",
+        noi_dung: "Thân phụ Bernadette dẫn chị vào dòng và đặt điều kiện: Đừng ép con tôi ăn phó mát, nó chết mất! Suốt bảy năm, ngày ngày Bernadette chiến đấu ở bàn ăn: Tôi phải ăn phó m át, Tôi không ăn phó m át được, T ôi phải ăn phó m át. Cu ối cùng chị ăn được, chị đã thắng, chị đã làm thánh. Có Chúa đời đâu còn cô đơn.",
         chuong: 10,
         loi_chua: [
             " ",
@@ -2094,7 +2094,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 233,
-        noi_dung: "Nghe một hồi chuông, thấy một ngọn tháp, con hãy nhớ Chúa đang ở trong nhà tạm gần con. Lòng con sốt sắng, hướng đến thờ lạy yêu mến Chúa. hữu tụ họp và tìm được sự nâng đỡ ủi an trong khi t ôn sùng sự hiện diện của Con. Thiên Chúa, Đấng C ứu chu ộc ch úng ta, Đấng đã được hi ến d âng vì chúng ta trên b àn tế lễ: Nh à n ày cần phải sạch sẽ, xứng hợp với việc cầu nguyện và những lễ nghi long trọng. Chính nơi đây, chủ chăn và tín hữu được mời đến, để với lòng biết ơn, họ đáp lại ân huệ của Đấng đã dùng Nhân tính mà không ng ừng đổ tr àn sự sống si êu nhi ên v ào c ác chi thể của Th ân Th ể Người.",
+        noi_dung: "Nghe một hồi chuông, thấy một ngọn tháp, con hãy nhớ Chúa đang ở trong nhà tạm gần con. Lòng con sốt sắng, hướng đến thờ lạy yêu mến Chúa. hữu tụ họp và tìm được sự nâng đỡ ủi an trong khi t ôn sùng sự hiện diện của Con. Thiên Chúa, Đấng C ứu chu ộc chúng ta, Đấng đã được hi ến d âng vì chúng ta trên b àn tế lễ: Nh à n ày cần phải sạch sẽ, xứng hợp với việc cầu nguyện và những lễ nghi long trọng. Chính nơi đây, chủ chăn và tín hữu được mời đến, để với lòng biết ơn, họ đáp lại ân huệ của Đấng đã dùng Nhân tính mà không ng ừng đổ tr àn sự sống si êu nhi ên v ào c ác chi thể của Th ân Th ể Người.",
         chuong: 11,
         loi_chua: [
             "LM 5e: Nhà cầu nguyện là nơi để cử hành và cất giữ Thánh Thể, cũng như để tín",
@@ -2105,7 +2105,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 234,
-        noi_dung: "Chúa hiện diện thực sự, chứ không phải chỉ là lý thuyết. Chúa là Cha, ở bên con, với tất cả quyền năng và tình yêu. Ngài năn nỉ, khuyên bảo, mời gọi, trách móc, tha thứ và luôn luôn yêu thương. Người là Cha giàu lòng từ bi lân ái, và là Thiên Chúa hằng sẵn sàng nâng đỡ ủi an. Người luôn nâng đỡ ủi an chúng ta trong mọi cơn gian nan thử thách, để sau khi đã được Thiên Chúa nâng đỡ, chính chúng ta cũng biết an ủi những ai lâm cảnh gian nan khốn khó.",
+        noi_dung: "Chúa hiện diện thực sự, chứ không phải chỉ là lý thuyết. Chúa là Cha, ở bên con, với tất cả quyền năng và tình yêu. Ngài năn nỉ, khuyên bảo, mời gọi, trách móc, tha thứ và luôn luôn yêu thương. Người là Cha giàu lòng từ bi lân ái, và là Thiên Chúa hằng sẵn sàng nâng đỡ ủi an. Người luôn nâng đỡ ủi an chúng ta trong mọi cơn gian nan thử thách, để sau khi đã được Thiên Chúa nâng đỡ, chính chúng ta cũng biếtan ủi những ai lâm cảnh gian nan khốn khó.",
         chuong: 11,
         loi_chua: [
             "2Cr 1,3-4: Chúc tụng Thiên Chúa là Thân Phụ Đức Giêsu Kitô, Chúa chúng ta.",
@@ -2145,7 +2145,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 238,
-        noi_dung: "Lời chào của Thiên thần: Vui l ên! Hỡi người đầy ơn phúc! Chúa ở cùng người (Lc 1,28). Và lời chào của Hội thánh: Chúa ở cùng anh chị em có mang một ý nghĩa sâu xa, khả dĩ biến đổi cuộc đời con không? đức mà Chúa Thánh Thần đổ đầy tâm hồn mọi phần tử của Giáo hội. Lại nữa, nhờ giới răn tình yêu, giới răn cao thượng nhất của Chúa, mọi tín h ữu được thúc đẩy để tìm vinh danh Thiên Chúa bằng cách làm cho nước Ngài trịđến để họ nhận bi ết một Thiên Chúa chân thật v à Đấng Ng ài đã sai đến là Chúa Giêsu Kitô (x. Ga 17,3).",
+        noi_dung: "Lời chào của Thiên thần: Vui l ên! Hỡi người đầy ơn phúc! Chúa ở cùng người (Lc 1,28). Và lời chào của Hội thánh: Chúa ở cùng anh chị em có mang một ý nghĩa sâu xa, khả dĩ biến đổi cuộc đời con không? đức mà Chúa Thánh Thần đổ đầy tâm hồn mọi phần tử của Giáo hội. Lại nữa, nhờ giới răn tình yêu, giới răn cao thượng nhất của Chúa, mọi tín h ữu được thúc đẩy để tìm vinh danh Thiên Chúa bằng cách làm cho nước Ngài trịđến để họ nhận biết một Thiên Chúa chân thật v à Đấng Ng ài đã sai đến là Chúa Giêsu Kitô (x. Ga 17,3).",
         chuong: 11,
         loi_chua: [
             "TĐ  3b: Việc tông đồ được thực thi nhờ đức tin, đức cậy, đức mến, là những nhân",
@@ -2188,7 +2188,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 244,
-        noi_dung: "Chúa Ba Ng ôi ở trong con, con tr ở nên đền thờ Chúa, con là của lễ toàn thiêu, là lời ngợi khen không ngừng, là đoá hoa muôn sắc dâng lên Chúa. bỏ, nhưng đã được Thiên Chúa chọn lựa và coi là quý giá. Hãy để Thiên Chúa dùng anh em như những viên đá sống động mà xây nên ngôi Đ ền Thờ thiêng liêng, và hãy để Thiên Chúa đặt anh em làm hàng tư tế thánh, dâng những lễ tế thiêng liêng đẹp lòng Người, nhờ Đức Giêsu Kitô.",
+        noi_dung: "Chúa Ba Ng ôi ở trong con, con tr ở nên đền thờ Chúa, con là của lễ toàn thiêu, là lời ngợi khen không ngừng, là đoá hoa muôn sắc dâng lên Chúa. bỏ, nhưng đã được Thiên Chúa chọn lựa và coi là quý giá. Hãy để Thiên Chúa dùng anh em như những viên đá sống động mà xây nên ngôi Đ ền Thờ thiêng liêng, và hãy để Thiên Chúa đặtanh em làm hàng tư tế thánh, dâng những lễ tế thiêng liêng đẹp lòng Người, nhờ Đức Giêsu Kitô.",
         chuong: 11,
         loi_chua: [
             "1Pr 2,4-5: Anh em h ãy tiến lại gần Đức Kitô, viên đá sống động bị người ta loại",
@@ -2202,7 +2202,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Tại sao ham xây đền thờ gỗ đá, mà quên xây dựng và tu bổ đền thờ tâm hồn? ngươi sẽ xây cho Tanhà nào, và nơi nào sẽ là chốn Ta nghỉ ngơi. Chẳng phải chính tay Ta đã làm nên mọi sự ấy sao?",
         chuong: 11,
         loi_chua: [
-            "Cv 7,49-50: Chúa phán: Trời là ngai của Ta, còn đất là bệ dưới chân Ta. C ác",
+            "Cv 7,49-50: Chúa phán: Trời là ngai của Ta, còn đất là bệ dưới chân Ta. Các",
         ],
     },
     {
@@ -2255,7 +2255,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Đừng ngạc nhiên khi người ta phá Hội thánh, vì đó là Nhiệm Thể Chúa Kitô. Họ muốn tiếp tục giết Chúa Kitô, nhưng không giết được Ngài nữa, bèn phá Hội thánh. trong đau thương và bách hại, chúng ta cùnghiệp thông với những đau khổ của Người như thân thể kết hợp với đầu, hiệp với sự thương khó của Người để được cùng Người vinh hiển (x. Rm 8,17).",
         chuong: 12,
         loi_chua: [
-            "Ga 15,18: Nếu thế gian ghét anh em, anh em hãy biết rằng nó đã ghét Thầy trước.",
+            "Ga 15,18: Nếu thế gian ghétanh em, anh em hãy biết rằng nó đã ghét Thầy trước.",
             "GH 7e: Đang khi còn lữ hành trên mặt đất, bước theo vết chân Người (Chúa Kitô)",
         ],
         tham_chieu: [
@@ -2298,10 +2298,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 256,
-        noi_dung: "Sống đạo không phải chỉđể mưu tìm ơn cứu rỗi cho riêng mình. Sống đạo là hiệp nhất với toàn thể dân Chúa trên khắp thế giới, hiệp nhất với đầu là Đức Kitô, và đại diện cho Ngài là Đức Giáo Hoàng, để tiếp tục sự chết và sự phục sinh giải phóng nhân loại. Ở ngoài sự thônghiệp ấy, như cành nho đã lià cây, chỉ còn là công giáo trong hồ sơ lý lịch. mọi phương diện, vươn tới Đức Kitô vì Người là Đ ầu. Chính Người làm cho các bộ phận ăn khớp với nhau và toàn thân được kết cấu chặt chẽ, nhờ mọi thứ gân mạch nuôi dưỡng và mỗi chi thể hoạt động theo chức năng của mình. Như thế Người làm cho toàn thân lớn lên và được xây dựng trong tình bácái. cũng giảng dạy và tuyên bố rằng: Chúa Giêsu Kitô, Mục tử vĩnh cửu đã thiết lập Giáo hội thánh thiện khi sai c ác tông đồ như Chúa Cha đã phái Người (x. Ga 20,21), v à Người đã muốn c ác Đấng k ế vị, tức c ác Gi ám mục, làm ch ủ chăn trong Giáo hội cho đến tận thế. Nhưng để chức Giám mục được duy nhất và không bị phân chia, Chúa đã đặt thánh Phêrô làm Thủ lãnh các Tông đồ khác, và trong Ng ài, Chúa đã đặt nguyên lý cùng nền tảng vĩnh cửu v à hữu hình của hiệp nhất đức tin và hiệp thông.",
+        noi_dung: "Sống đạo không phải chỉđể mưu tìm ơn cứu rỗi cho riêng mình. Sống đạo là hiệp nhất với toàn thể dân Chúa trên khắp thế giới, hiệp nhất với đầu là Đức Kitô, và đại diện cho Ngài là Đức Giáo Hoàng, để tiếp tục sự chết và sự phục sinh giải phóng nhân loại. Ở ngoài sự thônghiệp ấy, như cành nho đã lià cây, chỉ còn là công giáo trong hồ sơ lý lịch. mọi phương diện, vươn tới Đức Kitô vì Người là Đ ầu. Chính Người làm cho các bộ phận ăn khớp với nhau và toàn thân được kết cấu chặt chẽ, nhờ mọi thứ gân mạch nuôi dưỡng và mỗi chi thể hoạt động theo chức năng của mình. Như thế Người làm cho toàn thân lớn lên và được xây dựng trong tình bác ái. cũng giảng dạy và tuyên bố rằng: Chúa Giêsu Kitô, Mục tử vĩnh cửu đã thiết lập Giáo hội thánh thiện khi sai c ác tông đồ như Chúa Cha đã phái Người (x. Ga 20,21), v à Người đã muốn c ác Đấng k ế vị, tức c ác Gi ám mục, làm ch ủ chăn trong Giáo hội cho đến tận thế. Nhưng để chức Giám mục được duy nhất và không bị phân chia, Chúa đã đặt thánh Phêrô làm Thủ lãnh các Tông đồ khác, và trong Ng ài, Chúa đã đặt nguyên lý cùng nền tảng vĩnh cửu v à hữu hình của hiệp nhất đức tin và hiệp thông.",
         chuong: 12,
         loi_chua: [
-            "Ep 4,15-16: Nhưng, sống theo sự thật và trong tình bácái, chúng ta sẽ lớn lên về",
+            "Ep 4,15-16: Nhưng, sống theo sự thật và trong tình bác ái, chúng ta sẽ lớn lên về",
             "GH 18b: B ước theo dấu v ết của Công đồng Vaticanô I, Thánh Công Đồng này",
         ],
         tham_chieu: [
@@ -2348,7 +2348,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Có thứ công giáo vụ lợi, có thứ công giáo lý lịch, có thứ công giáo xu thời, có thứ công giáo danh d ự. Chúa chỉ chấp nhận hạng công giáo tr ăm phần trăm, c ông giáo vô điều kiện: Họ đã bỏ mọi sự mà theo Ngài (Lc 5,11). ngồi bên hữu, một người được ngồi bên tả Thầy, khi Thầy được vinh quang. Đức Giêsu bảo: Các anh không biết các anh xin gì! Các anh có uống nổi chén Thầy sắp uống, hay chịu được phép rửa Thầy sắp chịu không?",
         chuong: 12,
         loi_chua: [
-            "Mc 10,37 -38: C ác ông thưa: Xin cho hai anh em ch úng con, một người được",
+            "Mc 10,37 -38: Các ông thưa: Xin cho hai anh em chúng con, một người được",
         ],
     },
     {
@@ -2358,7 +2358,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 263,
-        noi_dung: "Hai ngàn năm nay, có những giai đoạn, những cá nhân trong hàng ngũ Tông đồ, Giáo Hoàng, Hồng Y, Giám mục, linh mục, tu sĩ, giáo dân đã phản bội Hội thánh không thể tưởng tượng. Đức Phaolô VI gọi là tự hủy diệt. Nhưng mỗi lần như thế Hội thánh lại canh tân hơn, tươi sáng hơn, mãnh liệt hơn; Hội thánh tiếp tục mầu nhiệm Tử nạn và Phục sinh. bì do tay người phàm, nhưng là phép cắt bì của Đức Kitô, có sức lột bỏ con người tội lỗi của anh em. Anh em đã cùng được mai táng với Đức Kitô khi chịu phép rửa, lại cùng được trỗi dậy với Người, vì tin v ào quyền năng của Thiên Chúa, Đấng làm cho Người trỗi dậy từ cõi chết. trung tín của Chúa mình và không ngừng là dấu chỉơn cứu rỗi trong thế giới, tuy nhi ên Giáo hội bi ết rõ rằng trải qua bao nhi êu thế kỷ vẫn không thi ếu những phần tử trong Giáo hội, giáo dân hoặc tu sĩ, sống bất trung cùng Thánh Thần Chúa. Ngay trong thời đại chúng ta, Giáo hội không quên sự cách biệt lớn lao giữa sứ điệp do Giáo hội công bố và sự yếu đuối nhân loại củanhững người được giao phó rao giảng Phúc âm.",
+        noi_dung: "Hai ngàn năm nay, có những giai đoạn, những cá nhân trong hàng ngũ Tông đồ, Giáo Hoàng, Hồng Y, Giám mục, linh mục, tu sĩ, giáo dân đã phản bội Hội thánh không thể tưởng tượng. Đức Phaolô VI gọi là tự hủy diệt. Nhưng mỗi lần như thế Hội thánh lại canh tân hơn, tươi sáng hơn, mãnh liệt hơn; Hội thánh tiếp tục mầu nhiệm Tử nạn và Phục sinh. bì do tay người phàm, nhưng là phép cắt bì của Đức Kitô, có sức lột bỏ con người tội lỗi của anh em. Anh em đã cùng được mai táng với Đức Kitô khi chịu phép rửa, lại cùng được trỗi dậy với Người, vì tin v ào quyền năng của Thiên Chúa, Đấng làm cho Người trỗi dậy từ cõi chết. trung tín của Chúa mình và không ngừng là dấu chỉơn cứu rỗi trong thế giới, tuy nhi ên Giáo hội biết rõ rằng trải qua bao nhi êu thế kỷ vẫn không thi ếu những phần tử trong Giáo hội, giáo dân hoặc tu sĩ, sống bất trung cùng Thánh Thần Chúa. Ngay trong thời đại chúng ta, Giáo hội không quên sự cách biệt lớn lao giữa sứ điệp do Giáo hội công bố và sự yếu đuối nhân loại củanhững người được giao phó rao giảng Phúc âm.",
         chuong: 12,
         loi_chua: [
             "Cl 2,11-12: Trong Người, anh em đã được chịu phép cắt bì, không phải phép cắt",
@@ -2383,7 +2383,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 265,
-        noi_dung: "Con hãy sẵn sàng hy sinh cho Hội thánh và hy sinh vì Hội thánh. cứu độ. Chúng tôi có được an ủi, thì cũng là để anh em được an ủi, khiến anh em có sức kiên trì chịu đựng cùng những nỗi thống khổ mà chính ch úng tôi phải chịu.",
+        noi_dung: "Con hãy sẵn sàng hy sinh cho Hội thánh và hy sinh vì Hội thánh. cứu độ. Chúng tôi có được an ủi, thì cũng là để anh em được an ủi, khiến anh em có sức kiên trì chịu đựng cùng những nỗi thống khổ mà chính chúng tôi phải chịu.",
         chuong: 12,
         loi_chua: [
             "2Cr 1,6: Chúng tôi có phải chịu gian nan, thì đó là để anh em được an ủi và được",
@@ -2418,7 +2418,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 268,
-        noi_dung: "Con tin H ội thánh vì chính Chúa Giêsu đã lập Hội thánh, và chỉ lập Hội thánh ấy thôi. Con đau khổ vì những bất toàn nơi bộ mặt nhân loại của Hội thánh, nhưng con liên đới với những bất toàn ấy để nổ lực tẩy luyện và thực hiện ý Chúa Giêsu nơi Hội thánh. thương Hội Thánh và hiến mình vì H ội Thánh; như vậy, Người thánh hoá và thanh tẩy Hội Thánh bằng nước và lời hằng sống, để trước mặt Người, có một Hội Thánh xin h đẹp lộng l ẫy, không t ỳ ố, không v ết nh ăn ho ặc bất c ứ một khuyết điểm nào, nhưng thánh thiện và tinh tuyền. phép Thánh tẩy, đồng thời, Người đã xác nhận sự cần thiết của Giáo hội mà mọi người phải bước vào qua cửa phép Thánh tẩy. Vì thế, những ai bi ết rằng Giáo hội c ông giáo, được Thiên Chúa thi ết l ập nhờ Chúa Giêsu Kitô, như phương tiện cứu rỗi cần thiết, mà vẫn không muốn kiên trì sống trong Giáo hội thì không thể được cứu rỗi.",
+        noi_dung: "Con tin H ội thánh vì chính Chúa Giêsu đã lập Hội thánh, và chỉ lập Hội thánh ấy thôi. Con đau khổ vì những bất toàn nơi bộ mặt nhân loại của Hội thánh, nhưng con liên đới với những bất toàn ấy để nổ lực tẩy luyện và thực hiện ý Chúa Giêsu nơi Hội thánh. thương Hội Thánh và hiến mình vì H ội Thánh; như vậy, Người thánh hoá và thanh tẩy Hội Thánh bằng nước và lời hằng sống, để trước mặt Người, có một Hội Thánh xin h đẹp lộng l ẫy, không t ỳ ố, không v ết nh ăn ho ặc bất c ứ một khuyết điểm nào, nhưng thánh thiện và tinh tuyền. phép Thánh tẩy, đồng thời, Người đã xác nhận sự cần thiết của Giáo hội mà mọi người phải bước vào qua cửa phép Thánh tẩy. Vì thế, những ai biết rằng Giáo hội c ông giáo, được Thiên Chúa thi ết l ập nhờ Chúa Giêsu Kitô, như phương tiện cứu rỗi cần thiết, mà vẫn không muốn kiên trì sống trong Giáo hội thì không thể được cứu rỗi.",
         chuong: 12,
         loi_chua: [
             "Ep 5,25 -27: Người làm chồng, h ãy yêu thương vợ, như chính Đức Kitô yêu",
@@ -2455,7 +2455,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 271,
-        noi_dung: "Trên đường Hy vọng, con cần một địa bàn để chỉđường cho con trong những lúc tăm tối gian nan nhất, đó là đức tin, địa bàn Hội thánh trao cho con ngày chịu phép Thánh tẩy. trong bóng tối. giữa chúng ta trong th ân thể Người là Giáo hội; chính Người đã minh nhi ên công bố sự cần thiết của đức tin và của phép rửa (x. Mc 16,16; Ga 3,3), đồng thời Người đã xác nhận sự cần thiết của Giáo hội mà mọi người phải bước vào qua cửa phép rửa. Vì thế, những ai bi ết rằng Giáo hội công giáo được Thiên Chúa thiết lập nhờ Chúa Giêsu Kitô, như phương tiện cứu rỗi cần thiết, mà vẫn không muốn gianhập hoặc không muốn kiên trì sống trong Giáo hội này thì không thể được cứu rỗi.",
+        noi_dung: "Trên đường Hy vọng, con cần một địa bàn để chỉđường cho con trong những lúc tăm tối gian nan nhất, đó là đức tin, địa bàn Hội thánh trao cho con ngày chịu phép Thánh tẩy. trong bóng tối. giữa chúng ta trong th ân thể Người là Giáo hội; chính Người đã minh nhi ên công bố sự cần thiết của đức tin và của phép rửa (x. Mc 16,16; Ga 3,3), đồng thời Người đã xác nhận sự cần thiết của Giáo hội mà mọi người phải bước vào qua cửa phép rửa. Vì thế, những ai biết rằng Giáo hội công giáo được Thiên Chúa thiết lập nhờ Chúa Giêsu Kitô, như phương tiện cứu rỗi cần thiết, mà vẫn không muốn gianhập hoặc không muốn kiên trì sống trong Giáo hội này thì không thể được cứu rỗi.",
         chuong: 13,
         loi_chua: [
             "Ga 12,46: T ôi là ánh sáng đến thế gian, để bất cứ ai tin v ào tôi, thì không ở lại",
@@ -2513,7 +2513,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Chúa đặt điều kiện quá dễ: nếu ai có đức tin bằng hạt cải, khiến núi dời cũng được. Tại sao thế? Vì không phải ta làm, nhưng chính Chúa làm. nếu anh em có lòng tin lớn bằng hạt cải thôi, thì dù anh em có bảo núi này: Rời khỏi đây, qua b ên kia! nó cũng sẽ qua, v à sẽ chẳng có gì m à anh em không làm được.",
         chuong: 13,
         loi_chua: [
-            "Mt 17,20: Người nói với các ông: Tại anh em k ém tin! Thầy bảo thật anh em:",
+            "Mt 17,20: Người nói với các ông: Tại anh em k ém tin! Thầy bảo thậtanh em:",
         ],
         tham_chieu: [
             "Mt 21,21; Ep 1,19; Dt 11,11-12.17-19.32-35",
@@ -2546,7 +2546,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Trong Phúc âm các Tông đồ đã khiêm tốn thuật lại đức tin yếu hèn của họ, để chúng ta mạnh tin hơn. Tô-ma đáp: Nếu tôi không thấy dấu đinh ở tay Người, nếu tôi không xỏ ngón tay vào lỗ đinh và không đặt bàn tay vào cạnh sườn Người, tôi chẳng có tin.",
         chuong: 13,
         loi_chua: [
-            "Ga 20,25: C ác môn đệ khác nói với ông: Chúng tôi đã được thấy Chúa! Ông",
+            "Ga 20,25: Các môn đệ khác nói với ông: Chúng tôi đã được thấy Chúa! Ông",
         ],
         tham_chieu: [
             "Ga 18,15-18.25-27",
@@ -2579,7 +2579,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 13,
         loi_chua: [
             "Pl 1,29: Quả thế, nhờ Đức Kitô, anh em đã được phúc chẳng những là tin v ào",
-            "LM 22c: C ác vị lãnh đạo Dân Chúa phải bước đi trong đức tin, theo g ương của",
+            "LM 22c: Các vị lãnh đạo Dân Chúa phải bước đi trong đức tin, theo g ương của",
         ],
         tham_chieu: [
             "Dt 11,24-26",
@@ -2591,7 +2591,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Chúa toàn năng và hằng hữu, nếu con tin Chúa, con sẽ làm được những việc lạ lùng như Chúa Giêsu đã làm, và còn làm những việc vĩđại hơn nữa. Chính Ngài đã hứanhư vậy! được những việc Thầy làm. Người đó còn làm những việc lớn hơn nữa, bởi vì Thầy đến cùng Chúa Cha.",
         chuong: 13,
         loi_chua: [
-            "Ga 14,12: Thật, Thầy bảo thật anh em, ai tin v ào Thầy, thì người đó cũng sẽ làm",
+            "Ga 14,12: Thật, Thầy bảo thậtanh em, ai tin v ào Thầy, thì người đó cũng sẽ làm",
         ],
         tham_chieu: [
             "Ep 1,19; Dt 11,11-12.17-19.32-35",
@@ -2660,7 +2660,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 291,
-        noi_dung: "Làm tông đồ là làm như các thánh Tông đồ. Nếu không nghiền ngẫm và thuộc lòng Tông đồ Công vụ, thì con không làm tông đồ đắc lực được. Đức Kitô; ch úng t ôi yếu đuối, còn anh em thì mạnh m ẽ; anh em được kính trọng, còn chúng tôi thì bị khinh khi. Cho đến giờ này, chúng tôi vẫn chịu đói khát, trần truồng, bị hành hạ và lang thang phiêu bạt; chúng tôi phải vất vả tự tay làm l ụng. B ị nguy ền rủa, ch úng t ôi ch úc lành; bị b ắt b ớ, ch úng t ôi cam chịu; bị vu khống, chúng tôi đem lời an ủi. Cho đến bây giờ, chúng tôi đã nên như rác rưởi của thế gian, như phế vật đối với mọi người.",
+        noi_dung: "Làm tông đồ là làm như các thánh Tông đồ. Nếu không nghiền ngẫm và thuộc lòng Tông đồ Công vụ, thì con không làm tông đồ đắc lực được. Đức Kitô; chúng t ôi yếu đuối, còn anh em thì mạnh m ẽ; anh em được kính trọng, còn chúng tôi thì bị khinh khi. Cho đến giờ này, chúng tôi vẫn chịu đói khát, trần truồng, bị hành hạ và lang thang phiêu bạt; chúng tôi phải vất vả tự tay làm l ụng. B ị nguy ền rủa, chúng t ôi ch úc lành; bị b ắt b ớ, chúng t ôi cam chịu; bị vu khống, chúng tôi đem lời an ủi. Cho đến bây giờ, chúng tôi đã nên như rác rưởi của thế gian, như phế vật đối với mọi người.",
         chuong: 14,
         loi_chua: [
             "1Cr 4,10-13: Chúng tôi điên dại vì Đức Kitô, còn anh em thì khôn ngoan trong",
@@ -2671,7 +2671,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 292,
-        noi_dung: "Giáo dân thời sơ khai diễn tả cách nôm na: Tông đồ là người có Chúa Kitô trong lòng, Chúa Kitô trên mắt, Chúa Kitô trong miệng, Chúa Kitô trên tay, Chúa Kitô trong óc, Chúa Kitô trên vai… T óm lại, là một người đầy tràn Chúa Kitô và trao ban Chúa Kitô cho kẻ khác. tôi đã thấy tận mắt, điều chúng tôi đã chiêm ngưỡng, và tay chúng tôi đã chạm đến, đó là Lời sự sống. Điều chúng tôi đã thấy và đã nghe, chúng tôi loan báo cho cả anh em nữa, để chính anh em cũng được hiệp thông với chúng tôi, mà chúng tôi thì hiệp thông với Chúa Cha và với Đức Giêsu Kitô, Con của Người. của Chúa Kitô Linh mục, lại nữa bởi cùng chia sẻ một cuộc sống của Người, nên h ọ phải quen sống kết hiệp với Người như bạn h ữu. H ọ phải sống mầu nhiệm Phục sinh của Người thế nào để biết khai sáng Mầu nhiệm ấy cho đoàn chiên sẽ được giao phó. Phải dạy họ biết tìm gặp Chúa Kitô trong việc trung thành suy g ẫm Lời Chúa, trong việc th ônghiệp tích cực c ác mầu nhiệm chí thánh của Giáo hội, nhất là Bí Tích Thánh Thể và kinh nguyện thần vụ.",
+        noi_dung: "Giáo dân thời sơ khai diễn tả cách nôm na: Tông đồ là người có Chúa Kitô trong lòng, Chúa Kitô trên mắt, Chúa Kitô trong miệng, Chúa Kitô trên tay, Chúa Kitô trong óc, Chúa Kitô trên vai… T óm lại, là một người đầy tràn Chúa Kitô và trao ban Chúa Kitô cho kẻ khác. tôi đã thấy tận mắt, điều chúng tôi đã chiêm ngưỡng, và tay chúng tôi đã chạm đến, đó là Lời sự sống. Điều chúng tôi đã thấy và đã nghe, chúng tôi loan báo cho cả anh em nữa, để chính anh em cũng được hiệp thông với chúng tôi, mà chúng tôi thì hiệp thông với Chúa Cha và với Đức Giêsu Kitô, Con của Người. của Chúa Kitô Linh mục, lại nữa bởi cùng chia sẻ một cuộc sống của Người, nên h ọ phải quen sống kết hiệp với Người như bạn h ữu. Họ phải sống mầu nhiệm Phục sinh của Người thế nào để biết khai sáng Mầu nhiệm ấy cho đoàn chiên sẽ được giao phó. Phải dạy họ biết tìm gặp Chúa Kitô trong việc trung thành suy g ẫm Lời Chúa, trong việc th ônghiệp tích cực c ác mầu nhiệm chí thánh của Giáo hội, nhất là Bí Tích Thánh Thể và kinh nguyện thần vụ.",
         chuong: 14,
         loi_chua: [
             "1Ga 1,1.3: Điều vẫn có ngay từ lúc khởi đầu, điều chúng tôi đã nghe, điều chúng",
@@ -2684,7 +2684,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 293,
-        noi_dung: "Tông đồ là thánh hoá môi trường bằng môi trường: lao động là tông đồ của lao động, học sinh là tông đồ của học sinh. ban cho mỗi người. Được ơn làm ngôn sứ, thì phải nói sao cho ph ù hợp với đức tin. Được ơn phục vụ, thì phải phục vụ. Ai dạy bảo, thì c ứ dạy bảo. Ai khuyên răn, thì c ứ khuyên răn. Ai ph ân phát, thì phải chân thành. Ai ch ủ toạ, thì phải có nhiệt tâm. Ai làm việc bácái thì vui vẻ mà làm.",
+        noi_dung: "Tông đồ là thánh hoá môi trường bằng môi trường: lao động là tông đồ của lao động, học sinh là tông đồ của học sinh. ban cho mỗi người. Được ơn làm ngôn sứ, thì phải nói sao cho ph ù hợp với đức tin. Được ơn phục vụ, thì phải phục vụ. Ai dạy bảo, thì c ứ dạy bảo. Ai khuyên răn, thì c ứ khuyên răn. Ai ph ân phát, thì phải chân thành. Ai ch ủ toạ, thì phải có nhiệt tâm. Ai làm việc bác ái thì vui vẻ mà làm.",
         chuong: 14,
         loi_chua: [
             "Rm 12,6-8: Chúng ta có những đặc sủng khác nhau, tuỳ theo ân sủng Thiên Chúa",
@@ -2715,7 +2715,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 14,
         loi_chua: [
             "Lc 5,37-38: Không ai đổ rượu mới vào bầu da cũ, vì như vậy, rượu mới sẽ làm nứt",
-            "GM 17c: C ác hình th ức ho ạt động t ông đồ cần phải thích nghi đúng mức với",
+            "GM 17c: Các hình th ức ho ạt động t ông đồ cần phải thích nghi đúng mức với",
         ],
         tham_chieu: [
             "LM 19c; TĐ  1b, 19c, 29f, 32a, 33; TG 4",
@@ -2723,7 +2723,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 297,
-        noi_dung: "Hăng say h ết mình, nhưng biết chia sẻ với mọi người, biết cộng tác với kẻ thua mình. Đừng làm đại lý tất cả, như thể từ lúc con khởi sự hoạt động mới có trời đất muôn vật. thể Giáo hội. C ác ng ài bi ết rằng Chúa Kitô không đặt c ác ng ài l ên để một mình lãnh lấy tất cả sứ vụ cứu độ của Giáo hội đối với thế giới; nhưng nhiệm vụ cao cả của các ngài là chăn dắt tín h ữu và nhận biết các phận sự và đoàn sủng nơi họ, để mọi người cùng góp phần vào công cuộc chung, tùy theo cách thức của mình.",
+        noi_dung: "Hăng say h ết mình, nhưng biết chia sẻ với mọi người, biết cộng tác với kẻ thua mình. Đừng làm đại lý tất cả, như thể từ lúc con khởi sự hoạt động mới có trời đất muôn vật. thể Giáo hội. Các ng ài biết rằng Chúa Kitô không đặt c ác ng ài l ên để một mình lãnh lấy tất cả sứ vụ cứu độ của Giáo hội đối với thế giới; nhưng nhiệm vụ cao cả của các ngài là chăn dắt tín h ữu và nhận biết các phận sự và đoàn sủng nơi họ, để mọi người cùng góp phần vào công cuộc chung, tùy theo cách thức của mình.",
         chuong: 14,
         loi_chua: [
             "GH 30: Các chủ chăn của Dân thánh biết rõ giáo dân giúp ích rất nhiều cho toàn",
@@ -2812,7 +2812,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 307,
-        noi_dung: "Con ngạc nhiên hay b ực tức vì c ác tông đồ khác không theo khu ôn khổ như con. Phải hiệp nhất mà đa diện; thánh Phaolô đã nói: Kẻ thì vì ghen tương và kình địch; kẻ thì vì thiện cảm mà rao giảng Đức Kitô… Can chi! …, mi ễn là Đức Kitô được rao truyền (Pl 1,15.18). hoà thuận với nhau bằng sự chấp nhận mọi dị biệt chính đáng để luôn luôn có thể đối thoại hữu hiệu giữanhững phần tử của một Dân Chúa duy nhất, dù là chủ chăn hay các Kitô hữu khác. Thật vậy, những gì li ên kết giữa các tín hữu còn mạnh hơn những gì chia rẽ: hi ệp nhất trong những gì chính yếu, tự do trong những gì nghi ngờ, bácái trong hết mọi sự.",
+        noi_dung: "Con ngạc nhiên hay b ực tức vì c ác tông đồ khác không theo khu ôn khổ như con. Phải hiệp nhất mà đa diện; thánh Phaolô đã nói: Kẻ thì vì ghen tương và kình địch; kẻ thì vì thiện cảm mà rao giảng Đức Kitô… Can chi! …, mi ễn là Đức Kitô được rao truyền (Pl 1,15.18). hoà thuận với nhau bằng sự chấp nhận mọi dị biệt chính đáng để luôn luôn có thể đối thoại hữu hiệu giữanhững phần tử của một Dân Chúa duy nhất, dù là chủ chăn hay các Kitô hữu khác. Thật vậy, những gì li ên kết giữa các tín hữu còn mạnh hơn những gì chia rẽ: hi ệp nhất trong những gì chính yếu, tự do trong những gì nghi ngờ, bác ái trong hết mọi sự.",
         chuong: 14,
         loi_chua: [
             "MV 92b: Chúng ta cần cổ võ ngay trong l òng Giáo hội sự quý mến, tôn trọng và",
@@ -2949,11 +2949,11 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 322,
-        noi_dung: "a. Tông đồ bằng hy sinh và thinh lặng, như hạt lúa chôn vùi, mục nát đi để sinh muôn vàn hạt khác nuôi nhân loại. b. Tông đồ bằng chứng tích. Lời quả quyết suông không đáng người ta tin tưởng mấy, dù ngọt ngào trau chuốt đến đâu. Tang vật đáng tin hơn. Hình ảnh chụp được, tiếng nói ghi âm được càng dễ đánh động người ta hơn. Nhưng nếu chính con người sống động bằng xương bằng thịt, nếu cả cuộc sinh hoạt, nếu cả một lớp người, một lớp gia đình cùng sống một lý tưởng, thì chứng tích ấy có một sức mạnh thuyết phục lớn lao biết chừng nào! động nơi anh em. giảng: đừng trộm cắp, mà bạn lại trộm cắp! Bạn nói: chớ ngoại tình, m à bạn lại ngoại tình! Bạn gớm ghét ngẫu tượng, mà bạn lại cướp bóc đền miếu! việc truy ền b á đức tin là sống s âu xa đời sống Kitô h ữu. Vì chính khi nhi ệt thành phụng sự Thiên Chúa và bácái đối với thanhân, họ mang lại cho toàn thể Giáo hội một cảm hứng tinh thần mới và làm cho Giáo hội xuất hiện như là một dấu chỉ nổi lên giữa các dân, là ánh sáng thế gian (Mt 5,14) và là muối đất (Mt 5,13).",
+        noi_dung: "a. Tông đồ bằng hy sinh và thinh lặng, như hạt lúa chôn vùi, mục nát đi để sinh muôn vàn hạt khác nuôi nhân loại. b. Tông đồ bằng chứng tích. Lời quả quyết suông không đáng người ta tin tưởng mấy, dù ngọt ngào trau chuốt đến đâu. Tang vật đáng tin hơn. Hình ảnh chụp được, tiếng nói ghi âm được càng dễ đánh động người ta hơn. Nhưng nếu chính con người sống động bằng xương bằng thịt, nếu cả cuộc sinh hoạt, nếu cả một lớp người, một lớp gia đình cùng sống một lý tưởng, thì chứng tích ấy có một sức mạnh thuyết phục lớn lao biết chừng nào! động nơi anh em. giảng: đừng trộm cắp, mà bạn lại trộm cắp! Bạn nói: chớ ngoại tình, m à bạn lại ngoại tình! Bạn gớm ghét ngẫu tượng, mà bạn lại cướp bóc đền miếu! việc truy ền b á đức tin là sống s âu xa đời sống Kitô h ữu. Vì chính khi nhi ệt thành phụng sự Thiên Chúa và bác ái đối với thanhân, họ mang lại cho toàn thể Giáo hội một cảm hứng tinh thần mới và làm cho Giáo hội xuất hiện như là một dấu chỉ nổi lên giữa các dân, là ánh sáng thế gian (Mt 5,14) và là muối đất (Mt 5,13).",
         chuong: 14,
         loi_chua: [
             "a. 2Cr 4,12: Như thế, sự chết hoạt động nơi chúng tôi, còn sự sống thì lại hoạt",
-            "b. Rm 2,21 -23: B ạn bi ết dạy người kh ác, m à lại không dạy chính mình! B ạn",
+            "b. Rm 2,21 -23: B ạn biết dạy người kh ác, m à lại không dạy chính mình! B ạn",
             "TG 36b: Mọi người phải biết rằng bổn phận đầu tiên và quan trọng nhất đối với",
         ],
         tham_chieu: [
@@ -3001,7 +3001,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Từ xưa, thiếu nhi đã là tông đồ đầy dũng cảm: Tarcisiô đã mang Chúa đến cho bao nhiêu người. Hãy nhớ lời Chúa: Đừng khinh dễ trẻ con. có thật sự là những chứng nhân sống động của Chúa Kitô giữa các bạn hữu.",
         chuong: 14,
         loi_chua: [
-            "Mt 18,10a: Anh em hãy coi chừng, chớ khinh một ai trong những kẻ bé mọn.",
+            "Mt 18,10a: Anh em hãy coi chừng, chớ khinh mộtai trong những kẻ bé mọn.",
             "TĐ  12d: Trẻ em cũng có hoạt động tông đồ riêng của chúng. Tuỳ khả năng chúng",
         ],
         tham_chieu: [
@@ -3048,7 +3048,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 14,
         loi_chua: [
             "1Pr 2,9 -10: C òn anh em, anh em là giống n òi được tuy ển chọn, là hàng t ư tế",
-            "GH 11a: C ác tín h ữu tháp nhập vào Giáo hội bởi phép Rửa, và nhờ ân tích, h ọ",
+            "GH 11a: Các tín h ữu tháp nhập vào Giáo hội bởi phép Rửa, và nhờ ân tích, h ọ",
         ],
         tham_chieu: [
             "GH 10b, 34b, 35a, 36b; PV 6; LM 2a; TG 11a, 15ab",
@@ -3128,7 +3128,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 341,
-        noi_dung: "Là chi thể của Nhiệm thể, chúng ta là óc để suy tư, là mắt để nhìn thực tại trần thế, là tai để nghe tiếng rên rỉ, đòi hỏi, là vai để gánh vác, là tay để cứu vớt, là chân để đến với người khổ đau, là quả tim để khắc khoải yêu thương, là miệng để nói những lời bácái ủi an. Nhờ tông đồ mà Hội thánh hiện diện giữa thế giới ngày nay. yếu. Tôi đã trở nên tất cả cho mọi người, để bằng mọi cách cứu được một số người. Vì Tin M ừng, tôi làm tất cảnhững điều đó, để cùng được thông chia phần phúc của Tin Mừng. gian: trước tiên bằng đời sống hoà hợp với đức tin, để nhờ đó họ trở thànhánh sáng thế gian; bằng đời sống lương thiện trong bất cứ công ăn việc làm nào để làm cho mọi người yêu mến sự thật, sự thiện và cuối cùng đưa họ tới Chúa Kitô và Giáo hội; bằng đời sống bácái huynh đệ qua việc họ thực sự chia sẻ với anh em trong hoàn cảnh sống, trong đau khổ cũng như trong mọi ước vọng, và như thế họ âm thầm chuẩn bị cho ơn cứu rỗi hoạt động trong tâm hồn mọi người; bằng cuộc sống ý thức đầy đủ về vai tr ò của mình trong việc xây dựng xã hội, họ cố gắng chu toàn hoạt động nơi gia đình, ngoài xã hội, trong nghề nghiệp với lòng quảng đại của Kitô giáo; như thế phương thức hành động của họ dần dần thấm nhập vào môi trường sống và cả môi trường làm việc.",
+        noi_dung: "Là chi thể của Nhiệm thể, chúng ta là óc để suy tư, là mắt để nhìn thực tại trần thế, là tai để nghe tiếng rên rỉ, đòi hỏi, là vai để gánh vác, là tay để cứu vớt, là chân để đến với người khổ đau, là quả tim để khắc khoải yêu thương, là miệng để nói những lời bác ái ủi an. Nhờ tông đồ mà Hội thánh hiện diện giữa thế giới ngày nay. yếu. Tôi đã trở nên tất cả cho mọi người, để bằng mọi cách cứu được một số người. Vì Tin M ừng, tôi làm tất cảnhững điều đó, để cùng được thông chia phần phúc của Tin Mừng. gian: trước tiên bằng đời sống hoà hợp với đức tin, để nhờ đó họ trở thànhánh sáng thế gian; bằng đời sống lương thiện trong bất cứ công ăn việc làm nào để làm cho mọi người yêu mến sự thật, sự thiện và cuối cùng đưa họ tới Chúa Kitô và Giáo hội; bằng đời sống bác ái huynh đệ qua việc họ thực sự chia sẻ với anh em trong hoàn cảnh sống, trong đau khổ cũng như trong mọi ước vọng, và như thế họ âm thầm chuẩn bị cho ơn cứu rỗi hoạt động trong tâm hồn mọi người; bằng cuộc sống ý thức đầy đủ về vai tr ò của mình trong việc xây dựng xã hội, họ cố gắng chu toàn hoạt động nơi gia đình, ngoài xã hội, trong nghề nghiệp với lòng quảng đại của Kitô giáo; như thế phương thức hành động của họ dần dần thấm nhập vào môi trường sống và cả môi trường làm việc.",
         chuong: 14,
         loi_chua: [
             "1Cr 9,22-23: Tôi đã trở nên yếu với những người yếu, để chinh phục những người",
@@ -3212,7 +3212,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Nhà tạm tốt đẹp nhất, hào quang sáng chói nhất, chân đèn rực rỡ nhất, thánh đườnguy nghi nhất, là LINH MỤ C. Đ ặt một linh mục nguội lạnh ở vương cung thánh đường, không ai th èm gặp. Đ ặt một linh mục thánh thiện trong một nguyện đường nghèo nàn, hẻo lánh, ai cũng tìm đến (Cha Chevrier). lãnh nhận chức Thánh là các ngài được thánh hiến cho Thiên Chúa theo một cách thức mới: Các ngài trở nên những khí cụ sống động của Chúa Kitô Tư tế vĩnh cửu, để qua c ác thời đại, các ngài có thể tiếp tục công việc kỳ diệu của Đấng đã lấy quyền năng cao cả mà tái lập toàn thể xã hội con người… … Chính sự thánh thiện của linh mục giúp các ngài rất nhiều trong việc chu toàn thừa tác vụ của mình một cách hữu hiệu: thật vậy, dù ơn Chúa có thể hoàn tất công trình cứu rỗi quanhững thừa tác viên bất xứng, nhưng sự thường để biểu lộ những việc lạ lùng của mình, Thiên Chúa thích dùng những người sẵn sàng nghe theo sự thúc dục và hướng dẫn của Chúa Thánh Thần cũng như những người kết hiệp mật thiết với Chúa Kitô và sống thánh thiện, để có thể nói như thánh Tông đồ rằng: Dù tôi sống, nhưng không phải là tôi sống, mà thực ra Chúa Kitô sống trong tôi (Gl 2,20).",
         chuong: 15,
         loi_chua: [
-            "LM 12ac: C ác linh mục còn có lý do đặc biệt phải đạt tới sự hoàn thiện, vì khi",
+            "LM 12ac: Các linh mục còn có lý do đặc biệt phải đạt tới sự hoàn thiện, vì khi",
         ],
         tham_chieu: [
             "GH 17, 21a, 28a; LM 1; TG 16a",
@@ -3326,7 +3326,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 366,
-        noi_dung: "Người công giáo Chúanhật không đủ sức để cải tạo thế giới vật chất ngày nay. Sống Thánh lễ là bí quyết để đem Chúa cho thế giới và đưa thế giới đến với Chúa. và trọng t âm vào việc cử hành phép Thánh Thể Chí thánh… Nhưng việc cử hành này muốn được chân thành và đầy đủ, vừa phải đưa đến những việc bácái và tương trợ lẫn nhau, v ừa phải dẫn tới các hoạt động truyền giáo, và cảnhững hình thức minh chứng Kitô giáo nữa.",
+        noi_dung: "Người công giáo Chúanhật không đủ sức để cải tạo thế giới vật chất ngày nay. Sống Thánh lễ là bí quyết để đem Chúa cho thế giới và đưa thế giới đến với Chúa. và trọng t âm vào việc cử hành phép Thánh Thể Chí thánh… Nhưng việc cử hành này muốn được chân thành và đầy đủ, vừa phải đưa đến những việc bác ái và tương trợ lẫn nhau, v ừa phải dẫn tới các hoạt động truyền giáo, và cảnhững hình thức minh chứng Kitô giáo nữa.",
         chuong: 15,
         loi_chua: [
             "LM 6e: Không một cộng đoàn Kitô hữu nào được thiết lập mà không đặt nền tảng",
@@ -3413,7 +3413,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 376,
-        noi_dung: "Mỗi khi trao Chúa Giêsu Thánh Thể cho giáo dân, con hãy ý thức trao cả đời con, thời giờ, sức khoẻ, tài năng, tiền của, nghĩa là máu thịt con cùng với Mình Máu thánh Chúa làm của nuôi mọi người và mỗi người không phân biệt ai.",
+        noi_dung: "Mỗi khi trao Chúa Giêsu Thánh Thể cho giáo dân, con hãy ý thức trao cả đời con, thời giờ, sức khoẻ, tài năng, tiền của, nghĩa là máu thịt con cùng với Mình Máu thánh Chúa làm của nuôi mọi người và mỗi người không phân biệtai.",
         chuong: 15,
     },
     {
@@ -3452,10 +3452,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 382,
-        noi_dung: "Thường ngày với bộ tu phục, hình ảnh thiên thần bácái nơi con, nói lên sự hiện diện của Chúa. Nhưng khi con đi qua, cũng như bao người khác, với bộ áo như mọi người, không đồng phục, không huy hi ệu làm sao con rao giảng, con làm chứng Chúa? Con đừng lo, dù có cải trang cách mấy, người ta sẽ nhận ra con là môn đệ Chúa, nếu con yêu thương anh em. Ngược lại, nếu con không yêu thương thực sự, nếu con có hậu ý đen tối, dù có khoác mấy lớp tu phục, dù có phân trần khéo léo, họ vẫn hoài nghi. em có lòng yêu thương nhau.",
+        noi_dung: "Thường ngày với bộ tu phục, hình ảnh thiên thần bác ái nơi con, nói lên sự hiện diện của Chúa. Nhưng khi con đi qua, cũng như bao người khác, với bộ áo như mọi người, không đồng phục, không huy hi ệu làm sao con rao giảng, con làm chứng Chúa? Con đừng lo, dù có cải trang cách mấy, người ta sẽ nhận ra con là môn đệ Chúa, nếu con yêu thương anh em. Ngược lại, nếu con không yêu thương thực sự, nếu con có hậu ý đen tối, dù có khoác mấy lớp tu phục, dù có phân trần khéo léo, họ vẫn hoài nghi. em có lòng yêu thương nhau.",
         chuong: 15,
         loi_chua: [
-            "Ga 13,35: Mọi người sẽ nhận biết anh em là môn đệ của Thầy ở điểm này: là anh",
+            "Ga 13,35: Mọi người sẽ nhận biếtanh em là môn đệ của Thầy ở điểm này: là anh",
         ],
     },
     {
@@ -3473,10 +3473,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 385,
-        noi_dung: "Đừng nghĩ rằng đời dâng hiến của con không còn ý nghĩa, vì không sống cộng đoàn, không làm việc bácái, giáo dục, từ thiện được nữa. Sao lại không ý nghĩa? Trên thánh giá, Chúa đã làm gì? Trong Nh à tạm Chúa đang làm gì? – Hiện diện, cầu nguyện, hy sinh. Chính lúc ấy, Chúa cứu chuộc nhân loại. chúng tôi nói, mà còn có quyền năng, có Thánh Thần, và một niềm xác tín sâu xa. Anh em bi ết, khi ở với anh em, c húng tôi đã sống thế nào để mưu ích cho anh em. mọi người và vô dụng đối với xã hội trần thế. Vì dù đôi khi không trực tiếp phụ giúp người đồng thời với mình nhưng tu s ĩ lại hiện diện cùng họ cách sâu xa hơn trong lòng Chúa Kitô và cộng tác một cách thiêng liêng với họ, để việc xây dựng xã hội trần thế luôn đặt nền móng nơi Chúa và luôn hướng về Người hầu những người xây dựng xã hội trần thế sẽ không luống công.",
+        noi_dung: "Đừng nghĩ rằng đời dâng hiến của con không còn ý nghĩa, vì không sống cộng đoàn, không làm việc bác ái, giáo dục, từ thiện được nữa. Sao lại không ý nghĩa? Trên thánh giá, Chúa đã làm gì? Trong Nh à tạm Chúa đang làm gì? – Hiện diện, cầu nguyện, hy sinh. Chính lúc ấy, Chúa cứu chuộc nhân loại. chúng tôi nói, mà còn có quyền năng, có Thánh Thần, và một niềm xác tín sâu xa. Anh em biết, khi ở với anh em, c húng tôi đã sống thế nào để mưu ích cho anh em. mọi người và vô dụng đối với xã hội trần thế. Vì dù đôi khi không trực tiếp phụ giúp người đồng thời với mình nhưng tu s ĩ lại hiện diện cùng họ cách sâu xa hơn trong lòng Chúa Kitô và cộng tác một cách thiêng liêng với họ, để việc xây dựng xã hội trần thế luôn đặt nền móng nơi Chúa và luôn hướng về Người hầu những người xây dựng xã hội trần thế sẽ không luống công.",
         chuong: 15,
         loi_chua: [
-            "1Tx 1,5: Khi ch úng tôi loan báo Tin Mừng cho anh em, thì không phải chỉ có lời",
+            "1Tx 1,5: Khi chúng tôi loan báo Tin Mừng cho anh em, thì không phải chỉ có lời",
             "GH 46b: Không ai được nghĩ rằng vì tận hiến như thế, các tu sĩ trở nên xa lạ với",
         ],
         tham_chieu: [
@@ -3569,7 +3569,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 395,
-        noi_dung: "Chúa Cứu Thế đã làm cách mạng, muôn triệu người hưởng ứng, khẩu hiệu của Ngài: Vâng lời đến chết (Pl 2,8). được thế nào là vâng phục trần gian, m ạc khải cho ch úng ta mầu nhiệm của Ngài, và thực hiện việc cứu thế bằng sự vâng phục Chúa Cha.",
+        noi_dung: "Chúa Cứu Thế đã làm cách mạng, muôn triệu người hưởng ứng, khẩu hiệu của Ngài: Vâng lời đến chết (Pl 2,8). được thế nào là vâng phục trần gian, m ạc khải cho chúng ta mầu nhiệm của Ngài, và thực hiện việc cứu thế bằng sự vâng phục Chúa Cha.",
         chuong: 16,
         loi_chua: [
             "Dt 5,8: D ầu là Con Thiên Chúa, Người đã phải trải quanhi ều đau khổ mới học",
@@ -3655,7 +3655,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 404,
-        noi_dung: "Hãy biết hoài nghi chính mình con, bi ết bàn hỏi với người có kinh nghiệm, biết tin tay Chúa sắp đặt quanhiều người, nhiều hoàn cảnh.",
+        noi_dung: "Hãy biết hoài nghi chính mình con, biết bàn hỏi với người có kinh nghiệm, biết tin tay Chúa sắp đặt qua nhiều người, nhiều hoàn cảnh.",
         chuong: 16,
     },
     {
@@ -3695,7 +3695,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Nghèo trong nơi conở, nghèo trong áo con m ặc, nghèo trong đồ con ăn, nghèo trong đồ con dùng, nghèo trong việc con làm (Cha Chevrier). Ngài là Đấng đã xức dầu cho Chúa C ứu Thế v à sai đi giảng Phúc âm cho người nghèo khó, phải tránh tất cảnhững gì bằng cách này hay c ách khác có thể làm mình xa c ách người ngh èo khó, v à hơn c ác m ôn đệ kh ác của Chúa Kitô, các ngài phải loại bỏ mọi thứ khoe khoang trong c ác đồ dùng của mình. Các ngài phải xếp đặt chỗ ở thế nào để không ai coi đó là nơi bất khả xâm phạm, và để không ai dù nghèo hèn đến đâu phải sợ hãi không bao giờ dám lui tới.",
         chuong: 17,
         loi_chua: [
-            "LM 17e: C ác linh mục cũng như Giám mục được Chúa Thánh Thần hướng dẫn,",
+            "LM 17e: Các linh mục cũng như Giám mục được Chúa Thánh Thần hướng dẫn,",
         ],
         tham_chieu: [
             "LM 17c; DT 13ab",
@@ -3745,7 +3745,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 414,
-        noi_dung: "Dùng của cải cách quảng đại, trọng của cải cách tế nhị, xa của cải cách anh hùng. Vì không phải của con, chính là của Chúa trao cho con sử dụng. định trái đất và mọi vật trên trái đất thuộc quyền sử dụng của mọi người và mọi dân tộc. Chính vì thế, của cải được tạo dựng phải được phân phối cho tất cả mọi người một cách hợp lý theo luật công bằng là luật đi liền với bácái. Dù chấp nhận bất cứ hình thức tư hữu nào đã được nhìn nhận bằng các định chế hợp pháp của các dân tộc, tuy nhiên tuỳ theo hoàn cảnh khác biệt và thay đổi, phải luôn luôn lưu ý đến mục đích chung hưởng của cải. Vì thế, khi s ử dụng của cải, con người phải coi của cải vật chất mà mình làm chủ một cách chính đáng không chỉ như của riêng mình, nhưng còn là của chung nữa: nghĩa là, của cải đó có thể sinh ích không những cho ri êng mình m à còn cho cả người khác. Vả lại, mọi người đều có quyền có một phần của cải đầy đủ cho mình và cho gia đình mình.",
+        noi_dung: "Dùng của cải cách quảng đại, trọng của cải cách tế nhị, xa của cải cách anh hùng. Vì không phải của con, chính là của Chúa trao cho con sử dụng. định trái đất và mọi vật trên trái đất thuộc quyền sử dụng của mọi người và mọi dân tộc. Chính vì thế, của cải được tạo dựng phải được phân phối cho tất cả mọi người một cách hợp lý theo luật công bằng là luật đi liền với bác ái. Dù chấp nhận bất cứ hình thức tư hữu nào đã được nhìn nhận bằng các định chế hợp pháp của các dân tộc, tuy nhiên tuỳ theo hoàn cảnh khác biệt và thay đổi, phải luôn luôn lưu ý đến mục đích chung hưởng của cải. Vì thế, khi s ử dụng của cải, con người phải coi của cải vật chất mà mình làm chủ một cách chính đáng không chỉ như của riêng mình, nhưng còn là của chung nữa: nghĩa là, của cải đó có thể sinh ích không những cho ri êng mình m à còn cho cả người khác. Vả lại, mọi người đều có quyền có một phần của cải đầy đủ cho mình và cho gia đình mình.",
         chuong: 17,
         loi_chua: [
             "Cv 2,44: Tất cả các tín hữu hợp nhất với nhau, và để mọi sự làm của chung.",
@@ -3796,7 +3796,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Xin Chúa cho con được khó nghèo như Chúa, thường con hay cầu xin ngược lại! thế nào: Người vốn giàu sang phú quý, nhưng đã tự ý trở nên nghèo khó vì anh em, để lấy cái nghèo của mình mà làm cho anh em trở nên giàu có. theo Chúa Kitô rất được trọng vọng, nhất là ngày nay. Vì thế, c ác tu s ĩ hãy miệt mài trau dồi và nếu cần, hãy biểu lộ sự khó nghèo ấy bằng những hình thức mới. Nh ờ nhân đức n ày, h ọ được san sẻ sự ngh èo khó của Chúa Kitô, Đấng tuy giàu có đã trở nên thiếu thốn vì chúng ta để chúng ta được giàu sang nhờ sự cùng cực của Người (x. 2Cr 8,9; Mt 8,20).",
         chuong: 17,
         loi_chua: [
-            "2Cr 8,9: Anh em bi ết Đức Giêsu Kitô, Chúa chúng ta, đã có lòng quảng đại như",
+            "2Cr 8,9: Anh em biết Đức Giêsu Kitô, Chúa chúng ta, đã có lòng quảng đại như",
             "DT 13a: T ự nguy ện sống khó nghèo, để theo Chúa Kitô là dấu chứng cho việc",
         ],
         tham_chieu: [
@@ -3836,7 +3836,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Sự thanh bần thứ nhất là gì? – Là làm việc! Đâ y là niềm an ủi của con khi hiểu ý nghĩa củanhọc mệt lao t ác hằng ngày. H ạnh phúc của con được Chúa nói trong Phúc âm: Phúc cho tôi tớ đó; chủ đến mà gặp nó đang làm như thế! (Lc 12,43). nhưng để có lương thực thường tồn đem lại phúc trường sinh, là th ứ lương thực Con Người sẽ ban cho c ác ông, bởi vì chính Con Người là Đấng Thiên Chúa Cha đã ghi dấu xác nhận. giúp đồng loại, thăng tiến toàn thể xã hội và tạo vật; và sau cùng, hân hoan trong niềm hy vọng và kiên nhẫn chịu đựng lẫn nhau, với đứcái sống động, họ phải noi g ương Chúa Kitô, Đấng đã làm việc tay chân và không ngừng cùng với Chúa Cha đem ơn cứu độ cho mọi người; và nhờ công ăn việc làm, họ phải tiến xa hơn trên đường thánh thiện, một sự thánh thiện còn có tính c ách tông đồ.",
         chuong: 17,
         loi_chua: [
-            "Ga 6,27: C ác ông hãy ra c ông làm việc không phải vì lương thực mau h ư nát,",
+            "Ga 6,27: Các ông hãy ra c ông làm việc không phải vì lương thực mau h ư nát,",
             "GH 41e: Công việc của con người phải là phương thế để đào tạo chính mình, trợ",
         ],
         tham_chieu: [
@@ -3862,7 +3862,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 18,
         loi_chua: [
             "Ga 8,34: Thật, tôi bảo thật các ông: hễ ai phạm tội thì làm nô lệ cho tội.",
-            "Đ T 10c: Phải cho h ọ (các ch ủng sinh) bi ết những hi ểm nguy đang đe d ọa đức",
+            "Đ T 10c: Phải cho h ọ (các ch ủng sinh) biết những hi ểm nguy đang đe d ọa đức",
         ],
         tham_chieu: [
             "Tt 1,15",
@@ -3994,7 +3994,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 442,
-        noi_dung: "Không trong trắng, việc tông đồ không bảo đảm: Kho tàng ngươi ở đâu thì lòng ngươi cũng ở đó (Mt 6,21). khuyến khích, mà qua các thời đại và ngay cả ngày nay vẫn được một số đông Kitô hữu sẵn lòng chấp nhận và tuân giữ một cách đáng khâm phục, thì hi ện thời vẫn luôn được Giáo hội hết sức quý trọng trong đời sống linh mục. Thực vậy, nó vừa là dấu chứng, vừa là niềm khích lệ đức bácái mục vụ và là nguồn mạch đặc biệt làm phát sinh đời sống thiêng liêng phong phú trên thế giới.",
+        noi_dung: "Không trong trắng, việc tông đồ không bảo đảm: Kho tàng ngươi ở đâu thì lòng ngươi cũng ở đó (Mt 6,21). khuyến khích, mà qua các thời đại và ngay cả ngày nay vẫn được một số đông Kitô hữu sẵn lòng chấp nhận và tuân giữ một cách đáng khâm phục, thì hi ện thời vẫn luôn được Giáo hội hết sức quý trọng trong đời sống linh mục. Thực vậy, nó vừa là dấu chứng, vừa là niềm khích lệ đức bác ái mục vụ và là nguồn mạch đặc biệt làm phát sinh đời sống thiêng liêng phong phú trên thế giới.",
         chuong: 18,
         loi_chua: [
             "LM 16a: S ự ch ế dục hoàn toàn v à vĩnh vi ễn vì N ước Trời đã được Chúa Kitô",
@@ -4042,7 +4042,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Các thánh cũng yếu đuối như con, có vị yếu đuối hơn con nữa, có thế mới có c ông nghiệp, mới làm thánh. Họ chỉ khác con là họ quyết tâm. đấu theo tính xác thịt. Thật vậy, khí giới chúng tôi dùng để chiến đấu không phải là thứ khí giới thuộc xác thịt, nhưng là những khí giới, nhờ Thiên Chúa, có sức đánh đổ các đồn lũy. đến thái độ này, là bao giờ cũng sẵn sàng tìm ý muốn Đấng đã sai mình ch ứ không phải tìm ý riêng. Thực ra, c ông việc của Thiên Chúa mà Chúa Thánh Thần tuyển chọn các Ngài để hoàn thành, vượt quá mọi năng lực và tầm mức khôn ngoan củanhân loại; vì Thiên Chúa đã lựa chọn những gì yếu hèn trong thế gian để bêu xấu những gì mạnh mẽ (1Cr 1,27). V ậy ý thức những sự yếu hèn của mình, thừa tác viên đích thực của Chúa Kitô khiêm tốn làm việc trong khi tìm xem điều gì đẹp lòng Thiên Chúa và như bị ràng buộc bởi Thánh Thần, trong mọi sự ngài đều tuân theo ý của Đấng muốn cho mọi người được cứu rỗi. Ngài có thể khám phá và tuân theo ý muốn này trong những sự kiện hằng ngày bằng cách khiêm tốn phục vụ mọi người được Thiên Chúa ủy thác cho mình qua các nhiệm vụ riêng của mình cũng như quanhững biến cố của đời sống. (* xt. GH 50b; LM 12d, 13a).",
         chuong: 18,
         loi_chua: [
-            "2Cr 10,3 -4: Quả thế, ch úng tôi đang sống trong xác ph àm, nhưng không chiến",
+            "2Cr 10,3 -4: Quả thế, chúng tôi đang sống trong xác ph àm, nhưng không chiến",
             "LM 15a: Trong những đức tính cần thiết hơn cả cho ch ức vụ linh mục, phải kể",
         ],
     },
@@ -4056,7 +4056,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Giá trị của thân xác con: - Được cứu chuộc bằng Máu Thánh Chúa, - Làm đền thờ Chúa Ba Ngôi, - Sẽ vinh hiển muôn đời. Đừng đem bán xôn! Thần sao? Mà Thánh Thần đang ngự trong anh em là Thánh Thần chính Thiên Chúa đã ban cho anh em. Như t hế, anh em đâu còn thu ộc về mình nữa, vì Thiên Chúa đã trả gi á đắt m à chu ộc l ấy anh em. V ậy anh em h ãy t ôn vinh Thiên Chúa nơi thân xác anh em. hợp những yếu tố thuộc thế giới vật chất. Vì thế, nhờ con người mà những yếu tố ấy đạt tới tuyệt đỉnh của chúng và tự do d âng lời ca t ụng Đấng Tạo Hoá. Vậy con người không được khinh mi ệt đời sống thể xác. Nhưng trái lại con người phải coi lại thân xác mình là tốt đẹp và đáng tôn trọng vì thân xác ấy do Chúa tạo dựng v à phải được sống lại ngày sau h ết. Tuy nhi ên mang thương tích do tội lỗi gây nên, con người cảm nghiệm nơi chính mình những nổi loạn của thân xác. Vậy chính phẩm giá con người đòi hỏi con người ca tụng Thiên Chúa nơi th ân xác của mình ch ứ đừng để th ân xác ấy n ô lệ cho những xu hướng xấu xa của lòng mình.",
         chuong: 18,
         loi_chua: [
-            "1Cr 6,19 -20: Anh em chẳng bi ết rằng thân xác anh em là Đ ền Thờ của Thánh",
+            "1Cr 6,19 -20: Anh em chẳng biết rằng thân xác anh em là Đ ền Thờ của Thánh",
             "MV 14a: Con người duy nhất với xác và hồn. Xét thể xác, con người là một tổng",
         ],
         tham_chieu: [
@@ -4066,7 +4066,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 451,
-        noi_dung: "Ban th ông tin của quỷ d âm ô hấp dẫn lắm, luật sư của xác th ịt biện h ộ ráo ri ết lắm. Đừng đối thoại với nó, hãy biết sau chốc lát hưởng lạc, con sẽ cảm thấy chán ngấy, cắn rứt và cô đơn: con đổi thiên đàng lấy hoả ngục sao? em sẽ không còn thoả mãn đam mê của tính xác thịt nữa. Vì tính xác thịt thì ước muốn những điều trái ngược với Thần Khí, còn Thần Khí lại ước muốn những điều trái ngược với tính xác thịt, đôi bên kình địch nhau, khiến anh em không làm được điều anh em muốn.. T ôi bảo trước cho m à bi ết, như t ôi đã từng bảo: những kẻ làm các điều đó sẽ không được thừa hưởng Nước Thiên Chúa.",
+        noi_dung: "Ban th ông tin của quỷ d âm ô hấp dẫn lắm, luật sư của xác th ịt biện h ộ ráo ri ết lắm. Đừng đối thoại với nó, hãy biết sau chốc lát hưởng lạc, con sẽ cảm thấy chán ngấy, cắn rứt và cô đơn: con đổi thiên đàng lấy hoả ngục sao? em sẽ không còn thoả mãn đam mê của tính xác thịt nữa. Vì tính xác thịt thì ước muốn những điều trái ngược với Thần Khí, còn Thần Khí lại ước muốn những điều trái ngược với tính xác thịt, đôi bên kình địch nhau, khiến anh em không làm được điều anh em muốn.. T ôi bảo trước cho m à biết, như t ôi đã từng bảo: những kẻ làm các điều đó sẽ không được thừa hưởng Nước Thiên Chúa.",
         chuong: 18,
         loi_chua: [
             "Gl 5,16-17.21: Tôi xin nói với anh em là hãy sống theo Thần Khí, và như vậy, anh",
@@ -4101,10 +4101,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 455,
-        noi_dung: "Xem thường không giữ ngũ quan là mở cửa cho địch v ào thành. Đ avít thắng G ôliát khổng lồ nhưng không thắng được mắt mình. anh sẽ sáng. Còn nếu mắt anh xấu, thì toàn thân anh sẽ tối. Vậy nếu ánh sáng nơi anh lại thành bóng tối, thì tối biết chừng nào!",
+        noi_dung: "Xem thường không giữ ngũ quan là mở cửa cho địch v ào thành. Đ avít thắng G ôliát khổng lồ nhưng không thắng được mắt mình. anh sẽ sáng. Còn nếu mắtanh xấu, thì toàn thân anh sẽ tối. Vậy nếu ánh sáng nơi anh lại thành bóng tối, thì tối biết chừng nào!",
         chuong: 18,
         loi_chua: [
-            "Mt 6,22-23: Đè n của thân thể là con m ắt. Vậy nếu mắt anh sáng, thì toàn thân",
+            "Mt 6,22-23: Đè n của thân thể là con m ắt. Vậy nếu mắtanh sáng, thì toàn thân",
         ],
     },
     {
@@ -4120,7 +4120,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Bại một trận không phải là thua cả cuộc chiến. Chúa dùng mọi sự để làm nên sự lành, kể cả tội lỗi. những ai yêu mến Người, tức là cho những kẻ được Người kêu gọi theo như ý Người định.",
         chuong: 18,
         loi_chua: [
-            "Rm 8,28: Ch úng ta bi ết rằng: Thiên Chúa làm cho mọi sự đều sinh lợi ích cho",
+            "Rm 8,28: Ch úng ta biết rằng: Thiên Chúa làm cho mọi sự đều sinh lợi ích cho",
         ],
     },
     {
@@ -4130,10 +4130,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 459,
-        noi_dung: "Càng sống trong trắng chí khí càng vững, vì đã được rèn luyện quanhiều trận anh dũng. được tôi luyện, họ sẽ lãnh phần thưởng là sự sống Chúa đã hứa ban cho những ai yêu mến Người.",
+        noi_dung: "Càng sống trong trắng chí khí càng vững, vì đã được rèn luyện qua nhiều trận anh dũng. được tôi luyện, họ sẽ lãnh phần thưởng là sự sống Chúa đã hứa ban cho những ai yêu mến Người.",
         chuong: 18,
         loi_chua: [
-            "Gc 1,12: Phúc thay người bi ết ki ên trì chịu đựng c ơn th ử th ách, vì một khi đã",
+            "Gc 1,12: Phúc thay người biết ki ên trì chịu đựng c ơn th ử th ách, vì một khi đã",
         ],
     },
     {
@@ -4338,7 +4338,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 484,
-        noi_dung: "Tình yêu vợ chồng là hình ảnh, là dấu hiệu tình yêu của Chúa Kitô đối với Hội thánh. Trong mầu nhiệm ấy, con tìm thấy cao cả, sức mạnh và hiệp nhất. Phấn khởi và nâng đỡ biết chừng nào! mẹ mà gắn bó với vợ mình, và cả hai sẽ thành một xương một thịt. Mầu nhiệm này thật là cao cả. Tôi muốn nói về Đức Kitô và Hội Thánh. phát xuất từ nguồn mạch tình yêu Thiên Chúa và được tác thành theo g ương kết hiệp của Chúa Kitô và Giáo hội. Thực vậy, như xưa kia Thiên Chúa đến gặp g ỡ d ân Ng ài bằng một giao ước yêu thương v à trung thành, ngày nay Đấng Cứu Thế, Bạn trăm năm của Giáo hội, cũng đến với đôi vợ chồng qua bí tích H ôn phối. Người cònở lại với h ọ để hai vợ chồng cũng mãi mãi trung thành yêu thương nhau như Người đã yêu thương Giáo hội và đã nộp mình vì Giáo hội. Tình yêu vợ chồng đích thực được kết nhập trong tình yêu Thiên Chúa, được hướng dẫn v à th êm phong ph ú nhờ quy ền n ăng cứu chu ộc của Chúa Kitô và hoạt động cứu rỗi của Giáo hội, để hai vợ chồng được dẫn dắt cách hữu hiệu đến cùng Thiên Chúa, cũng như được nâng đỡ và kiên cường trong nhiệm vụ cao cả làm cha mẹ.",
+        noi_dung: "Tình yêu vợ chồng là hình ảnh, là dấu hiệu tình yêu của Chúa Kitô đối với Hội thánh. Trong mầu nhiệm ấy, con tìm thấy cao cả, sức mạnh và hiệp nhất. Phấn khởi và nâng đỡ biết chừng nào! mẹ mà gắn bó với vợ mình, và cả hai sẽ thành một xương một thịt. Mầu nhiệm này thật là cao cả. Tôi muốn nói về Đức Kitô và Hội Thánh. phát xuất từ nguồn mạch tình yêu Thiên Chúa và được tác thành theo g ương kết hiệp của Chúa Kitô và Giáo hội. Thực vậy, như xưa kia Thiên Chúa đến gặp g ỡ d ân Ng ài bằng một giao ước yêu thương v à trung thành, ngày nay Đấng Cứu Thế, Bạn trăm năm của Giáo hội, cũng đến với đôi vợ chồng qua bí tích H ôn phối. Người cònở lại với h ọ để hai vợ chồng cũng mãi mãi trung thành yêu thương nhau như Người đã yêu thương Giáo hội và đã nộp mình vì Giáo hội. Tình yêu vợ chồng đích thực được kết nhập trong tình yêu Thiên Chúa, được hướng dẫn v à thêm phong ph ú nhờ quy ền n ăng cứu chu ộc của Chúa Kitô và hoạt động cứu rỗi của Giáo hội, để hai vợ chồng được dẫn dắt cách hữu hiệu đến cùng Thiên Chúa, cũng như được nâng đỡ và kiên cường trong nhiệm vụ cao cả làm cha mẹ.",
         chuong: 19,
         loi_chua: [
             "Ep 5,31-32: Sách Thánh có lời chép rằng: Chính vì thế, người đàn ông sẽ lìa cha",
@@ -4376,7 +4376,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 489,
-        noi_dung: "Sự hợp nhất giữa đôi bạn phải rất trọn vẹn: hiệp nhất thể xác, tình yêu, tinh thần và thiêng liêng, nhờ sự hiện diện của Chúa Kitô. Yêu trong Chúa, đẹp lắm! Yêu thương vì Chúa, càng đẹp hơn! Gia đình lắng nghe tiếng Chúa và cùng tiến lên trong sự thân mật với Chúa. thành một x ương một th ịt. Như vậy, h ọ không còn là hai, nhưng chỉ là một xương một th ịt. V ậy, sự gì Thiên Chúa đã phối hợp, loài người không được phân ly. quanhững động tác riêng của hôn nhân. Bởi vậy, những hành vi thực hiện sự kết hợp thân mật và thanh khiết của đôi vợ chồng đều cao quý và chính đáng. Được thi hành cách thực sự nhân linh, những hành vi ấy biểu hiện và khích lệ sự trao hi ến hỗ tương, nhờ đó hai người làm cho nhau th êm phong ph ú trong hoan lạc và biết ơn.",
+        noi_dung: "Sự hợp nhất giữa đôi bạn phải rất trọn vẹn: hiệp nhất thể xác, tình yêu, tinh thần và thiêng liêng, nhờ sự hiện diện của Chúa Kitô. Yêu trong Chúa, đẹp lắm! Yêu thương vì Chúa, càng đẹp hơn! Gia đình lắng nghe tiếng Chúa và cùng tiến lên trong sự thân mật với Chúa. thành một x ương một th ịt. Như vậy, h ọ không còn là hai, nhưng chỉ là một xương một th ịt. V ậy, sự gì Thiên Chúa đã phối hợp, loài người không được phân ly. quanhững động tác riêng của hôn nhân. Bởi vậy, những hành vi thực hiện sự kết hợp thân mật và thanh khiết của đôi vợ chồng đều cao quý và chính đáng. Được thi hành cách thực sự nhân linh, những hành vi ấy biểu hiện và khích lệ sự trao hi ến hỗ tương, nhờ đó hai người làm cho nhau thêm phong ph ú trong hoan lạc và biết ơn.",
         chuong: 19,
         loi_chua: [
             "Mt 19,5-6: Vì thế, người ta sẽ lìa cha m ẹ mà gắn bó với vợ mình, v à cả hai sẽ",
@@ -4423,7 +4423,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 494,
-        noi_dung: "Gia đình là tế bào của Hội thánh. Chân lý này làm thấy rõ sự cao cả và sứ mệnh của gia đình: 1. Nối tiếp Hội thánh Chúa Giêsu đã thiết lập ở trần gian. 2. Làm cho Chúa hiện diện như là Chủ gia đình thật sự. 3. Làm chứng tích sự hiện diện của Hội thánh bằng cuộc sống gia đình hằng ngày. 4. Nỗ lực vươn lên đến Chúa, làm Hội thánh cùng tiến lên. 5. Thắt chặt mối liên hệ giữa Chúa với mỗi chi thể trong gia đình. tiên và sống động của xã hội. Gia đình sẽ chu toàn được sứ mệnh đó nếu gia đình tỏ ranhư một đền thờ của Giáo hội trong nhà mình nhờ yêu thương nhau và cùng nhau d âng lời cầu nguyện lên Thiên Chúa, nếu tất cả gia đình cùng tham d ự v ào việc phụng vụ của Giáo hội, sau cùng nếu gia đình t ỏ ra hi ếu khách và cổ võ đức công bằng cũng như những việc thiện khác giúp các anh em đang túng thiếu.",
+        noi_dung: "Gia đình là tế bào của Hội thánh. Chân lý này làm thấy rõ sự cao cả và sứ mệnh của gia đình: 1. Nối tiếp Hội thánh Chúa Giêsu đã thiết lập ở trần gian. 2. Làm cho Chúa hiện diện như là Chủ gia đình thật sự. 3. Làm chứng tích sự hiện diện của Hội thánh bằng cuộc sống gia đình hằng ngày. 4. Nỗ lực vươn lên đến Chúa, làm Hội thánh cùng tiến lên. 5. Thắt chặt mối liên hệ giữa Chúa với mỗi chi thể trong gia đình. tiên và sống động của xã hội. Gia đình sẽ chu toàn được sứ mệnh đó nếu gia đình tỏ ra như một đền thờ của Giáo hội trong nhà mình nhờ yêu thương nhau và cùng nhau d âng lời cầu nguyện lên Thiên Chúa, nếu tất cả gia đình cùng tham d ự v ào việc phụng vụ của Giáo hội, sau cùng nếu gia đình t ỏ ra hi ếu khách và cổ võ đức công bằng cũng như những việc thiện khác giúp các anh em đang túng thiếu.",
         chuong: 19,
         loi_chua: [
             "TĐ  11d: Chính gia đình đã lãnh nhận từ Thiên Chúa sứ mệnh trở nên tế bào đầu",
@@ -4439,7 +4439,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 496,
-        noi_dung: "Giáo dục con cái là trường vươn l ên cho cha m ẹ. Tr ẻ con có cái nhìn chỉ trích, chúng là những quan sát viên khắt khe. Chúng bắt buộc các con là bậc cha mẹ xử trí đúng vai trò của mình và nhờ đó giúp các con tiến lên. riêng vào việc thánh hoá cha mẹ. Thực vậy, con cái sẽ đáp lại công ơn cha mẹ với l òng bi ết ơn, t âm tình hi ếu th ảo v à tin c ậy, v à sẽ theo đạo làm con m à phụng dưỡng cha mẹ trong nghịch cảnh cũng như trong tuổi già cô quạnh.",
+        noi_dung: "Giáo dục con cái là trường vươn l ên cho cha m ẹ. Tr ẻ con có cái nhìn chỉ trích, chúng là những quan sát viên khắt khe. Chúng bắt buộc các con là bậc cha mẹ xử trí đúng vai trò của mình và nhờ đó giúp các con tiến lên. riêng vào việc thánh hoá cha mẹ. Thực vậy, con cái sẽ đáp lại công ơn cha mẹ với l òng biết ơn, t âm tình hi ếu th ảo v à tin c ậy, v à sẽ theo đạo làm con m à phụng dưỡng cha mẹ trong nghịch cảnh cũng như trong tuổi già cô quạnh.",
         chuong: 19,
         loi_chua: [
             "MV 48d: Con cái là những phần tử sống động trong gia đình nên cũng góp phần",
@@ -4492,7 +4492,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 503,
-        noi_dung: "Gia đình công giáo làm tông đồ bằng tiếp đón. Mở rộng nhà các con và đồng thời mở rộng lòng các con. Nhà nào lại không có khách? Tiếp đón là cách thế tiện nhất, tự nhiên nhất, để làm chứng tích về tình yêu, về sự hiệp nhất, về niềm vui, về cởi mở… Nghệ thu ật tiếp đón sẽ tr ở n ên tông đồ tiếp đón. C ác con h ãy sống v à làm cho những ai đến gia đình các con đều thèm sống như các con. khách, vì nhờ vậy, có những người đã được tiếp đón các thiên thần mà không biết. nhận làm con những đứa trẻ bị bỏ rơi, ân cần tiếp đón những khách lạ, cộng tác với học đường, khuyên bảo và giúp đỡ thanh thiếu niên, giúp những người đã đính hôn chuẩn bị cho việc hôn nhân của họ được tốt đẹp, giúp dạy giáo lý, nâng đỡ những đôi vợ chồng cũng như những gia đình khi họ gặp khó khăn về vật chất hay tinh thần, lo cho những người già cả không những có những điều cần thiết, mà còn cung cấp cho họ những tiện nghi chính đáng của tiến bộ kinh tế.",
+        noi_dung: "Gia đình công giáo làm tông đồ bằng tiếp đón. Mở rộng nhà các con và đồng thời mở rộng lòng các con. Nhà nào lại không có khách? Tiếp đón là cách thế tiện nhất, tự nhiên nhất, để làm chứng tích về tình yêu, về sự hiệp nhất, về niềm vui, về cởi mở… Nghệ thu ật tiếp đón sẽ tr ở n ên tông đồ tiếp đón. Các con h ãy sống v à làm cho những ai đến gia đình các con đều thèm sống như các con. khách, vì nhờ vậy, có những người đã được tiếp đón các thiên thần mà không biết. nhận làm con những đứa trẻ bị bỏ rơi, ân cần tiếp đón những khách lạ, cộng tác với học đường, khuyên bảo và giúp đỡ thanh thiếu niên, giúp những người đã đính hôn chuẩn bị cho việc hôn nhân của họ được tốt đẹp, giúp dạy giáo lý, nâng đỡ những đôi vợ chồng cũng như những gia đình khi họ gặp khó khăn về vật chất hay tinh thần, lo cho những người già cả không những có những điều cần thiết, mà còn cung cấp cho họ những tiện nghi chính đáng của tiến bộ kinh tế.",
         chuong: 19,
         loi_chua: [
             "Dt 13,1 -2: Anh em h ãy giữ mãi tình huynh đệ. Anh em đừng quên tỏ lòng hiếu",
@@ -4607,7 +4607,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Đừng chối những khả năng của con, những thành công của con, hãy tạ ơn Chúa vì Ngài sử dụng con như họa sĩ dùng ngòi bút ba xu. trong Đức Kitô, tạ ơn Người là Đấng đã dùng chúng tôi mà làm cho sự nhận biết Đức Kitô, như hương thơm, lan toả khắp nơi. mọi tạo vật suy phục Chúa Cha, để Thiên Chúa nên tất cả trong mọi người (x. 1Cr 15,27 -28). Người cũng th ông ban cho c ác môn đệ quy ền bính đó để h ọ được hưởng sự tự do vương giả và chiến thắng ách thống trị của tội lỗi nơi họ, bằng một đời sống từ bỏ và thánh thiện (x. Rm 6,12), hơn nữa để khi phụng sự Chúa Kitô nơi thanhân, họ khiêm nhường và kiên nhẫn dẫn đưa anh em mình đến cùng Đức Vua, Đấng mà phụng sự Người là thống trị.",
         chuong: 20,
         loi_chua: [
-            "2Cr 2,14: T ạ ơn Thiên Chúa, Đấng hằng cho ch úng tôi tham d ự cuộc khải hoàn",
+            "2Cr 2,14: T ạ ơn Thiên Chúa, Đấng hằng cho chúng tôi tham d ự cuộc khải hoàn",
             "GH 36a: M ọi vật đều suy phục Người (Chúa Kitô), cho đến khi Người cùng với",
         ],
         tham_chieu: [
@@ -4646,7 +4646,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 520,
-        noi_dung: "Thử thách cay đắng nhất là chấp nhận giới hạn của mình. Chịu đóng đinh vào một thánh giá hẹp, con c àng đau đớn hơn. Nếu thánh giá rộng con còn được thoải mái hơn phần nào! được, th ân xác t ôi như đã b ị một cái d ằm đâm v ào, một th ủ h ạ của Xa -tan được sai đến vả mặt tôi, để tôi khỏi tự cao tự đại. hủy hoại hiệp nhất: Nếu ta nói rằng mình vô tội, ta kể Người là kẻ dối trá và Lời của Người không ở trong ch úng ta (1Ga 1,10). V ậy, chúng ta h ãy khiêm nhường xin lỗi Chúa và xin lỗi những anh em ly khai, cũng như chúng ta tha kẻ có nợ chúng ta.",
+        noi_dung: "Thử thách cay đắng nhất là chấp nhận giới hạn của mình. Chịu đóng đinh vào một thánh giá hẹp, con c àng đau đớn hơn. Nếu thánh giá rộng con còn được thoải mái hơn phần nào! được, th ân xác t ôi như đã b ị một cái d ằm đâm v ào, một th ủ h ạ của Xa -tan được sai đến vả mặt tôi, để tôi khỏi tự cao tự đại. hủy hoại hiệp nhất: Nếu ta nói rằng mình vô tội, ta kể Người là kẻ dối trá và Lời của Người không ở trong chúng ta (1Ga 1,10). V ậy, chúng ta h ãy khiêm nhường xin lỗi Chúa và xin lỗi những anh em ly khai, cũng như chúng ta tha kẻ có nợ chúng ta.",
         chuong: 20,
         loi_chua: [
             "2Cr 12,7: Đ ể tôi khỏi tự cao tự đại vì những mặc kh ải phi thường tôi đã nhận",
@@ -4701,7 +4701,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 21,
         loi_chua: [
             "Mt 17,9: Đang khi thầy tr ò từ trên núi xuống, Đức Giêsu truy ền cho c ác ông",
-            "GH 41c: C ác linh mục… phải là những chứng nhân sống động của Thiên Chúa",
+            "GH 41c: Các linh mục… phải là những chứng nhân sống động của Thiên Chúa",
         ],
     },
     {
@@ -4758,7 +4758,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 22,
         loi_chua: [
             "2Cr 6,4.8-10: Trong mọi sự, chúng tôi luôn chứng tỏ mình là những thừa tác viên",
-            "LM 11a: … C ác linh mục phải hết sức để tâm giải thích cho các tín hữu hiểu biết",
+            "LM 11a: … Các linh mục phải hết sức để tâm giải thích cho các tín hữu hiểu biết",
         ],
         tham_chieu: [
             "Pl 1,17-18",
@@ -4841,7 +4841,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Càng được chung phần thống khổ của Đức Kitô chừng nào, anh em h ãy vui m ừng! Ngõ hầu khi vinh quang của Ngài mạc khải ra, anh em cũng được vui m ừng hớn hở (1Pr 4,13). gian sẽ vui mừng. Anh em sẽ lo buồn, nhưng nỗi buồn của anh em sẽ trở thành niềm vui. Thánh giá, sách dạy sự khôn ngoan thật",
         chuong: 22,
         loi_chua: [
-            "Ga 16,20: Thật, Thầy bảo thật anh em : anh em sẽ khóc lóc và than van, còn thế",
+            "Ga 16,20: Thật, Thầy bảo thậtanh em : anh em sẽ khóc lóc và than van, còn thế",
             " ",
         ],
     },
@@ -4862,7 +4862,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 546,
-        noi_dung: "Thế giới nghèo quằn quại trong đói khát, tủi nhục, trong bao vấn đề xã hội, lúng túng giải quyết không được. Khó bó khôn. Thế giới tư bản lặn lội trong khoái lạc, tạo thêm nhu cầu, đầu óc chất chứa tư tưởng lộn xộn, tuyên truyền thêm bất an, hoang mang, tự tôn mình làm thầy thiên hạ. Ngạo mất khôn. cảnh quá cùng cực, cũng như tự do ấy bị hạ giá một khi buông thả theo những dễ dãi quá mức trong cuộc sống, con người dường như tự khép mình trong thứ tháp ng à c ô đơn. Tr ái lại, tự do ấy được c ủng cố khi con người chấp nhận những ràng buộc không thể tránh được trong cuộc sống xã hội, coi những nhu cầu muôn mặt của tình li ên đới nhân loại là của mình v à tự buộc mình phải phục vụ cho cộng đoàn nhân loại.",
+        noi_dung: "Thế giới nghèo quằn quại trong đói khát, tủi nhục, trong bao vấn đề xã hội, lúng túng giải quyết không được. Khó bó khôn. Thế giới tư bản lặn lội trong khoái lạc, tạo thêm nhu cầu, đầu óc chất chứa tư tưởng lộn xộn, tuyên truyền thêm bấtan, hoang mang, tự tôn mình làm thầy thiên hạ. Ngạo mất khôn. cảnh quá cùng cực, cũng như tự do ấy bị hạ giá một khi buông thả theo những dễ dãi quá mức trong cuộc sống, con người dường như tự khép mình trong thứ tháp ng à c ô đơn. Tr ái lại, tự do ấy được c ủng cố khi con người chấp nhận những ràng buộc không thể tránh được trong cuộc sống xã hội, coi những nhu cầu muôn mặt của tình li ên đới nhân loại là của mình v à tự buộc mình phải phục vụ cho cộng đoàn nhân loại.",
         chuong: 23,
         loi_chua: [
             "MV 31b: Sự tự do của con người nhiều lúc suy giảm đi, một khi con người rơi vào",
@@ -4898,7 +4898,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Các nhà bác học, các thiên tài đã đóng góp rất nhiều cho v ăn minh thế giới, nhưng họ chỉ có những mảnh vụn ánh sáng, mảnh vụn chân lý. Một thế giới muốn có trật tự tốt đẹp, cần phải có một sự khôn ngoan siêu việt: Ngôi Lời, nhờ Người mà muôn vật được tạo thành. Thiên Chúa; vì thế, những cái hữu hình là do những cái vô hình mà có. của lý trí, có thể từ các tạo vật nhận biết cách chắc chắn có Thiên Chúanhư nguyên lý và cứu cánh mọi sự (x. Rm 1,20). C ông đồng còn dạy: Chính nhờ Thiên Chúa m ạc kh ải m à tất cảnhững gì thu ộc về Thiên Chúa, tự nó vốn không vượt qua kh ả năng lý trí con người, trong hoàn cảnh hiện tại củanhân loại, đều có thể biết được cách dễ dàng, chắc chắn mà không lẫn lộn sai lầm.",
         chuong: 23,
         loi_chua: [
-            "Dt 11,3: Nh ờ đức tin, ch úng ta hi ểu rằng vũ trụ đã được hình thành bởi lời của",
+            "Dt 11,3: Nh ờ đức tin, chúng ta hi ểu rằng vũ trụ đã được hình thành bởi lời của",
             "MK 6b: Thánh Công đồng tuyên xưng rằng: Con người nhờ ánh sáng tự nhiên",
         ],
         tham_chieu: [
@@ -4911,7 +4911,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Ngôi Lời đã nhập thể, và Đức Chúa Cha đã phán: Ngài là Con chí ái của Ta, kẻ Ta đã sủng mộ, các ngươi hãy nghe Ngài (Mt 17,5). Người là Đường: Con chỉ theo bước chân Người. Người là sự Thật: Con chỉ tin lời dạy của Người. Người là sự Sống: Con chỉ sống bằng tinh thần của Người (x. Ga 14,6). khôn để biết Thiên Chúa thật. Chúng ta ở trong Thiên Chúa thật, ở trong Con của Người là Đức Giêsu Kitô. Đức Giêsu Kitô là Thiên Chúa thật và là sự sống đời đời. chân lý đích thực về hoàn cảnh và ơn gọi toàn diện của họ, vì C húa Kitô là nguyên lý và mẫu mực củanhân loại đổi mới, một nhân loại thấm nhuần tình thương huynh đệ, sự thành thật và tinh thần hoà bình m à mọi người đều ước nguyện… Chính Chúa Kitô là sự thật và là đường lối mà việc rao giảng Phúc âm đã b ày t ỏ cho mọi người khi vọng đến tai h ọ những lời của chính Chúa Kitô: Hãy hối cải và tin vào Phúc âm (Mc 1,15). Vì kẻ nào không tin thì đã bị luận phạt rồi, nên lời Chúa Kitô vừa là lời luận phạt vừa là lời ân sủng, vừa đem lại sự chết, vừa thông ban sự sống.",
         chuong: 23,
         loi_chua: [
-            "1Ga 5,20: Ch úng ta bi ết rằng Con Thiên Chúa đã đến và ban cho ch úng ta trí",
+            "1Ga 5,20: Ch úng ta biết rằng Con Thiên Chúa đã đến và ban cho chúng ta trí",
             "TG 8: Khi bi ểu dương Chúa Kitô, chính là Giáo hội mạc khải cho con người biết",
         ],
         tham_chieu: [
@@ -4921,10 +4921,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 551,
-        noi_dung: "Con đừng nghi ngại lúc thấy đường hy vọng vắng bóng những người mà thế gian cho là khôn ngoan. Chúa Giêsu đã báo trước: Lạy Cha là Chúa trời đất, Con xin ngợi khen Cha, vì Cha đã giấu các điều ấy với hạng khôn ngoan thông thái, mà đã mạc khải ra cho những kẻ bé mọn (Mt 11,25). Con hãy cảm tạ Chúa vì đã ban cho con biết sự khôn ngoan thật. có phúc, vì được nghe. Quả thế, Thầy bảo thật anh em, nhiều ngôn sứ và nhiều người công chính đã mong m ỏi thấy điều anh em đang thấy, mà không được thấy, nghe điều anh em đang nghe, mà không được nghe.",
+        noi_dung: "Con đừng nghi ngại lúc thấy đường hy vọng vắng bóng những người mà thế gian cho là khôn ngoan. Chúa Giêsu đã báo trước: Lạy Cha là Chúa trời đất, Con xin ngợi khen Cha, vì Cha đã giấu các điều ấy với hạng khôn ngoan thông thái, mà đã mạc khải ra cho những kẻ bé mọn (Mt 11,25). Con hãy cảm tạ Chúa vì đã ban cho con biết sự khôn ngoan thật. có phúc, vì được nghe. Quả thế, Thầy bảo thậtanh em, nhiều ngôn sứ và nhiều người công chính đã mong m ỏi thấy điều anh em đang thấy, mà không được thấy, nghe điều anh em đang nghe, mà không được nghe.",
         chuong: 23,
         loi_chua: [
-            "Mt 13,16-17: Còn anh em, mắt anh em thật có phúc vì được thấy, tai anh em thật",
+            "Mt 13,16-17: Còn anh em, mắtanh em thật có phúc vì được thấy, tai anh em thật",
         ],
         tham_chieu: [
             "Ep 1,16-17",
@@ -4932,7 +4932,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 552,
-        noi_dung: "Thế gian sợ sự khôn ngoan thật, vì Chúa Giêsu gọi đó là đường hẹp, vì nó đảo lộn cuộc sống cũ, vì nó quấy rầy thế gian, vì nó đặt lại nấc thang giá trị, vì thiên hạ cho là chướng tai. Nhưng qua mọi thời đại những t âm hồn thi ện chí khi êm cung, v à giới trẻ đầy nhi ệt huyết, đã theo sự khôn ngoan ấy đến cùng. theo những dục vọng của mình mà kiếm hết thầy này đến thầy nọ, bởi ngứa tai muốn nghe. H ọ sẽ ngoảnh tai đi không nghe chân lý, nhưng hướng về những chuyện hoang đường. Phần anh, h ãy thận trọng trong mọi sự, hãy chịu đựng đau khổ, làm công việc của người loan báo Tin Mừng và chu toàn chức vụ của anh.",
+        noi_dung: "Thế gian sợ sự khôn ngoan thật, vì Chúa Giêsu gọi đó là đường hẹp, vì nó đảo lộn cuộc sống cũ, vì nó quấy rầy thế gian, vì nó đặt lại nấc thang giá trị, vì thiên hạ cho là chướng tai. Nhưng qua mọi thời đại những t âm hồn thi ện chí khi êm cung, v à giới trẻ đầy nhi ệt huyết, đã theo sự khôn ngoan ấy đến cùng. theo những dục vọng của mình mà kiếm hết thầy này đến thầy nọ, bởi ngứa tai muốn nghe. Họ sẽ ngoảnh tai đi không nghe chân lý, nhưng hướng về những chuyện hoang đường. Phần anh, h ãy thận trọng trong mọi sự, hãy chịu đựng đau khổ, làm công việc của người loan báo Tin Mừng và chu toàn chức vụ của anh.",
         chuong: 23,
         loi_chua: [
             "2Tm 4,3-5: Sẽ đến thời người ta không còn chịu nghe giáo lý lành mạnh, nhưng",
@@ -5037,10 +5037,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 565,
-        noi_dung: "Xem nghề nghiệp con là một ơn gọi thực hiện ý Chúa giữa xã hội, con sẽ thánh hoá nghề con. sinh trong tình bácái và thấm nhiễm tinh thần tông đồ, sẽ làm chứng cho một vị Thầy duy nhất  là Chúa Kitô bằng đời sống cũng như bằng lời giảng dạy.",
+        noi_dung: "Xem nghề nghiệp con là một ơn gọi thực hiện ý Chúa giữa xã hội, con sẽ thánh hoá nghề con. sinh trong tình bác ái và thấm nhiễm tinh thần tông đồ, sẽ làm chứng cho một vị Thầy duy nhất  là Chúa Kitô bằng đời sống cũng như bằng lời giảng dạy.",
         chuong: 24,
         loi_chua: [
-            "GD 8c: C ác nhàgiáo dục, nhờ liên kết với các bạn đồng nghiệp và với các học",
+            "GD 8c: Các nhàgiáo dục, nhờ liên kết với các bạn đồng nghiệp và với các học",
         ],
         tham_chieu: [
             "TĐ  7b; TG 21c; GD 12, Phần kết luận",
@@ -5169,7 +5169,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 581,
-        noi_dung: "Con hiểu biết một chân lý khi con tìm học chân lý ấy. Con c àng thông hiểu rõ rệt hơn khi con tìm cách bênh vực chân lý ấy. Anh biết anh đã học với những ai. Và từ thời thơ ấu, anh đã biết Sách Thánh, sách có thể dạy anh n ên người khôn ngoan để được ơn cứu độ, nhờ lòng tin vào Đức Kitô Giêsu. Tất cảnhững gì viết trong Sách Thánh đều do Thiên Chúa linh hứng, và có ích cho việc giảng dạy, biện bác, sửa dạy, giáo dục để trở nên công chính. Nh ờ vậy, người của Thiên Chúa nên thập toàn, và được trang b ị đầy đủ để làm mọi việc lành. Vinh dự của con người là chinh phục và cứu chuộc vũ trụ",
+        noi_dung: "Con hiểu biết một chân lý khi con tìm học chân lý ấy. Con c àng thông hiểu rõ rệt hơn khi con tìm cách bênh vực chân lý ấy. Anh biếtanh đã học với những ai. Và từ thời thơ ấu, anh đã biết Sách Thánh, sách có thể dạy anh n ên người khôn ngoan để được ơn cứu độ, nhờ lòng tin vào Đức Kitô Giêsu. Tất cảnhững gì viết trong Sách Thánh đều do Thiên Chúa linh hứng, và có ích cho việc giảng dạy, biện bác, sửa dạy, giáo dục để trở nên công chính. Nh ờ vậy, người của Thiên Chúa nên thập toàn, và được trang b ị đầy đủ để làm mọi việc lành. Vinh dự của con người là chinh phục và cứu chuộc vũ trụ",
         chuong: 24,
         loi_chua: [
             "2Tm 3,14-17: Phần anh, hãy giữ vững những gì anh đã học được và đã tin chắc.",
@@ -5202,7 +5202,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 584,
-        noi_dung: "Thiên Chúa muốn chúng ta hợp tác trong việc tạo dựng cũng như trong việc cứu rỗi. Nếu Chúa làm một mình, c ông trình sẽ hoàn hảo hơn, nhưng con người sẽ kém cao cả. kết với anh em và phục vụ họ, có thể thực thi bácái đích thực và góp công vào việc ki ện toàn c ông cuộc sáng tạo của Thiên Chúa. H ơn nữa ch úng t ôi cho rằng nhờ việc làm của mình, con người cộng tác vào chính công cuộc cứu rỗi của Chúa Giêsu Kitô, Đấng đã nâng cao gi á trị của việc làm khi Người làm việc với chính hai bàn tay của mình tại Nagiarét.",
+        noi_dung: "Thiên Chúa muốn chúng ta hợp tác trong việc tạo dựng cũng như trong việc cứu rỗi. Nếu Chúa làm một mình, c ông trình sẽ hoàn hảo hơn, nhưng con người sẽ kém cao cả. kết với anh em và phục vụ họ, có thể thực thi bác ái đích thực và góp công vào việc ki ện toàn c ông cuộc sáng tạo của Thiên Chúa. H ơn nữa chúng t ôi cho rằng nhờ việc làm của mình, con người cộng tác vào chính công cuộc cứu rỗi của Chúa Giêsu Kitô, Đấng đã nâng cao gi á trị của việc làm khi Người làm việc với chính hai bàn tay của mình tại Nagiarét.",
         chuong: 25,
         loi_chua: [
             "MV 67b: Nhờ việc làm, con người theo lệ thường nuôi sống mình và gia đình, liên",
@@ -5248,7 +5248,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Món quà tuyệt hảo mà con có thể tặng người giúp việc con không phải là chiếc áo đẹp, đôi giày tốt, cái đồng hồ quý, nhưng là tình người, tình anh em mà còn âm thầm tặng họ qua các cử chỉ nhỏ nhặt suốt ngày. đó. Tôi, Phao-lô, một người đã già và hơn nữa, một người đang bị tù vì Đức Kitô Giêsu, tôi van xin anh cho đứa con của tôi, đứa con t ôi đã sinh ra trong cảnh xiềng xích, đó là Ô-nê-xi-mô",
         chuong: 25,
         loi_chua: [
-            "Plm 9-10: Nhưng tôi thích k êu gọi lòng bácái của anh hơn, để xin anh làm điều",
+            "Plm 9-10: Nhưng tôi thích k êu gọi lòng bác ái của anh hơn, để xin anh làm điều",
         ],
     },
     {
@@ -5283,7 +5283,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 594,
-        noi_dung: "Nguyên tử lực là khám phá lớn lao và hãnh diện cho thời đại ta. Ít người sử dụng nó vào mục đích hoà bình, phát triển. Càng ít người biết chiêm ngưỡng, ca ngợi quyền năng của Thiên Chúa. Nhưng nhiều người chiếm lấy món quà của Cha trên trời, để chế tạo khí giới ngày càng kinh khủng giết chết anh em. sức  trầm trọng cho nhân loại và xúc phạm đến người nghèo một cách không thể tha th ứ được. Và phải hết sức sợ rằng cuộc thi đua võ trang, nếu vẫn còn tiếp di ễn, một ngày nào đó, sẽ g ây ra mọi tai h ọa do những phương thế đã được nó chuẩn bị sẵn",
+        noi_dung: "Nguyên tử lực là khám phá lớn lao và hãnh diện cho thời đại ta. Ít người sử dụng nó vào mục đích hoà bình, phát triển. Càng ít người biết chiêm ngưỡng, ca ngợi quyền năng của Thiên Chúa. Nhưng nhiều người chiếm lấy món quà của Cha trên trời, để chế tạo khí giới ngày càng kinh khủng giết chếtanh em. sức  trầm trọng cho nhân loại và xúc phạm đến người nghèo một cách không thể tha th ứ được. Và phải hết sức sợ rằng cuộc thi đua võ trang, nếu vẫn còn tiếp di ễn, một ngày nào đó, sẽ g ây ra mọi tai h ọa do những phương thế đã được nó chuẩn bị sẵn",
         chuong: 25,
         loi_chua: [
             "MV 81c: Cần phải tuyên bố một lần nữa: cuộc thi đua võ trang là một tai họa hết",
@@ -5312,10 +5312,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 597,
-        noi_dung: "Bớt di ễn thuy ết về h ạn h ánở Sahel, s óng thầnở Bangladesh, bạo động ở NamM ỹ, nhưng hãy tìm thấy Chúa Giêsu bị bỏ rơi, kém mở mang, kề bên con, dưới mái nhà con, bên kia vách tường con. Nếu nguồn suối yêu thương củanhân loại đã ráo cạn, Nếu sóng thần của hận thù ích kỷ đã dâng cao, Thì đại họa diệt vong không còn xa! của bất cứ người nào và tích cực giúp đỡ khi h ọ đến với mình, hoặc có thể là một người gi à l ão b ị mọi người bỏ r ơi, ho ặc một c ông nhân ngo ại quốc b ị khinh bỉ một cách bất công, hoặc một người lưu vong, hay một đứa bé sinh ra do một tình duyên bất hợp ph áp chịu đau khổ c ách bất c ông vì tội lỗi mình không phạm, ho ặc một người đói ăn đang k êu gọi lương t âm ch úng ta, làm vang lại lời của Chúa: Bao nhiêu lần các ngươi làm những việc đó cho một trong những người hèn mọn là anh em Ta đây, tức là các ngươi làm cho Ta vậy (Mt 25,40).",
+        noi_dung: "Bớt di ễn thuy ết về h ạn h ánở Sahel, s óng thầnở Bangladesh, bạo động ở NamM ỹ, nhưng hãy tìm thấy Chúa Giêsu bị bỏ rơi, kém mở mang, kề bên con, dưới mái nhà con, bên kia vách tường con. Nếu nguồn suối yêu thương củanhân loại đã ráo cạn, Nếu sóng thần của hận thù ích kỷ đã dâng cao, Thì đại họa diệt vong không còn xa! của bất cứ người nào và tích cực giúp đỡ khi h ọ đến với mình, hoặc có thể là một người gi à l ão b ị mọi người bỏ r ơi, ho ặc một c ông nhân ngo ại quốc b ị khinh bỉ một cách bất công, hoặc một người lưu vong, hay một đứa bé sinh ra do một tình duyên bất hợp ph áp chịu đau khổ c ách bất c ông vì tội lỗi mình không phạm, ho ặc một người đói ăn đang k êu gọi lương t âm chúng ta, làm vang lại lời của Chúa: Bao nhiêu lần các ngươi làm những việc đó cho một trong những người hèn mọn là anh em Ta đây, tức là các ngươi làm cho Ta vậy (Mt 25,40).",
         chuong: 25,
         loi_chua: [
-            "MV 27b: Thời nay, ch úng ta có bổn phận khẩn thiết phải trở nên người lân cận",
+            "MV 27b: Thời nay, chúng ta có bổn phận khẩn thiết phải trở nên người lân cận",
         ],
         tham_chieu: [
             "MV 69a, 78b, 88a; LM 6c; TĐ  31e",
@@ -5323,7 +5323,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 598,
-        noi_dung: "Nhân loại hãnh diện vì m ãnh lực của nguyên tử, vì c ông dụng của dầu hoả, vì sức tàn phá của hoả tiễn, vì phi thuyền lên tận các hành tinh: thời đại của khả năng vô biên! Hãnh diện ấy có thể làm cho thế gian ra bụi tro, nếu bỏ mục tiêu phát triển và quên Thiên Chúa, Đấng tạo thành trời đất, muôn vật hữu hình và vô hình. muốn của Thiên Chúa thì tồn tại mãi mãi. thuộc Thiên Chúa và con người có thể sử dụng chúng mà không cần quy hướng về Đấng Tạo Hoá, thì không một ai nhìn nhận Thiên Chúa lại không thấy rằng lập trường đó hết sức sai l ầm. Thực vậy, không có Tạo hoá, tạo vật đều tiêu tan. Ngoài ra mọi tín hữu, dù thuộc tôn giáo nào đi nữa, cũng luôn nghe tiếng Thiên Chúa và thấy Ngài hiện diện qua tiếng nói của tạo vật. Lại nữa, quên mất Thiên Chúa, mọi tạo vật đều trở nên mờ tối.",
+        noi_dung: "Nhân loại hãnh diện vì m ãnh lực của nguyên tử, vì c ông dụng của dầu hoả, vì sức tàn phá của hoả tiễn, vì phi thuyền lên tận các hành tinh: thời đại của khả năng vô biên! Hãnh diện ấy có thể làm cho thế gian ra bụi tro, nếu bỏ mục tiêu phát triển và quên Thiên Chúa, Đấng tạo thành trời đất, muôn vật hữu hình và vô hình. muốn của Thiên Chúa thì tồn tại mãi mãi. thuộc Thiên Chúa và con người có thể sử dụng chúng mà không cần quy hướng về Đấng Tạo Hoá, thì không mộtai nhìn nhận Thiên Chúa lại không thấy rằng lập trường đó hết sức sai l ầm. Thực vậy, không có Tạo hoá, tạo vật đều tiêu tan. Ngoài ra mọi tín hữu, dù thuộc tôn giáo nào đi nữa, cũng luôn nghe tiếng Thiên Chúa và thấy Ngài hiện diện qua tiếng nói của tạo vật. Lại nữa, quên mất Thiên Chúa, mọi tạo vật đều trở nên mờ tối.",
         chuong: 25,
         loi_chua: [
             "1Ga 2,17: Thế gian đang qua đi, cùng với dục vọng của nó. C òn ai thi hành ý",
@@ -5335,7 +5335,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 599,
-        noi_dung: "Đại họa không phải chỉ là đói khát, khốn khổ của các dân tộc nghèo khó. Đại họa chính là sự vô ý thức của các dân tộc no nê và bóc lột. mang danh Kitô hữu, đang thản nhiên hưởng thụ quá nhiều của cải trong l úc nhiều quốc gia kh ác sống thiếu thốn cùng cực, bịđói khát bệnh tật và đủ mọi thứ bất hạnh d ày v ò. Tinh thần khó ngh èo v à bácái mới là vinh d ự v à dấu chứng của Giáo hội Chúa Kitô.",
+        noi_dung: "Đại họa không phải chỉ là đói khát, khốn khổ của các dân tộc nghèo khó. Đại họa chính là sự vô ý thức của các dân tộc no nê và bóc lột. mang danh Kitô hữu, đang thản nhiên hưởng thụ quá nhiều của cải trong l úc nhiều quốc gia kh ác sống thiếu thốn cùng cực, bịđói khát bệnh tật và đủ mọi thứ bất hạnh d ày v ò. Tinh thần khó ngh èo v à bác ái mới là vinh d ự v à dấu chứng của Giáo hội Chúa Kitô.",
         chuong: 25,
         loi_chua: [
             "MV 88a: Phải tránh gương mù của một số quốc gia m à đa số dân chúng thường",
@@ -5384,7 +5384,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 604,
-        noi_dung: "Nói c ách cụ thể, ph át triển là thực hi ện Chúc Thư của Chúa Giêsu trên trái đất: mọi người yêu thương nhau, giúp đỡ nhau, san sẻ với nhau trong tình huynh đệ phổ cập. nhau; anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. qủa của ho à bình Chúa Kitô, ho à bình do Đức Chúa Cha m à đến. Vì chính Chúa Con Nh ập Thể là thái tử hoà bình đã dùng thập giá Người để giải hoà mọi người với Thiên Chúa; Người đã tái lập sự hiệp nhất mọi người thành một dân tộc và một thân thể. Người đã hủy diệt hận thù trong chính xác thể Người, và sau khi đã khải hoàn phục sinh, Người đã đổ tràn Thánh Thần tình yêu đầy lòng con người. Do đó, trong khi thực thi chân lý trong bácái (Ep 4,15), mọi Kitô hữu được khẩn thiết kêu mời hãy kết hiệp với những người thực sự yêu chuộng hoà bình để cầu khẩn và thiết lập hoà bình. Mức độ dấn thân: Thí mạng như Chúa Giêsu",
+        noi_dung: "Nói c ách cụ thể, ph át triển là thực hi ện Chúc Thư của Chúa Giêsu trên trái đất: mọi người yêu thương nhau, giúp đỡ nhau, san sẻ với nhau trong tình huynh đệ phổ cập. nhau; anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. qủa của ho à bình Chúa Kitô, ho à bình do Đức Chúa Cha m à đến. Vì chính Chúa Con Nh ập Thể là thái tử hoà bình đã dùng thập giá Người để giải hoà mọi người với Thiên Chúa; Người đã tái lập sự hiệp nhất mọi người thành một dân tộc và một thân thể. Người đã hủy diệt hận thù trong chính xác thể Người, và sau khi đã khải hoàn phục sinh, Người đã đổ tràn Thánh Thần tình yêu đầy lòng con người. Do đó, trong khi thực thi chân lý trong bác ái (Ep 4,15), mọi Kitô hữu được khẩn thiết kêu mời hãy kết hiệp với những người thực sự yêu chuộng hoà bình để cầu khẩn và thiết lập hoà bình. Mức độ dấn thân: Thí mạng như Chúa Giêsu",
         chuong: 25,
         loi_chua: [
             "Ga 13,34: Thầy ban cho anh em một điều r ăn mới là anh em h ãy yêu thương",
@@ -5440,7 +5440,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Mỗi dịp hiến mình trong ngày không phải là một khổ đau, mất mát, nhưng là một đề nghị của Chúa để con được lớn lên. thì nó vẫn trơ trọi một mình; còn nếu chết đi, nó mới sinh được nhiều hạt khác.",
         chuong: 26,
         loi_chua: [
-            "Ga 12,24: Thầy bảo thật anh em, nếu hạt lúa gieo vào lòng đất mà không chết đi,",
+            "Ga 12,24: Thầy bảo thậtanh em, nếu hạt lúa gieo vào lòng đất mà không chết đi,",
         ],
         tham_chieu: [
             "1Cr 15,36",
@@ -5451,7 +5451,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Con phải hiện diện trên đường hy vọng dâng hiến và mời gọi kẻ khác dâng hiến, đó là cách con phục vụ họ tốt đẹp hơn cả: con giúp họ nên giống hình ảnh Thiên Chúa trong Đức Kitô. người, nhưng là nâng cao nhân phẩm và sự hiệp nhất huynh đệ, bằng cách dạy những chân lý tôn giáo và luân lý mà Chúa Kitô đã soi sáng bằng ánh sáng của Người, và như thế, dần dần họ mở rộng con đường hoàn hảo hơn dẫn về Thiên Chúa. Như vậy con người được tr ợ giúp để đạt tới phần rỗi, nhờ yêu mến Thiên Chúa và cận nhân; và như vậy, bắt đầu toả sáng mầu nhiệm Chúa Kitô, trong Người xuất hiện con người mới đã tạo dựng theo hình ảnh Thiên Chúa, và trong Người tình thương của Thiên Chúa được biểu lộ.",
         chuong: 26,
         loi_chua: [
-            "TG 12d: C ác môn đệ không tìm tiến bộ và thịnh vượng thuần vật chất cho con",
+            "TG 12d: Các môn đệ không tìm tiến bộ và thịnh vượng thuần vật chất cho con",
         ],
         tham_chieu: [
             "MV 22d, 24c",
@@ -5480,7 +5480,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 615,
-        noi_dung: "Những người kh ác quanh con, cảnhân lo ại đau thương, khấp kh ểnh trên đường m ịt mù… Đời con phải là hiến dâng, Đ ể bắt nhịp cầu hy vọng, Đ ể đưa họ đến với Chúa là cùng đích, là tình yêu, là tất cả. Bên Chúa, nhân loại không còn ai xa lạ, nhưng tất cả là anh em con. nô lệ của mọi người, hầu chinh phục thêm được nhiều người. bằng chính tình bácái mà Thiên Chúa đã yêu chúng ta và muốn chúng ta cũng thương yêu nhau bằng tình bácái đó. Bácái Kitô giáo thực sự lan tràn tới mọi người không phân biệt chủng tộc, hoàn cảnh xã hội hay tôn giáo, bácái không cầu mong một lợi ích hay một sự tri ân nào như Thiên Chúa đã yêu chúng ta bằng một tình yêu vô vị lợi, thì các tín hữu cũng phải lấy tình bácái mà lo lắng cho con người, bằng cách yêu mến họ với cùng một ý hướng như khi Chúa tìm kiếm con người.",
+        noi_dung: "Những người kh ác quanh con, cảnhân lo ại đau thương, khấp kh ểnh trên đường m ịt mù… Đời con phải là hiến dâng, Đ ể bắt nhịp cầu hy vọng, Đ ể đưa họ đến với Chúa là cùng đích, là tình yêu, là tất cả. Bên Chúa, nhân loại không còn ai xa lạ, nhưng tất cả là anh em con. nô lệ của mọi người, hầu chinh phục thêm được nhiều người. bằng chính tình bác ái mà Thiên Chúa đã yêu chúng ta và muốn chúng ta cũng thương yêu nhau bằng tình bác ái đó. Bácái Kitô giáo thực sự lan tràn tới mọi người không phân biệt chủng tộc, hoàn cảnh xã hội hay tôn giáo, bác ái không cầu mong một lợi ích hay một sự tri ân nào như Thiên Chúa đã yêu chúng ta bằng một tình yêu vô vị lợi, thì các tín hữu cũng phải lấy tình bác ái mà lo lắng cho con người, bằng cách yêu mến họ với cùng một ý hướng như khi Chúa tìm kiếm con người.",
         chuong: 26,
         loi_chua: [
             "1Cr 9,19: T ôi là một người tự do, không lệ thuộc vàoai, nhưng tôi đã trở thành",
@@ -5496,7 +5496,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Có người nhắm mắt ngoảnh mặt để khỏi nhìn, có người bịt tai giả điếc để đừng nghe. Nhưng sự thật vẫn là sự thật. Con hãy nhìn rõ, nghe kỹ, học với thực tế, học với người khác. Thực tế là bài học, người anh em là thầy con. chúng thấy, tai chúng nghe.",
         chuong: 26,
         loi_chua: [
-            "Mt 13,15a: L òng d ân n ày đã ra chai đá: ch úng đã b ịt tai nh ắm m ắt, kẻo m ắt",
+            "Mt 13,15a: L òng d ân n ày đã ra chai đá: chúng đã b ịt tai nh ắm m ắt, kẻo m ắt",
         ],
     },
     {
@@ -5506,7 +5506,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 618,
-        noi_dung: "Con gặp trăm ngàn thanh thiếu niên, lây lất trên đường, không lối thoát. Họ bàn tán bất tận về mộng xây dựng một xã hội mới, một con người mới, nhưng họ đã gặp xì-ke, bạo động, trụy lạc, dối trá, chán nản… H ọ cần con, h ọ kêu con: tiếng kêu của người chết đuối, tiếng van của người ngộp thở. phương diện giáo dục cho mọi người, nhưng vẫn còn rất nhiều trẻ em và thanh thiếu niên chưa được hưởng sử huấn luyện căn bản và biết bao người khác vẫn còn thiếu một nền giáo dục thích hợp để phát huy chân lý và bácái.",
+        noi_dung: "Con gặp trăm ngàn thanh thiếu niên, lây lất trên đường, không lối thoát. Họ bàn tán bất tận về mộng xây dựng một xã hội mới, một con người mới, nhưng họ đã gặp xì-ke, bạo động, trụy lạc, dối trá, chán nản… Họ cần con, h ọ kêu con: tiếng kêu của người chết đuối, tiếng van của người ngộp thở. phương diện giáo dục cho mọi người, nhưng vẫn còn rất nhiều trẻ em và thanh thiếu niên chưa được hưởng sử huấn luyện căn bản và biết bao người khác vẫn còn thiếu một nền giáo dục thích hợp để phát huy chân lý và bác ái.",
         chuong: 26,
         loi_chua: [
             "GD Lời mở đầu c: Mặc dù đã có nhiều nỗ lực lớn lao để đem lại những lợi ích về",
@@ -5517,7 +5517,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 619,
-        noi_dung: "Đâ y là mấy hạng dấn thân con nên biết: Có người sau một thời gian vẫy vùng dấn thân, đâm ra hoài nghi giá trị cuộc đấu tranh, rồi rút lui về nhà thờ, tìm nguồn an ủi, sợ bỏ quên Chúa, tôi không dấn thân. Có người dấn tnân cả xác lẫn hồn vào cuộc đấu tranh, v à để rảnh tay chém chặt, họ buông thả luôn cả Thiên Chúa. Trước họ nghĩ rằng: Đ ể thành công rồi sẽ nhớ Chúa, sau cùng họ nói: Đâ y là việc đời, tôi dấn thân, Chúa không liên hệ, mời Chúa đứng ngoài. Có người không chịu đào tẩu khỏi chiến trường mà cũng không phản bội sứ mạng Chúa trao, họ xác tín chỉ thắng trận với Chúa Kitô; vì thế với tất cả tâm hồn, họ nói: Tôi dấn thân với Chúa Kitô. quanh, chúng ta h ãy cởi bỏ mọi gánh nặng và tội lỗi đang trói buộc mình, v à hãy ki ên trì chạy trong cuộc đua dành cho ta, m ắt hướng về Đức Giêsu là Đấng khai mở và kiện toàn lòng tin. Chính Người đã khước từ niềm vui dành cho mình, m à cam chịu khổ hình thập giá, chẳng nề chi ô nhục, và nay đang ngự bên hữu ngai Thiên Chúa. Anh em h ãy tưởng nhớ Đấng đã cam chịu để cho những người tội lỗi chống đối mình như thế, để anh em khỏi sờn lòng nản chí. nỗ lực và trung thành chu toàn những bổn phận trần thế của họ dưới sự hướng dẫn của tinh thần Phúc âm. Th ực sai l ầm cho những ai bi ết rằng ch úng ta không có một quê hương trường tồnở trần thế nhưng phải kiếm tìm một quê hương hậu lai, mà lại tưởng rằng mình có thể xao lãng các bổn phận trần gian, như thể là không nhận thấy chính đức tin buộc phải chu toàn các bổn phận đó hoàn hảo hơn, mỗi người tùy theo ơn gọi của mình. Ng ược lại, cũng sai l ầm không kém đối với những ai nghĩ rằng có thể dấn thân hoàn toàn vào các sinh hoạt trần thế như thể các sinh hoạt ấy hoàn toàn xa lạ với đời sống tôn giáo, vì cho rằng đời sống tôn giáo chỉ hệ tại những hành vi phụng tự và một vài bổn phận luân lý phải chu toàn. Sự phân ly giữa đức tin mà họ tuyên xưng và cuộc sống thường nhật củanhiều người phải kể vào số những sai l ầm trầm trọng nhất của thời đại chúng ta… Theo g ương Chúa Giêsu đã sống như một người thợ, các Kitô hữu hãy vui m ừng vì có thể thi hành mọi sinh ho ạt trần thế mà đồng thời có thể liên kết trong một tổng hợp sống động duy nhất, các cố gắng nhân lo ại, gia đình, nghề nghi ệp, khoa học hay k ỹ thu ật với c ác gi á trị t ôn giáo. Dưới sự điều hướng tối cao của các giá trị tôn giáo này, mọi sự được quy hướng về vinh quang Thiên Chúa.",
+        noi_dung: "Đâ y là mấy hạng dấn thân con nên biết: Có người sau một thời gian vẫy vùng dấn thân, đâm ra hoài nghi giá trị cuộc đấu tranh, rồi rút lui về nhà thờ, tìm nguồn an ủi, sợ bỏ quên Chúa, tôi không dấn thân. Có người dấn tnân cả xác lẫn hồn vào cuộc đấu tranh, v à để rảnh tay chém chặt, họ buông thả luôn cả Thiên Chúa. Trước họ nghĩ rằng: Đ ể thành công rồi sẽ nhớ Chúa, sau cùng họ nói: Đâ y là việc đời, tôi dấn thân, Chúa không liên hệ, mời Chúa đứng ngoài. Có người không chịu đào tẩu khỏi chiến trường mà cũng không phản bội sứ mạng Chúa trao, họ xác tín chỉ thắng trận với Chúa Kitô; vì thế với tất cả tâm hồn, họ nói: Tôi dấn thân với Chúa Kitô. quanh, chúng ta h ãy cởi bỏ mọi gánh nặng và tội lỗi đang trói buộc mình, v à hãy ki ên trì chạy trong cuộc đua dành cho ta, m ắt hướng về Đức Giêsu là Đấng khai mở và kiện toàn lòng tin. Chính Người đã khước từ niềm vui dành cho mình, m à cam chịu khổ hình thập giá, chẳng nề chi ô nhục, và nay đang ngự bên hữu ngai Thiên Chúa. Anh em h ãy tưởng nhớ Đấng đã cam chịu để cho những người tội lỗi chống đối mình như thế, để anh em khỏi sờn lòng nản chí. nỗ lực và trung thành chu toàn những bổn phận trần thế của họ dưới sự hướng dẫn của tinh thần Phúc âm. Th ực sai l ầm cho những ai biết rằng chúng ta không có một quê hương trường tồnở trần thế nhưng phải kiếm tìm một quê hương hậu lai, mà lại tưởng rằng mình có thể xao lãng các bổn phận trần gian, như thể là không nhận thấy chính đức tin buộc phải chu toàn các bổn phận đó hoàn hảo hơn, mỗi người tùy theo ơn gọi của mình. Ng ược lại, cũng sai l ầm không kém đối với những ai nghĩ rằng có thể dấn thân hoàn toàn vào các sinh hoạt trần thế như thể các sinh hoạt ấy hoàn toàn xa lạ với đời sống tôn giáo, vì cho rằng đời sống tôn giáo chỉ hệ tại những hành vi phụng tự và một vài bổn phận luân lý phải chu toàn. Sự phân ly giữa đức tin mà họ tuyên xưng và cuộc sống thường nhật củanhiều người phải kể vào số những sai l ầm trầm trọng nhất của thời đại chúng ta… Theo g ương Chúa Giêsu đã sống như một người thợ, các Kitô hữu hãy vui m ừng vì có thể thi hành mọi sinh ho ạt trần thế mà đồng thời có thể liên kết trong một tổng hợp sống động duy nhất, các cố gắng nhân lo ại, gia đình, nghề nghi ệp, khoa học hay k ỹ thu ật với c ác gi á trị t ôn giáo. Dưới sự điều hướng tối cao của các giá trị tôn giáo này, mọi sự được quy hướng về vinh quang Thiên Chúa.",
         chuong: 26,
         loi_chua: [
             "Dt 12,1-3: Phần chúng ta được ngần ấy nhân chứng đức tin như đám mây bao",
@@ -5537,7 +5537,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 621,
-        noi_dung: "Đừng để thiên hạ xây dựng thế giới này mỗi ngày mà con không hay biết, không khám phá, không thao thức, không nhúng tay vào. Chúa đã cứu chuộc con, và đặt con vào thế gian trong thế kỷ này, thập niên này, môi trường này. Đ ặt con, chứ không phải cục đá! Khác nhau lắm! Đừng làm công giáo bù nhìn. riêng, và trong nhi ệm vụ đó, được hướng dẫn nhờ ánh sáng Phúc âm và theo tinh thần của Giáo hội, với bácái Kitô giáo th úc đẩy, h ọ phải trực tiếp v à cương quy ết hành động. V ới t ư c ách là c ông d ân, h ọ phải đem kh ả n ăng chuyên môn cùng với tinh thần trách nhiệm để cộng tác với các công dân khác. Họ phải tìm sự công chính nước Thiên Chúa ở mọi nơi và trong mọi sự.",
+        noi_dung: "Đừng để thiên hạ xây dựng thế giới này mỗi ngày mà con không hay biết, không khám phá, không thao thức, không nhúng tay vào. Chúa đã cứu chuộc con, và đặt con vào thế gian trong thế kỷ này, thập niên này, môi trường này. Đ ặt con, chứ không phải cục đá! Khác nhau lắm! Đừng làm công giáo bù nhìn. riêng, và trong nhi ệm vụ đó, được hướng dẫn nhờ ánh sáng Phúc âm và theo tinh thần của Giáo hội, với bác ái Kitô giáo th úc đẩy, h ọ phải trực tiếp v à cương quy ết hành động. V ới t ư c ách là c ông d ân, h ọ phải đem kh ả n ăng chuyên môn cùng với tinh thần trách nhiệm để cộng tác với các công dân khác. Họ phải tìm sự công chính nước Thiên Chúa ở mọi nơi và trong mọi sự.",
         chuong: 26,
         loi_chua: [
             "TĐ  7e: Giáo dân phải đảm nhận việc canh t ân trật tự trần thế như là nhiệm vụ",
@@ -5575,7 +5575,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Người Kitô hữu dấn thân khác với người ngoài vì nhìn mục đích và phương tiện với cái nhìn của đức tin: Mục đích: Vì Chúa Kitô, con mến Chúa trong anh em. Phương tiện: Hãy nhớ rằng, qua các tổ chức, các cơ cấu, con nhắm con người hợp tác chân thành, chứ không giựt giây họ, yêu thương chứ không thù ghét, không vụ lợi, không làm loạn. thứ hai, cho nên trước hết phải quan tâm đến sự sống của họ và quan tâm đến những phương tiện cần thiết giúp họ sống một đời sống xứng đáng, chứ đừng bắt chước người giàu có kia đã không săn sóc gì tới Lagiarô bất hạnh.",
         chuong: 26,
         loi_chua: [
-            "MV 27a: M ỗi người đều phải coi người đồng loại không trừ một ai như cái tôi",
+            "MV 27a: M ỗi người đều phải coi người đồng loại không trừ mộtai như cái tôi",
         ],
         tham_chieu: [
             "MV 26c, 63a, 64, 67c; TĐ  4c, 8e",
@@ -5583,7 +5583,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 626,
-        noi_dung: "Con phải chọn cách dấn thân, căn cứ vào khả năng của con, nhu cầu của anh em, m ôi trường con đang lặn lội. Con không làm được tất cả, nhưng làm tất cảnhững gì con làm được, vì làm với đức tin. đức tin hành động nhờ đứcái. ơn lãnh đã lãnh được do Chúa ban; th êm vào đó là ý thức mạnh mẽ về đức công bình và tình yêu chân thành đối với thanhân. Đức tin sống động ấy cũng phát sinh nhi ều tổ chức nhằm xoa dịu sự cùng khổ tinh thần và thể xác, giáo dục tuổi trẻ, cải tiến những hoàn cảnh xã hội và cuộc sống thành nhân đạo hơn và củng cố nền hoà bình thế giới.",
+        noi_dung: "Con phải chọn cách dấn thân, căn cứ vào khả năng của con, nhu cầu của anh em, m ôi trường con đang lặn lội. Con không làm được tất cả, nhưng làm tất cảnhững gì con làm được, vì làm với đức tin. đức tin hành động nhờ đứcái. ơn lãnh đã lãnh được do Chúa ban; thêm vào đó là ý thức mạnh mẽ về đức công bình và tình yêu chân thành đối với thanhân. Đức tin sống động ấy cũng phát sinh nhi ều tổ chức nhằm xoa dịu sự cùng khổ tinh thần và thể xác, giáo dục tuổi trẻ, cải tiến những hoàn cảnh xã hội và cuộc sống thành nhân đạo hơn và củng cố nền hoà bình thế giới.",
         chuong: 26,
         loi_chua: [
             "Gl 5,6: Trong Đức Kitô Giêsu, cắt bì hay không cắt bì đều không có giá trị, chỉ có",
@@ -5689,7 +5689,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 637,
-        noi_dung: "Nói đến canh tân, người ta đã hao tốn bao nhiêu giấy mực để viết đề tài trở về nguồn. Nói thừa rồi, con hãy làm! Các Kitô hữu từ đầu đã làm gì? Họ đã bịđánh động mãnh liệt bởi Chúc thư yêu thương của Chúa Giêsu, còn tươi rói trong con tim họ. Cuộc cách mạng tình thương ấy đã canh tân cả thế giới La-hy, biến đổi nó tận gốc rễ, đã lột xác con người cũ, để thay vào đó một mẫu người mới, một xã hội mới. một ai coi bất cứ cái gì mình có là của riêng, nhưng đối với họ, mọi sự đều là của chung. Nh ờ quy ền n ăng mạnh m ẽ Thiên Chúa ban, c ác T ông Đ ồ làm chứng Chúa Giêsu đã sống lại. Và Thiên Chúa ban cho tất cả các ông dồi dào ân sủng. tâm hồn. Thật vậy, những ước vọnghiệp nhất bắt nguồn và chín mu ồi nhờ sự đổi mới tâm hồn, từ bỏ chính mình v à bácái một cách hết sức quảng đại. Vì thế, phải nguyện xin Chúa Thánh Thần ban cho ch úng ta ơn thành thật quên mình, khiêm nhượng và hiền hoà trong khi phục vụ, quảng đại trong tình huynh đệ đối với thanhân.",
+        noi_dung: "Nói đến canh tân, người ta đã hao tốn bao nhiêu giấy mực để viết đề tài trở về nguồn. Nói thừa rồi, con hãy làm! Các Kitô hữu từ đầu đã làm gì? Họ đã bịđánh động mãnh liệt bởi Chúc thư yêu thương của Chúa Giêsu, còn tươi rói trong con tim họ. Cuộc cách mạng tình thương ấy đã canh tân cả thế giới La-hy, biến đổi nó tận gốc rễ, đã lột xác con người cũ, để thay vào đó một mẫu người mới, một xã hội mới. mộtai coi bất cứ cái gì mình có là của riêng, nhưng đối với họ, mọi sự đều là của chung. Nh ờ quy ền n ăng mạnh m ẽ Thiên Chúa ban, c ác T ông Đ ồ làm chứng Chúa Giêsu đã sống lại. Và Thiên Chúa ban cho tất cả các ông dồi dào ân sủng. tâm hồn. Thật vậy, những ước vọnghiệp nhất bắt nguồn và chín mu ồi nhờ sự đổi mới tâm hồn, từ bỏ chính mình v à bác ái một cách hết sức quảng đại. Vì thế, phải nguyện xin Chúa Thánh Thần ban cho chúng ta ơn thành thật quên mình, khiêm nhượng và hiền hoà trong khi phục vụ, quảng đại trong tình huynh đệ đối với thanhân.",
         chuong: 27,
         loi_chua: [
             "Cv 4,32-33: Các tín hữu thời bấy giờ đông đảo, mà chỉ có một lòng một ý. Không",
@@ -5725,7 +5725,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 640,
-        noi_dung: "Phải canh tân bao lâu? - Phải luôn luôn khởi sự lại, - Phải luôn luôn tu chỉnh thêm. Con đừng an nghỉ, bao lâu hôm nay con chưa tiến hơn hôm qua một bước trong sự hiệp nhất với Chúa. Con phải đinh minh rằng, dừng lại là khởi sự thụt lùi xuống dốc, khởi sự thoái hoá. táng với Người. B ởi thế, cũng như Người đã được sống lại từ c õi chết nhờ quyền n ăng vinh hi ển của Chúa Cha, thì ch úng ta cũng được sống một đời sống mới. lịch sử nhân loại, khởi đầu từ khi thế giới khai nguyên và sẽ kéo dài đến ngày cuối cùng như lời Chúa phán. Dấn thân vào cuộc chiến này, con người phải luôn luôn chiến đấu để gắn bó với sự thiện và chỉ tìm được sự thống nhất trong chính mình sau khi hết sức cố gắng với sự trợ giúp của ơn Chúa.",
+        noi_dung: "Phải canh tân bao lâu? - Phải luôn luôn khởi sự lại, - Phải luôn luôn tu chỉnh thêm. Con đừng an nghỉ, bao lâu hôm nay con chưa tiến hơn hôm qua một bước trong sự hiệp nhất với Chúa. Con phải đinh minh rằng, dừng lại là khởi sự thụt lùi xuống dốc, khởi sự thoái hoá. táng với Người. B ởi thế, cũng như Người đã được sống lại từ c õi chết nhờ quyền n ăng vinh hi ển của Chúa Cha, thì chúng ta cũng được sống một đời sống mới. lịch sử nhân loại, khởi đầu từ khi thế giới khai nguyên và sẽ kéo dài đến ngày cuối cùng như lời Chúa phán. Dấn thân vào cuộc chiến này, con người phải luôn luôn chiến đấu để gắn bó với sự thiện và chỉ tìm được sự thống nhất trong chính mình sau khi hết sức cố gắng với sự trợ giúp của ơn Chúa.",
         chuong: 27,
         loi_chua: [
             "Rm 6,4: Vì được dìm v ào trong cái chết của Người, chúng ta đã cùng được mai",
@@ -5771,7 +5771,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 644,
-        noi_dung: "Mỗi ngày báo chí chạy bằng tít lớn những câu chuyện giật gân, những biến cố bùng nổ giữa loài người. Con phải hiện diện, phải hồi hộp thao thức với nhân loại. Những thời triệu ấy thúc đẩy con xây dựng một xã hội mới mà báo chí không săn tin nổi: Xây dựng nước Thiên Chúa, ngay từ trần gian, với phương tiện của trần gian. chủ trương một thư luân lý duy c á nhân mà không lưu tâm hoặc không màng chi tới diễn tiến thời cuộc. Bổn phận công bình v à bácái được chu toàn mỗi ngày một hơn là do mỗi người biết, tùy theo những khả năng của mình và nhu cầu của kẻ khác mà mưu ích chung, bằng cách cổ võ và trợ giúp những định chế công hay tư nhằm cải thiện những điều kiện sống của con người.",
+        noi_dung: "Mỗi ngày báo chí chạy bằng tít lớn những câu chuyện giật gân, những biến cố bùng nổ giữa loài người. Con phải hiện diện, phải hồi hộp thao thức với nhân loại. Những thời triệu ấy thúc đẩy con xây dựng một xã hội mới mà báo chí không săn tin nổi: Xây dựng nước Thiên Chúa, ngay từ trần gian, với phương tiện của trần gian. chủ trương một thư luân lý duy c á nhân mà không lưu tâm hoặc không màng chi tới diễn tiến thời cuộc. Bổn phận công bình v à bác ái được chu toàn mỗi ngày một hơn là do mỗi người biết, tùy theo những khả năng của mình và nhu cầu của kẻ khác mà mưu ích chung, bằng cách cổ võ và trợ giúp những định chế công hay tư nhằm cải thiện những điều kiện sống của con người.",
         chuong: 27,
         loi_chua: [
             "MV 30a: Hoàn cảnh biến đổi sâu rộng và nhanh chóng đòi hỏi cấp bách dừng ai",
@@ -5791,7 +5791,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 27,
         loi_chua: [
             "Mt 7,24-25: Vậy ai nghe những lời Thầy nói đây mà đem ra thực hành, thì ví được",
-            "Đ T 8b: C ác chủng sinh phải học sống theo Phúc âm, đứng vững trong đức Tin,",
+            "Đ T 8b: Các chủng sinh phải học sống theo Phúc âm, đứng vững trong đức Tin,",
         ],
         tham_chieu: [
             "GH 15, 21a; LM 13b; HN 7c",
@@ -5857,7 +5857,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 653,
-        noi_dung: "Canh tân xã hội bằng con người đã được canh tân trung thực theo Phúc âm. Đức tin sẽ đem lại một giá trị mới cho công việc bổn phận. Người ta không biết rõ họ, không nghe họ nói, nhưng người ta c ông nhận có sự gì đổi mới, vì tự nhiên thấy nếp sống đẹp hơn, bầu không khí phảng phất hương vị mới lạ. hiệp nhất của mình ở mọi nơi, do đó công việc mà gia đình nhân loại phải bắt tay vào là xây dựng một thế giới thực sự nhân bản hơn cho tất cả mọi người ở mọi nơi. Công việc này chỉđược hoàn thành cách tốt đẹp nếu tất cả mọi người đều cải tạo tâm hồn để hướng về hoà bình đích thực. Như thế, sứ điệp Phúc âm phụ họa với những khát vọng và cố gắng cao cả củanhân loại mới rực sáng lênở thời đại ch úng ta bằng lu ồng sáng mới, khi c ông b ố phúc cho những người kiến tạo hoà bình, vì họ sẽ được gọi là con Thiên Chúa (Mt 5,9).",
+        noi_dung: "Canh tân xã hội bằng con người đã được canh tân trung thực theo Phúc âm. Đức tin sẽ đem lại một giá trị mới cho công việc bổn phận. Người ta không biết rõ họ, không nghe họ nói, nhưng người ta c ông nhận có sự gì đổi mới, vì tự nhiên thấy nếp sống đẹp hơn, bầu không khí phảng phất hương vị mới lạ. hiệp nhất của mình ở mọi nơi, do đó công việc mà gia đình nhân loại phải bắt tay vào là xây dựng một thế giới thực sự nhân bản hơn cho tất cả mọi người ở mọi nơi. Công việc này chỉđược hoàn thành cách tốt đẹp nếu tất cả mọi người đều cải tạo tâm hồn để hướng về hoà bình đích thực. Như thế, sứ điệp Phúc âm phụ họa với những khát vọng và cố gắng cao cả củanhân loại mới rực sáng lênở thời đại chúng ta bằng lu ồng sáng mới, khi c ông b ố phúc cho những người kiến tạo hoà bình, vì họ sẽ được gọi là con Thiên Chúa (Mt 5,9).",
         chuong: 27,
         loi_chua: [
             "MV 77a: Gia đình nhân loại dần dần hiệp nhất với nhau v à đã ý thức hơn về sự",
@@ -5886,7 +5886,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 656,
-        noi_dung: "Cuộc đời con chỉ là một chuỗi liên tục: giờ ngủ, giờ thức dậy, giờ ăn, giờ học, giờ công sở, giờ lao tác, giờ giải trí, giờ tivi, giờ đọc báo. Nếu không có yếu tố gì thống nhất đời con, yếu tố cần thiết độc nhất, thì đời con thật là nhàm chán, rời rạc. Yếu tố ấy là Tình yêu Thiên Chúa. Đời con sẽ đổi mới hẳn. Tất cả hoạt động của con từ đây là những nét biểu lộ chứng tích của Thiên Chúa trong con. Đấng đã yêu mến tôi và hiến mạng vì tôi. gương Chúa Kitô trong việc chu toàn tác vụ: lương thực của Người là làm theo ý muốn của Đấng đã sai Người, để Người hoàn thành công việc của mình. … C ác linh mục phải thực hiện việc thống nhất đời sống của mình bằng cách kết hiệp với Chúa Kitô trong sự nhận biết ý Chúa Cha v à trong sự hiến thân cho đoàn chiên đã trao phó cho c ác ngài. Như thế, nhờ thi hành những nhiệm vụ của Chúa Chiên nhân lành và trong chính khi thực thi bácái mục vụ, các ngài tìm thấy mối dây hoàn thiện của Linh mục ràng buộc đời sống và hoạt động của mình làm một.",
+        noi_dung: "Cuộc đời con chỉ là một chuỗi liên tục: giờ ngủ, giờ thức dậy, giờ ăn, giờ học, giờ công sở, giờ lao tác, giờ giải trí, giờ tivi, giờ đọc báo. Nếu không có yếu tố gì thống nhất đời con, yếu tố cần thiết độc nhất, thì đời con thật là nhàm chán, rời rạc. Yếu tố ấy là Tình yêu Thiên Chúa. Đời con sẽ đổi mới hẳn. Tất cả hoạt động của con từ đây là những nét biểu lộ chứng tích của Thiên Chúa trong con. Đấng đã yêu mến tôi và hiến mạng vì tôi. gương Chúa Kitô trong việc chu toàn tác vụ: lương thực của Người là làm theo ý muốn của Đấng đã sai Người, để Người hoàn thành công việc của mình. … Các linh mục phải thực hiện việc thống nhất đời sống của mình bằng cách kết hiệp với Chúa Kitô trong sự nhận biết ý Chúa Cha v à trong sự hiến thân cho đoàn chiên đã trao phó cho c ác ngài. Như thế, nhờ thi hành những nhiệm vụ của Chúa Chiên nhân lành và trong chính khi thực thi bác ái mục vụ, các ngài tìm thấy mối dây hoàn thiện của Linh mục ràng buộc đời sống và hoạt động của mình làm một.",
         chuong: 27,
         loi_chua: [
             "Gl 2,20b: Hiện nay tôi sống kiếp phàm nhân trong niềm tin vào Con Thiên Chúa,",
@@ -5907,7 +5907,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Nếu con không tiến l ên trên đường Hy vọng, không nh ắm đến sự thánh thi ện, con không phải là thế hệ trẻ, cũng chẳng phải là thế hệ già, con thuộc về thế hệ chết. Lạ lùng và hấp dẫn biết chừng nào! Giữa thời đại trụy lạc, khơi dậy một thế hệ thánh! Chúa muốn vậy, con không muốn sao? thực ra đã chết. Hãy tỉnh thức! Hãy củng cố chút sức còn lại đang suy tàn, vì Tanhận thấy các việc của ngươi không được hoàn hảo trước mặt Thiên Chúa của Ta.",
         chuong: 27,
         loi_chua: [
-            "Kh 3,1b-2: Ta bi ết các việc ngươi làm, biết ngươi được tiếng là đang sống, mà",
+            "Kh 3,1b-2: Ta biết các việc ngươi làm, biết ngươi được tiếng là đang sống, mà",
         ],
         tham_chieu: [
             "1Pr 1,13-16; 1Ga 3,3",
@@ -5915,7 +5915,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 659,
-        noi_dung: "Canh tân đòi hỏi can đảm. Canh tân đòi hỏi quyết định: Trước bao nhiêu đau khổ, Trước tiếng gọi của Thiên Chúa, Con đừng hững hờ giả lơ, Hãy nên một tông đồ dấn thân cho công cuộc canh tân, dĩ nhiên với nhẫn nại, hy sinh và chỉ vì mến yêu Hội thánh. hổ thẹn vì tôi, người tù của Chúa; nhưng dựa vào sức mạnh của Thiên Chúa, anh hãy đồng lao cộng khổ với tôi để loan báo Tin Mừng. Người đã cứu độ và kêu gọi ch úng ta v ào d ân thánh của Người, không phải vì c ông kia việc n ọ chúng ta đã làm, nhưng là do k ế hoạch v à ân sủng của Người. Ân sủng đó, Người đã ban cho chúng ta từ muôn thuở trong Đức Kitô Giêsu.",
+        noi_dung: "Canh tân đòi hỏi can đảm. Canh tân đòi hỏi quyết định: Trước bao nhiêu đau khổ, Trước tiếng gọi của Thiên Chúa, Con đừng hững hờ giả lơ, Hãy nên một tông đồ dấn thân cho công cuộc canh tân, dĩ nhiên với nhẫn nại, hy sinh và chỉ vì mến yêu Hội thánh. hổ thẹn vì tôi, người tù của Chúa; nhưng dựa vào sức mạnh của Thiên Chúa, anh hãy đồng lao cộng khổ với tôi để loan báo Tin Mừng. Người đã cứu độ và kêu gọi chúng ta v ào d ân thánh của Người, không phải vì c ông kia việc n ọ chúng ta đã làm, nhưng là do k ế hoạch v à ân sủng của Người. Ân sủng đó, Người đã ban cho chúng ta từ muôn thuở trong Đức Kitô Giêsu.",
         chuong: 27,
         loi_chua: [
             "2Tm 1,8-9: Anh đừng hổ thẹn vì phải làm chứng cho Chúa chúng ta, cũng đừng",
@@ -5947,7 +5947,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 662,
-        noi_dung: "Canh tân là thích nghi Phúc âm với thế giới hôm nay. Không phải giảm bớt sức mạnh của Phúc âm, nhưng Hội thánh trình bày Phúc âm cho người thời đại với ngôn ngữ của thời đại, vì nếu Hội thánh không đến với nhân loại, thì nhân loại không đến với Hội thánh. mi-a, Giu -đê, C áp-pa-đô-ki-a, Pon -tô, v à A -xi-a, có người là d ân Phy -ghi-a, Pam-phy-li-a, Ai-cập, và những vùng Li-by-a giáp giới Ky-rê-nê; nào là những người từ Rô-ma đến đây; nào là người Do-thái cũng như người đạo theo; nào là người đảo Cơ-rê-ta hay người Ả-rập, vậy mà ch úng ta đều nghe h ọ dùng tiếng nói của chúng ta mà loan báo những kỳ công của Thiên Chúa! ngại cho việc đối thoại với những người anh em. C ần phải trình b ày rõ ràng nguyên vẹn giáo lý. Không gì phá hoại hiệp nhất cho bằng chủ trương xu thời sai lệch, nó làm tổn thương giáo lý công giáo thuần tuý và làm lu mờ ý nghĩa đích thực và chắc chắn củanhững giáo lý này.",
+        noi_dung: "Canh tân là thích nghi Phúc âm với thế giới hôm nay. Không phải giảm bớt sức mạnh của Phúc âm, nhưng Hội thánh trình bày Phúc âm cho người thời đại với ngôn ngữ của thời đại, vì nếu Hội thánh không đến với nhân loại, thì nhân loại không đến với Hội thánh. mi-a, Giu -đê, C áp-pa-đô-ki-a, Pon -tô, v à A -xi-a, có người là d ân Phy -ghi-a, Pam-phy-li-a, Ai-cập, và những vùng Li-by-a giáp giới Ky-rê-nê; nào là những người từ Rô-ma đến đây; nào là người Do-thái cũng như người đạo theo; nào là người đảo Cơ-rê-ta hay người Ả-rập, vậy mà chúng ta đều nghe h ọ dùng tiếng nói của chúng ta mà loan báo những kỳ công của Thiên Chúa! ngại cho việc đối thoại với những người anh em. C ần phải trình b ày rõ ràng nguyên vẹn giáo lý. Không gì phá hoại hiệp nhất cho bằng chủ trương xu thời sai lệch, nó làm tổn thương giáo lý công giáo thuần tuý và làm lu mờ ý nghĩa đích thực và chắc chắn củanhững giáo lý này.",
         chuong: 27,
         loi_chua: [
             "Cv 2,9-11: Chúng ta đây, có người là dân Pác-thi-a, Mê-đi, Ê-lam, Mê-xô-pô-ta-",
@@ -5967,7 +5967,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 664,
-        noi_dung: "Người lạc đường, thất vọng; người tiến về đích, hy vọng; ở đó con sẽ gặp Thiên Chúa, Chanhân từ đợi chờ con, con sẽ toại vọng. bao lâu các ông còn có ánh sáng, kẻo bóng tối bắt chợt các ông. Ai bước đi trong bóng tối, thì không biết mình đi đâu. Bao l âu các ông còn có ánh sáng, hãy tin vào ánh sáng, để trở nên con cái ánh sáng.",
+        noi_dung: "Người lạc đường, thất vọng; người tiến về đích, hy vọng; ở đó con sẽ gặp Thiên Chúa, Cha nhân từ đợi chờ con, con sẽ toại vọng. bao lâu các ông còn có ánh sáng, kẻo bóng tối bắt chợt các ông. Ai bước đi trong bóng tối, thì không biết mình đi đâu. Bao l âu các ông còn có ánh sáng, hãy tin vào ánh sáng, để trở nên con cái ánh sáng.",
         chuong: 28,
         loi_chua: [
             "Ga 12,35-36: Ánh sáng cònở giữa các ông ít lâu nữa thôi. Các ông hãy bước đi,",
@@ -5978,7 +5978,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 665,
-        noi_dung: "Đ ối với người không biết đích, giờ chết là giờ thất vọng, vì mất tiền tài, mất khoái lạc, mất bằng hữu; trước mặt họ, toàn tối tăm, tư vô sụp đổ. Đ ối với con, cuối đường Hy vọng tràn ngập ánh sáng. để anh em chẳng hay bi ết gì, hầu anh em khỏi buồn phiền như những người khác, là những người không có niềm hy vọng. người không những bịđau khổ và suy nhược dần dần của thân xác hành hạ, mà hơn thế nữa, còn bị dày vò bởi nỗi lo sợ bị tiêu diệt đời đời. Theo bản năng con người có lý để ghê sợ cũng như từ chối sự hủy hoại hoàn toàn và sự tiêu diệt vĩnh viễn của bản thân… … Trước cái chết, óc tưởng tượng của con người đành bất lực. Nhưng Giáo hội được mạc khải của Thiên Chúa dạy bảo, quả quyết rằng con người được Chúa dựng nên để đạt tới cứu cánh hạnh phúc sau những khổ cực trần thế này.",
+        noi_dung: "Đ ối với người không biết đích, giờ chết là giờ thất vọng, vì mất tiền tài, mất khoái lạc, mất bằng hữu; trước mặt họ, toàn tối tăm, tư vô sụp đổ. Đ ối với con, cuối đường Hy vọng tràn ngập ánh sáng. để anh em chẳng hay biết gì, hầu anh em khỏi buồn phiền như những người khác, là những người không có niềm hy vọng. người không những bịđau khổ và suy nhược dần dần của thân xác hành hạ, mà hơn thế nữa, còn bị dày vò bởi nỗi lo sợ bị tiêu diệt đời đời. Theo bản năng con người có lý để ghê sợ cũng như từ chối sự hủy hoại hoàn toàn và sự tiêu diệt vĩnh viễn của bản thân… … Trước cái chết, óc tưởng tượng của con người đành bất lực. Nhưng Giáo hội được mạc khải của Thiên Chúa dạy bảo, quả quyết rằng con người được Chúa dựng nên để đạt tới cứu cánh hạnh phúc sau những khổ cực trần thế này.",
         chuong: 28,
         loi_chua: [
             "1Tx 4,13: Thưa anh em, về những ai đã an giấc ngàn thu, chúng tôi không muốn",
@@ -6081,7 +6081,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 677,
-        noi_dung: "Trên thiên đàng, người tông đồ mới thôi lao nhọc. Nhưng ngay ở thiên đàng người tông đồ vẫn tiếp tục cứu giúp trần gian. với Người và trong Người, các thánh không ngừng cầu bầu cho ch úng ta b ên Chúa Cha, bằng cách trình bày các công nghiệp đã lập được khi cònở dưới thế, nhờ Đấng Trung gian duy nhất giữa Thiên Chúa v à loài người là Chúa Giêsu Kitô (x. 1Tm 2,5), khi h ọ đã phục vụ Chúa trong mọi sự và hoàn tất nơi thân xác họ những gì còn thiếu sót trong các đau khổ của Chúa Kitô, hầu mưu ích cho Thân thể Người là Giáo hội (x. Cl 1,24). Do đó, với tình huynh đệ, các ngài lo lắng giúp đỡ chúng ta rất nhiều vì chúng ta yếu hèn.",
+        noi_dung: "Trên thiên đàng, người tông đồ mới thôi lao nhọc. Nhưng ngay ở thiên đàng người tông đồ vẫn tiếp tục cứu giúp trần gian. với Người và trong Người, các thánh không ngừng cầu bầu cho chúng ta b ên Chúa Cha, bằng cách trình bày các công nghiệp đã lập được khi cònở dưới thế, nhờ Đấng Trung gian duy nhất giữa Thiên Chúa v à loài người là Chúa Giêsu Kitô (x. 1Tm 2,5), khi h ọ đã phục vụ Chúa trong mọi sự và hoàn tất nơi thân xác họ những gì còn thiếu sót trong các đau khổ của Chúa Kitô, hầu mưu ích cho Thân thể Người là Giáo hội (x. Cl 1,24). Do đó, với tình huynh đệ, các ngài lo lắng giúp đỡ chúng ta rất nhiều vì chúng ta yếu hèn.",
         chuong: 28,
         loi_chua: [
             "GH 49: Được về quê trời và hiện diện trước nhan Chúa (x. 2Cr 5,8) nhờ Người,",
@@ -6103,7 +6103,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 679,
-        noi_dung: "Giữanhững đau khổ, oan ức, những giả dối, bất công, con h ãy vững vàng tuyên xưng với toàn thể dân Chúa: Và Người sẽ trở lại trong vinh quang , để phán xét kẻ sống và kẻ chết, Nước Người sẽ không bao giờ cùng. các thiên thần của Người, và bấy giờ, Người sẽ thưởng phạt ai n ấy xứng việc họ làm.",
+        noi_dung: "Giữanhững đau khổ, oan ức, những giả dối, bất công, con h ãy vững vàng tuyên xưng với toàn thể dân Chúa: Và Người sẽ trở lại trong vinh quang , để phán xét kẻ sống và kẻ chết, Nước Người sẽ không bao giờ cùng. các thiên thần của Người, và bấy giờ, Người sẽ thưởng phạtai n ấy xứng việc họ làm.",
         chuong: 28,
         loi_chua: [
             "Mt 16,27: Vì Con Người sẽ ngự đến trong vinh quang của Cha Người, cùng với",
@@ -6114,10 +6114,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 680,
-        noi_dung: "Con cảm thấy an ủi vì Đấng đoán xét con là Chanhân từ. Ngài càng chí công, con càng vững lòng, vì Ng ài xử con theo sự yếu đuối của con, nhưng đừng lạm dụng lòng nhân lành Chúa để khuyến khích mình liều lĩnh trong tội lỗi. nhưng được hưởng ơn cứu độ, nhờ Đức Giêsu Kitô, Chúa chúng ta, Đấng đã chết vì chúng ta, để dầu thức hay ngủ, chúng ta cũng sống với Người. lại nhưng không mời gọi chúng ta tham dự sự sống và vinh hiển với Ngài; Ngài còn rộng rãi đổ tràn lòng nhân từ xuống cho ch úng ta v à còn đổ mãi không ngừng đến nỗi Ngài là Đấng tác tạo muôn loài lại phải trở nên mọi sự trong mọi người (1Cr 15,28), để đồng thời làm vinh danh Ng ài v à tạo n ên hạnh phúc cho ch úng ta. Th ực vậy, Thiên Chúa muốn mời gọi mọi người tham d ự vào sự sống của Ng ài, không những chỉ từng c á nhân không li ên lạc gì với nhau, mà Ngài còn liên kết họ thành một dân duy nhất, trong đó đoàn tụ mọi con cái đã tản mát khắp nơi.",
+        noi_dung: "Con cảm thấy an ủi vì Đấng đoán xét con là Cha nhân từ. Ngài càng chí công, con càng vững lòng, vì Ng ài xử con theo sự yếu đuối của con, nhưng đừng lạm dụng lòng nhân lành Chúa để khuyến khích mình liều lĩnh trong tội lỗi. nhưng được hưởng ơn cứu độ, nhờ Đức Giêsu Kitô, Chúa chúng ta, Đấng đã chết vì chúng ta, để dầu thức hay ngủ, chúng ta cũng sống với Người. lại nhưng không mời gọi chúng ta tham dự sự sống và vinh hiển với Ngài; Ngài còn rộng rãi đổ tràn lòng nhân từ xuống cho chúng ta v à còn đổ mãi không ngừng đến nỗi Ngài là Đấng tác tạo muôn loài lại phải trở nên mọi sự trong mọi người (1Cr 15,28), để đồng thời làm vinh danh Ng ài v à tạo n ên hạnh phúc cho chúng ta. Th ực vậy, Thiên Chúa muốn mời gọi mọi người tham d ự vào sự sống của Ng ài, không những chỉ từng c á nhân không li ên lạc gì với nhau, mà Ngài còn liên kết họ thành một dân duy nhất, trong đó đoàn tụ mọi con cái đã tản mát khắp nơi.",
         chuong: 28,
         loi_chua: [
-            "1Tx 5,9-10: Vì Thiên Chúa đã không định cho ch úng ta phải chịu cơn thịnh nộ,",
+            "1Tx 5,9-10: Vì Thiên Chúa đã không định cho chúng ta phải chịu cơn thịnh nộ,",
             "TG 2b: Vì quá nhân từ thương xót, Thiên Chúa Cha đã tự ý dựng nên chúng ta, và",
         ],
         tham_chieu: [
@@ -6140,7 +6140,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 683,
-        noi_dung: "Luxia, Giaxinta, Phanxic ô đã tr ông thấy ho ả ng ục v ô cùng r ùng r ợn kinh kh ủng v à không bao giờ quên được cảnh tượng ấy. Hãy tin lời Đức Mẹ! Đừng nhắm mắt không tin có hoả ngục để rồi một hôm mở mắt thấy mình trong hoả ngục. Khi người ta nói: Bình an bi ết bao, yênổn biết bao!, thì l úc ấy tai ho ạ sẽ thình lìnhập xuống, tựa cơn đau chuyển bụng đến với người đàn bà có thai, và sẽ chẳng có ai trốn thoát được.",
+        noi_dung: "Luxia, Giaxinta, Phanxic ô đã tr ông thấy ho ả ng ục v ô cùng r ùng r ợn kinh kh ủng v à không bao giờ quên được cảnh tượng ấy. Hãy tin lời Đức Mẹ! Đừng nhắm mắt không tin có hoả ngục để rồi một hôm mở mắt thấy mình trong hoả ngục. Khi người ta nói: Bình an biết bao, yênổn biết bao!, thì l úc ấy tai ho ạ sẽ thình lìnhập xuống, tựa cơn đau chuyển bụng đến với người đàn bà có thai, và sẽ chẳng có ai trốn thoát được.",
         chuong: 28,
         loi_chua: [
             "1Tx 5,2-3: Chính anh em đã biết rõ: ngày của Chúa sẽ đến như kẻ trộm ban đêm.",
@@ -6208,7 +6208,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Từ đây, trên các vòng hoa ph úng điếu xin con đừng để hai ch ữ phân ưu nữa, trong các thư từ con đừng để hai chữ quá cố nữa, vì họ đang an nghỉ trong niềm hy vọng sống lại và đang hưởng ánh sáng tôn nhan Chúa. cũng tin rằng những người đã an giấc trong Đức Giêsu, sẽ được Thiên Chúa đưa về cùng Đức Giêsu.",
         chuong: 28,
         loi_chua: [
-            "1Tx 4,14: N ếu chúng ta tin rằng Đức Giêsu đã chết và đã sống lại, thì ch úng ta",
+            "1Tx 4,14: N ếu chúng ta tin rằng Đức Giêsu đã chết và đã sống lại, thì chúng ta",
         ],
     },
     {
@@ -6238,7 +6238,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 693,
-        noi_dung: "Đường con đi có hoa th ơm, cảnh đẹp, có chông gai, có hùm beo, có bạn hiền, có trộm cướp, lúc mưa sa, lúc nắng cháy… chuy ện không thể tránh được. Con cứ đi, miễn lòng con đầy Chúa, đi như Phanxicô, như Cyrillô, như Athanasiô, đừng mất giờ dừng lại, đừng sợ tiếng chửi, đừng ăn mày tiếng khen. sự viên của Thiên Chúa trong việc loan b áo Tin M ừng Đức Kitô; anh đến để làm cho anh em được vững mạnh, và khích lệ đức tin của anh em, khiến không ai bị nao n úng vì c ác nỗi gian truân ấy. Hẳn anh em bi ết đó là số phận dành cho chúng ta. Thật thế, khi cònở với anh em, ch úng tôi đã nói trước cho anh em rằng chúng ta sẽ gặp gian truân, điều đó đã xảy ranhư anh em biết. Chúa, Giáo hội rao truy ền cái chết và thập giá Chúa, cho đến khi Ng ài lại đến (x. 1Cr 11,26). Giáo hội vững mạnh nhờ thần lực của Chúa Phục sinh, để toàn thắng các khó khăn và sầu muộn từ bên trong cũng như bên ngoài bằng yêu thương và kiên trì, v à trung thành mạc khải cho thế gian mầu nhiệm của Chúa còn giấu trong b óng tối, cho đến khi được phô bày dưới ánh sáng vẹn toàn trong ngày sau hết.",
+        noi_dung: "Đường con đi có hoa th ơm, cảnh đẹp, có chông gai, có hùm beo, có bạn hiền, có trộm cướp, lúc mưa sa, lúc nắng cháy… chuy ện không thể tránh được. Con cứ đi, miễn lòng con đầy Chúa, đi như Phanxicô, như Cyrillô, như Athanasiô, đừng mất giờ dừng lại, đừng sợ tiếng chửi, đừng ăn mày tiếng khen. sự viên của Thiên Chúa trong việc loan b áo Tin M ừng Đức Kitô; anh đến để làm cho anh em được vững mạnh, và khích lệ đức tin của anh em, khiến không ai bị nao n úng vì c ác nỗi gian truân ấy. Hẳn anh em biết đó là số phận dành cho chúng ta. Thật thế, khi cònở với anh em, chúng tôi đã nói trước cho anh em rằng chúng ta sẽ gặp gian truân, điều đó đã xảy ra như anh em biết. Chúa, Giáo hội rao truy ền cái chết và thập giá Chúa, cho đến khi Ng ài lại đến (x. 1Cr 11,26). Giáo hội vững mạnh nhờ thần lực của Chúa Phục sinh, để toàn thắng các khó khăn và sầu muộn từ bên trong cũng như bên ngoài bằng yêu thương và kiên trì, v à trung thành mạc khải cho thế gian mầu nhiệm của Chúa còn giấu trong b óng tối, cho đến khi được phô bày dưới ánh sáng vẹn toàn trong ngày sau hết.",
         chuong: 29,
         loi_chua: [
             "1Tx 3,2-4: Chúng tôi đã phái anh Ti-mô-thê, người anh em của chúng tôi và cộng",
@@ -6370,7 +6370,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 710,
-        noi_dung: "Gian khổ là cơm bữa của đời người. Nhưng đối với người công giáo, cuộc sống của họ loan truy ền việc Chúa chịu chết v à tuyên xưng việc Chúa sống lại. Con có sung sướng khi đọc lời ấy không? dữ dù phải trải quanhiều gian nan cũng như phải chết nữa. Nhưng vì được dự phần vào mầu nhiệm Phục sinh, được đồng hoá với cái chết của Chúa Kitô, được mạnh mẽ nhờ đức cậy, họ tiến lên đón nhận ngày sống lại.",
+        noi_dung: "Gian khổ là cơm bữa của đời người. Nhưng đối với người công giáo, cuộc sống của họ loan truy ền việc Chúa chịu chết v à tuyên xưng việc Chúa sống lại. Con có sung sướng khi đọc lời ấy không? dữ dù phải trải qua nhiều gian nan cũng như phải chết nữa. Nhưng vì được dự phần vào mầu nhiệm Phục sinh, được đồng hoá với cái chết của Chúa Kitô, được mạnh mẽ nhờ đức cậy, họ tiến lên đón nhận ngày sống lại.",
         chuong: 29,
         loi_chua: [
             "MV 22d: Người Kitô hữu chắc chắn cần thiết và có bổn phận chiến đấu chống sự",
@@ -6443,7 +6443,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 718,
-        noi_dung: "Người mồ côi được sung t úc phú qúy là người hạnh phúc, nhưng không phải là người con hạnh phúc. Nghèo khổ mấy mà có cha yêu, mẹ mến là người con hạnh phúc. Con có ý thức mình vô cùng hạnh phúc vì làm con Chúa, con Mẹ Maria không? trở thành nô lệ và phải sợ sệt như xưa, nhưng là Thần Khí làm cho anh em nên nghĩa t ử, nhờ đó c húng ta được k êu lên: Áp-ba! Cha ơi! Chính Thần Khí chứng thực cho thần trí chúng ta rằng chúng ta là con cái Thiên Chúa. Vậy đã là con, thì cũng là thừa kế, mà được Thiên Chúa cho thừa kế, thì tức là đồng thừa k ế với Đức Kitô; vì một khi cùng chịu đau k hổ với Người, ch úng ta sẽ cùng được hưởng vinh quang với Người. phẩm giá con người, vì phẩm giá ấy đặt nền tảng và nên hoàn hảo trong chính Thiên Chúa: bởi vì con người có trí tuệ và tự  do được Thiên Chúa, Đấng tạo dựng đặt để trong xã hội, nhưng nhất là vì con người được gọi đến thônghiệp với chính Thiên Chúa và tham dự vào hạnh phúc của Ngài như con cái.",
+        noi_dung: "Người mồ côi được sung t úc phú qúy là người hạnh phúc, nhưng không phải là người con hạnh phúc. Nghèo khổ mấy mà có cha yêu, mẹ mến là người con hạnh phúc. Con có ý thức mình vô cùng hạnh phúc vì làm con Chúa, con Mẹ Maria không? trở thành nô lệ và phải sợ sệt như xưa, nhưng là Thần Khí làm cho anh em nên nghĩa t ử, nhờ đó c húng ta được k êu lên: Áp-ba! Cha ơi! Chính Thần Khí chứng thực cho thần trí chúng ta rằng chúng ta là con cái Thiên Chúa. Vậy đã là con, thì cũng là thừa kế, mà được Thiên Chúa cho thừa kế, thì tức là đồng thừa k ế với Đức Kitô; vì một khi cùng chịu đau k hổ với Người, chúng ta sẽ cùng được hưởng vinh quang với Người. phẩm giá con người, vì phẩm giá ấy đặt nền tảng và nên hoàn hảo trong chính Thiên Chúa: bởi vì con người có trí tuệ và tự  do được Thiên Chúa, Đấng tạo dựng đặt để trong xã hội, nhưng nhất là vì con người được gọi đến thônghiệp với chính Thiên Chúa và tham dự vào hạnh phúc của Ngài như con cái.",
         chuong: 30,
         loi_chua: [
             "Rm 8,15-17: Phần anh em, anh em đã không lãnh nhận Thần Khí khi ến anh em",
@@ -6466,7 +6466,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 721,
-        noi_dung: "Trẻ con không cần biết cha m ẹ giàu hay ngh èo, chỉ biết có cha m ẹ là đủ. Dù có bom đạn, dù có đói rách hiểm nguy, miễn là có cha mẹ, trẻ ngủ thiếp đi bằng an. Nó nương náu nơi tình yêu hầu như toàn năng của cha mẹ. Con hãy phó thác như vậy! Tôi ban cho ch úng sự sống đời đời; không bao giờ ch úng phải diệt vong v à không ai c ướp được chúng khỏi tay t ôi. Cha t ôi, Đấng đã ban ch úng cho t ôi, thì lớn hơn tất cả, và không ai cướp được chúng khỏi tay Chúa Cha.",
+        noi_dung: "Trẻ con không cần biết cha m ẹ giàu hay ngh èo, chỉ biết có cha m ẹ là đủ. Dù có bom đạn, dù có đói rách hiểm nguy, miễn là có cha mẹ, trẻ ngủ thiếp đi bằng an. Nó nương náu nơi tình yêu hầu như toàn năng của cha mẹ. Con hãy phó thác như vậy! Tôi ban cho chúng sự sống đời đời; không bao giờ chúng phải diệt vong v à không ai c ướp được chúng khỏi tay t ôi. Cha t ôi, Đấng đã ban chúng cho t ôi, thì lớn hơn tất cả, và không ai cướp được chúng khỏi tay Chúa Cha.",
         chuong: 30,
         loi_chua: [
             "Ga 10,27-29: Chiên của tôi thì nghe tiếng tôi; tôi biết chúng và chúng theo t ôi.",
@@ -6500,7 +6500,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 726,
-        noi_dung: "Cha mẹ xin kẹo của em bé, nó thu tay lại, nó không cho, cha m ẹ năn nỉ, nó còn tiếc… Sau cùng, nó đưa tay ra, mở tay dần dần và cho cha m ẹ. Cha mẹ vui mừng, hôn con vì nó đã quảng đại, thắng tính ích kỷ và cho con th êm nữa. Chúa vui s ướng vì những hy sinh nhỏ mọn của con.",
+        noi_dung: "Cha mẹ xin kẹo của em bé, nó thu tay lại, nó không cho, cha m ẹ năn nỉ, nó còn tiếc… Sau cùng, nó đưa tay ra, mở tay dần dần và cho cha m ẹ. Cha mẹ vui mừng, hôn con vì nó đã quảng đại, thắng tính ích kỷ và cho con thêm nữa. Chúa vui s ướng vì những hy sinh nhỏ mọn của con.",
         chuong: 30,
     },
     {
@@ -6558,7 +6558,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Thời gian là của Chúa, muôn vật là của Chúa, Ngài là Alpha và Ômêga, căn nguyên và cùng đích. Ngài toàn năng, cao cả, nhưng đồng thời chăm sóc chim trời, cá biển, thú rừng, hoa đồng nội và đếm hết tóc trên đầu con; Chúa chỉ kể tình yêu. Bình an và hạnh phúc cho tâm hồn nhỏ bé biết khao khát yêu thương vô tận. kho; thế mà Cha anh em trên trời vẫn nuôi chúng. Anh em lại chẳng quý giá hơn chúng sao? con người, và cũng vì yêu thương mà luôn luôn bảo tồn con người; hơn nữa con người chỉ sống hoàn toàn theo chân lý một khi tự ý nhìn nhận tình yêu ấy và phó thác cho Đấng tạo dựng mình.",
         chuong: 30,
         loi_chua: [
-            "Mt 6,26: H ãy xem chim trời: ch úng không gieo, không g ặt, không thu tích v ào",
+            "Mt 6,26: H ãy xem chim trời: chúng không gieo, không g ặt, không thu tích v ào",
             "MV 19a: Con người hiện hữu chỉ là do Thiên Chúa đã vì yêu thương nên tạo dựng",
         ],
         tham_chieu: [
@@ -6591,7 +6591,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 738,
-        noi_dung: "Khi con đi công tác cho Đức Mẹ xanh à con cả cây số, chưa chắc con đã sống bácái thật. Chừng nào con d ám công tác bên cạnh nhà con, đến với những người nghe thấy con mỗi ngày, cha mới tin con bácái thật!",
+        noi_dung: "Khi con đi công tác cho Đức Mẹ xanh à con cả cây số, chưa chắc con đã sống bác ái thật. Chừng nào con d ám công tác bên cạnh nhà con, đến với những người nghe thấy con mỗi ngày, cha mới tin con bác ái thật!",
         chuong: 31,
     },
     {
@@ -6601,7 +6601,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 740,
-        noi_dung: "Ký sổ vàng, mua v é số, cho áo quần cũ có khi đó chỉ là những việc bácái để khỏi bị quấy rầy! Yêu thương mới là khó. Hãy để lòng con trong sổ vàng, trong vé số, trong gói quần áo cũ! cũng không mi ễn cưỡng, vì ai vui vẻ d âng hi ến, thì được Thiên Chúa yêu thương.",
+        noi_dung: "Ký sổ vàng, mua v é số, cho áo quần cũ có khi đó chỉ là những việc bác ái để khỏi bị quấy rầy! Yêu thương mới là khó. Hãy để lòng con trong sổ vàng, trong vé số, trong gói quần áo cũ! cũng không mi ễn cưỡng, vì ai vui vẻ d âng hi ến, thì được Thiên Chúa yêu thương.",
         chuong: 31,
         loi_chua: [
             "2Cr 9,7: Mỗi người hãy cho tuỳ theo quyết định của lòng mình, không buồn phiền,",
@@ -6612,11 +6612,11 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 741,
-        noi_dung: "Tôi không làm việc bácái được, vì t ôi không có tiền! Chỉ có tiền mới bácái sao? – Bácái bằng n ụ cười, bácái bằng b ắt tay, bácái bằng th ông cảm, bácái bằng th ăm viếng, bácái bằng cầu nguyện. Thầy bảo thật anh em, người đó sẽ không mất phần thưởng đâu. chỉ được thực hiện trong c ác việc vĩ đại, nhưng trước hết trong những hoàn cảnh thông thường của cuộc sống.",
+        noi_dung: "Tôi không làm việc bác ái được, vì t ôi không có tiền! Chỉ có tiền mới bác ái sao? – Bácái bằng n ụ cười, bác ái bằng b ắt tay, bác ái bằng th ông cảm, bác ái bằng th ăm viếng, bác ái bằng cầu nguyện. Thầy bảo thậtanh em, người đó sẽ không mất phần thưởng đâu. chỉ được thực hiện trong c ác việc vĩ đại, nhưng trước hết trong những hoàn cảnh thông thường của cuộc sống.",
         chuong: 31,
         loi_chua: [
             "Mc 9,41: Ai cho anh em uống một chén nước vì lẽ anh em thuộc về Đấng Kitô, thì",
-            "MV 38a: Ngôi Lời Thiên Chúa cũng nhắc nhở cho biết đức bácái ấy không phải",
+            "MV 38a: Ngôi Lời Thiên Chúa cũng nhắc nhở cho biết đức bác ái ấy không phải",
         ],
         tham_chieu: [
             "Cv 12,5; 2Cr 9,14",
@@ -6628,7 +6628,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Đừng đợi gần chết mới làm hoà với nhau. Đừng để gần chết mới phân phát của cải. Bácái chẳng đặng đừng, Bácái bất đắc dĩ. Con sẽ tiếc vì yêu thương quá chậm. được gặt, nếu không sờn lòng. Vậy bao lâu còn thời giờ, chúng ta hãy làm điều thiện cho mọi người, nhất là cho những anh em trong cùng đại gia đình đức tin.",
         chuong: 31,
         loi_chua: [
-            "Gl 6,9 -10: Khi làm điều thiện, ch úng ta đừng nản chí, vì đến mùa ch úng ta sẽ",
+            "Gl 6,9 -10: Khi làm điều thiện, chúng ta đừng nản chí, vì đến mùa chúng ta sẽ",
         ],
     },
     {
@@ -6654,7 +6654,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 746,
-        noi_dung: "Cuộc sống huynh đệ thử thách và nâng đỡ tình bácái như cây trên rừng che đỡ nhau khỏi ngã lúc gió bão. nâng đỡ những người yếu đuối, không có đức tin vững mạnh, chứ không phải chiều theo s ở thích của mình. M ỗi người chúng ta h ãy chiều theo s ở thích kẻ khác, vì lợi ích của họ, và để xây dựng. Gl 6,2) v à trọng kính l ẫn nhau trong tinh thần giao h ảo huynh đệ (x. Rm 12,10)… H ơn nữa, sự hiệp nhất huynh đệ loan b áo Chúa Kitô đã đến (x. Ga 13,35; 17,21) và phát sinh một năng lực tông đồ mãnh liệt.",
+        noi_dung: "Cuộc sống huynh đệ thử thách và nâng đỡ tình bác ái như cây trên rừng che đỡ nhau khỏi ngã lúc gió bão. nâng đỡ những người yếu đuối, không có đức tin vững mạnh, chứ không phải chiều theo s ở thích của mình. M ỗi người chúng ta h ãy chiều theo s ở thích kẻ khác, vì lợi ích của họ, và để xây dựng. Gl 6,2) v à trọng kính l ẫn nhau trong tinh thần giao h ảo huynh đệ (x. Rm 12,10)… H ơn nữa, sự hiệp nhất huynh đệ loan b áo Chúa Kitô đã đến (x. Ga 13,35; 17,21) và phát sinh một năng lực tông đồ mãnh liệt.",
         chuong: 31,
         loi_chua: [
             "Rm 15,1-2: Bổn phận của chúng ta, những người có đức tin vững mạnh, là phải",
@@ -6670,7 +6670,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Con không lường được người say rượu có thể làm hại đến thế nào: đâm chém, đốt nhà, giết người… Khi con say vì đam mê hận thù, con càng mất sáng suốt hơn thế nữa. mà chẳng biết mình đi đâu, vì bóng tối đã làm cho mắt người ấy ra mù quáng.",
         chuong: 31,
         loi_chua: [
-            "1Ga 2,11: Nhưng ai gh ét anh em mình thì ở trong b óng tối và đi trong b óng tối",
+            "1Ga 2,11: Nhưng ai gh étanh em mình thì ở trong b óng tối và đi trong b óng tối",
         ],
         tham_chieu: [
             "Gc 4,1-3",
@@ -6683,10 +6683,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 749,
-        noi_dung: "Đâ u có tình yêu thương, ở đó có Thiên Chúa; đâu có thù ghét, ở đó có hoả ngục. chúng ta yêu thương anh em. Kẻ không yêu thương, thì ở lại trong sự chết. Phàm ai gh ét anh em mình, ấy là kẻ sát nhân. Và anh em bi ết: không kẻ sát nhân nào có sự sống đời đời ở lại trong nó. huynh đệ của các tín hữu như họ đồng tâm nhất trí cộng tác cho đức tin Phúc âm và tỏ ra họ là dấu chỉ hiệp nhất.",
+        noi_dung: "Đâ u có tình yêu thương, ở đó có Thiên Chúa; đâu có thù ghét, ở đó có hoả ngục. chúng ta yêu thương anh em. Kẻ không yêu thương, thì ở lại trong sự chết. Phàm ai gh étanh em mình, ấy là kẻ sát nhân. Và anh em biết: không kẻ sát nhân nào có sự sống đời đời ở lại trong nó. huynh đệ của các tín hữu như họ đồng tâm nhất trí cộng tác cho đức tin Phúc âm và tỏ ra họ là dấu chỉ hiệp nhất.",
         chuong: 31,
         loi_chua: [
-            "1Ga 3,14-15: Chúng ta bi ết rằng: chúng ta đã từ cõi chết bước vào cõi sống, vì",
+            "1Ga 3,14-15: Chúng ta biết rằng: chúng ta đã từ cõi chết bước vào cõi sống, vì",
             "MV 21e: Điều có thể làm chứng về sự hiện diện của Thiên Chúa hơn cả là đứcái",
         ],
         tham_chieu: [
@@ -6696,7 +6696,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 750,
-        noi_dung: "Lấy lý do giúp đỡ, khuyên bảo anh em, để dò chuyện bên này đem nói bên kia, đó là bácái tình báo.",
+        noi_dung: "Lấy lý do giúp đỡ, khuyên bảo anh em, để dò chuyện bên này đem nói bên kia, đó là bác ái tình báo.",
         chuong: 31,
     },
     {
@@ -6706,12 +6706,12 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 752,
-        noi_dung: "Chúa nói: Nếu ngươi dâng của lễ nơi bàn thờ, và ở đó nhớ ra anh em có điều bất bình với ngươi, hãy đặt của lễ đó trước bàn thờ, mà đi làm hoà với anh em ng ươi trước đã, rồi bấy giờ hãy đến mà dâng lễ vật của ngươi (Mt 5,23 -24). Còn con, con làm ngược lại: cứ dâng lễ và phóng thanh cho mọi người biết, trừ ra gặp mặt đương sự. Tin mừng của con!",
+        noi_dung: "Chúa nói: Nếu ngươi dâng của lễ nơi bàn thờ, và ở đó nhớ ra anh em có điều bất bình với ngươi, hãy đặt của lễ đó trước bàn thờ, mà đi làm hoà với anh em ngươi trước đã, rồi bấy giờ hãy đến mà dâng lễ vật của ngươi (Mt 5,23 -24). Còn con, con làm ngược lại: cứ dâng lễ và phóng thanh cho mọi người biết, trừ ra gặp mặt đương sự. Tin mừng của con!",
         chuong: 31,
     },
     {
         stt: 753,
-        noi_dung: "Con chủ trương phải đối thoại, nhưng con không chấp nhận ai nói trái ý con. Đó  là đối thoại có chương trình và giới hạn hay nói đúng hơn: hai người độc thoại. anh em, ch úng tôi đã mở rộng tấm lòng. Chúng tôi không hẹp hòi với anh em đâu, nhưng chính lòng dạ anh em hẹp hòi. Vậy anh em hãy đền đáp chúng tôi; tôi nói với anh em như nói với con cái: anh em cũng hãy mở rộng tấm lòng. nghĩ hoặc cùng một hành động với chúng ta trong vấn đề xã hội, chính trị hay cả tôn giáo nữa. Thực vậy, càng lấy sự nhân ái và yêu thương mà tìm hiểu sâu xa hơn những cách cảm nghĩ của họ, chúng ta c àng dễ dàng có thể đi tới đối thoại với họ hơn.",
+        noi_dung: "Con chủ trương phải đối thoại, nhưng con không chấp nhận ai nói trái ý con. Đó  là đối thoại có chương trình và giới hạn hay nói đúng hơn: hai người độc thoại. anh em, chúng tôi đã mở rộng tấm lòng. Chúng tôi không hẹp hòi với anh em đâu, nhưng chính lòng dạ anh em hẹp hòi. Vậy anh em hãy đền đáp chúng tôi; tôi nói với anh em như nói với con cái: anh em cũng hãy mở rộng tấm lòng. nghĩ hoặc cùng một hành động với chúng ta trong vấn đề xã hội, chính trị hay cả tôn giáo nữa. Thực vậy, càng lấy sự nhân ái và yêu thương mà tìm hiểu sâu xa hơn những cách cảm nghĩ của họ, chúng ta c àng dễ dàng có thể đi tới đối thoại với họ hơn.",
         chuong: 31,
         loi_chua: [
             "2Cr 6,11-13: Thưa anh em người Cô-rin-tô, chúng tôi đã chân thành ngỏ lời với",
@@ -6728,11 +6728,11 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 755,
-        noi_dung: "Hãy yêu thương nhau không bằng lời nói mà bằng việc làm. Hãy yêu thương nhau bằng tay mặt mà tay trái không biết. Các con hãy yêu mến nhau như Ta đã yêu mến các con (Ga 15,12). đầu môi chót lưỡi, nhưng phải yêu thương cách chân thật và bằng việc làm. nhu cầu. Ở đâu có người thi ếu ăn, thiếu uống, thiếu mặc, thiếu nhà ở, thiếu thuốc men, thiếu việc làm, thiếu giáo dục, thiếu những phương tiện cần thiết để sống xứng danh con người, ở đâu có người bịđau khổ vì nghịch cảnh, ốm yếu, chịu cảnh lưu đày, tù ngục, thì ở đó bácái Kitô giáo phải tìm gặp, ân cần săn sóc, ủi an v à xoa dịu họ bằng những trợ giúp thích đáng. Thi hành bổn phận này trước hết là bổn phận củanhững người giàu và các dân tộc giàu.",
+        noi_dung: "Hãy yêu thương nhau không bằng lời nói mà bằng việc làm. Hãy yêu thương nhau bằng tay mặt mà tay trái không biết. Các con hãy yêu mến nhau như Ta đã yêu mến các con (Ga 15,12). đầu môi chót lưỡi, nhưng phải yêu thương cách chân thật và bằng việc làm. nhu cầu. Ở đâu có người thi ếu ăn, thiếu uống, thiếu mặc, thiếu nhà ở, thiếu thuốc men, thiếu việc làm, thiếu giáo dục, thiếu những phương tiện cần thiết để sống xứng danh con người, ở đâu có người bịđau khổ vì nghịch cảnh, ốm yếu, chịu cảnh lưu đày, tù ngục, thì ở đó bác ái Kitô giáo phải tìm gặp, ân cần săn sóc, ủi an v à xoa dịu họ bằng những trợ giúp thích đáng. Thi hành bổn phận này trước hết là bổn phận củanhững người giàu và các dân tộc giàu.",
         chuong: 31,
         loi_chua: [
             "1Ga 3,18: Hỡi anh em là những người con bé nhỏ, chúng ta đừng yêu thương nơi",
-            "TĐ  8d: Ngày nay, hoạt động bácái có thể phải nhằm tới tất cả mọi người và mọi",
+            "TĐ  8d: Ngày nay, hoạt động bác ái có thể phải nhằm tới tất cả mọi người và mọi",
         ],
         tham_chieu: [
             "GH 42b; MV 93; LM 9b",
@@ -6740,10 +6740,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 756,
-        noi_dung: "Có loại bácái ồnào: Bácái phóng thanh. Có loại bácái kể công: Bácái ngân hàng. Có loại bácái nuôi người: Bácái sở thú. Có loại bácái khinh người: Bácái chủ nhân. Có loại bácái theo ý: Bácái độc tài. Bácái nhãn hiệu, bácái giả hiệu. dữ, tha thiết với điều lành; thương mến nhau với tình huynh đệ, coi người khác trọng hơn mình.",
+        noi_dung: "Có loại bác ái ồnào: Bácái phóng thanh. Có loại bác ái kể công: Bácái ngân hàng. Có loại bác ái nuôi người: Bácái sở thú. Có loại bác ái khinh người: Bácái chủ nhân. Có loại bác ái theo ý: Bácái độc tài. Bácái nhãn hiệu, bác ái giả hiệu. dữ, tha thiết với điều lành; thương mến nhau với tình huynh đệ, coi người khác trọng hơn mình.",
         chuong: 31,
         loi_chua: [
-            "Rm 12,9-10: Lòng bácái không được giả hình giả bộ. Anh em hãy gớm ghét điều",
+            "Rm 12,9-10: Lòng bác ái không được giả hình giả bộ. Anh em hãy gớm ghét điều",
         ],
         tham_chieu: [
             "Mt 16,2-4; 1Cr 13,4",
@@ -6767,7 +6767,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 759,
-        noi_dung: "Nếu con chỉ khen người khen con, chỉ chấp nhận người không phản đối con, giao tiếp với người đồng ý kiến với con, con không bácái cũng không sáng suốt: mù dắt mù.",
+        noi_dung: "Nếu con chỉ khen người khen con, chỉ chấp nhận người không phản đối con, giao tiếp với người đồng ý kiến với con, con không bác ái cũng không sáng suốt: mù dắt mù.",
         chuong: 31,
     },
     {
@@ -6806,7 +6806,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Yêu người là trắc nghiệm chắc chắn nhất về lòng mến Chúa của con. người ấy là kẻ nói dối; vì ai không yêu thương người anh em mà họ trông thấy, thì không thể yêu mến Thiên Chúa mà họ không trông thấy. Đâ y là điều răn mà chúng ta đã nhận được từ Người: ai yêu mến Thiên Chúa, thì cũng yêu thương anh em mình. Cl 3,14; Rm 13,10), n ên đứcái chi phối mọi phương thế nên thánh, làm cho chúng hình thành và đạt được cùng đích. Vì thế, đứcái đối với Thiên Chúa và thanhân là dấu chỉ người môn đệ chân chính của Chúa Kitô.",
         chuong: 31,
         loi_chua: [
-            "1Ga 4,20-21: Nếu ai nói: Tôi yêu mến Thiên Chúa mà lại ghét anh em mình,",
+            "1Ga 4,20-21: Nếu ai nói: Tôi yêu mến Thiên Chúa mà lại ghétanh em mình,",
             "GH 42a: Đứcái là mối dây liên kết của sự trọn lành, là sự viên mãn của lề luật (x.",
         ],
         tham_chieu: [
@@ -6868,7 +6868,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 772,
-        noi_dung: "Tại sao ngày nào con cũng lập toà án và bắt anh em con diễn hành lần lượt qua đó? Tại sao lúc nào cha cũng thấy con ngồi ghế quan toà, không bao giờ ngồi băng bị can? đoán thế nào, thì anh em cũng sẽ bị Thiên Chúa xét đoán như vậy; và anh em đong đấu nào, thì Thiên Chúa cũng sẽ đong đấu ấy cho anh em. bởi vậy Ngài ngăn cấm chúng ta xét đoán tội lỗi bên trong của bất cứ người nào.",
+        noi_dung: "Tại sao ngày nào con cũng lập toà án và bắtanh em con diễn hành lần lượt qua đó? Tại sao lúc nào cha cũng thấy con ngồi ghế quan toà, không bao giờ ngồi băng bị can? đoán thế nào, thì anh em cũng sẽ bị Thiên Chúa xét đoán như vậy; và anh em đong đấu nào, thì Thiên Chúa cũng sẽ đong đấu ấy cho anh em. bởi vậy Ngài ngăn cấm chúng ta xét đoán tội lỗi bên trong của bất cứ người nào.",
         chuong: 31,
         loi_chua: [
             "Mt 7,1-2: Anh em đừng xét đoán, để khỏi bị Thiên Chúa xét đoán, vì anh em xét",
@@ -6923,7 +6923,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 779,
-        noi_dung: "Một huynh đệ đoàn đích thực là một cộng đoàn hi ệp nhất; nó không nguyên t ử h oá, nhưng ngược lại nhân vị hoá con người. ủi, nếu tình bácái khích lệ chúng ta, nếu chúng ta được hiệp thông trong Thần Khí, nếu chúng ta sống thân tình và biết cảm thương nhau, thì xin anh em h ãy làm cho niềm vui của tôi được trọn vẹn, là hãy có cùng một cảm nghĩ, cùng một lòng mến, cùng một tâm hồn, cùng một ý hướng như nhau. chính việc xã hội hoá lại tạo thêm những liên hệ mới, tuy nhiên, những liên hệ mới ấy không phải lúc nào cũng giúp nhân vị trưởng thành một cách thích hợp, hoặc thăng hoanhững tương quan nhân vị (nhân vị hoá).",
+        noi_dung: "Một huynh đệ đoàn đích thực là một cộng đoàn hi ệp nhất; nó không nguyên t ử h oá, nhưng ngược lại nhân vị hoá con người. ủi, nếu tình bác ái khích lệ chúng ta, nếu chúng ta được hiệp thông trong Thần Khí, nếu chúng ta sống thân tình và biết cảm thương nhau, thì xin anh em h ãy làm cho niềm vui của tôi được trọn vẹn, là hãy có cùng một cảm nghĩ, cùng một lòng mến, cùng một tâm hồn, cùng một ý hướng như nhau. chính việc xã hội hoá lại tạo thêm những liên hệ mới, tuy nhiên, những liên hệ mới ấy không phải lúc nào cũng giúp nhân vị trưởng thành một cách thích hợp, hoặc thăng hoanhững tương quan nhân vị (nhân vị hoá).",
         chuong: 31,
         loi_chua: [
             "Pl 2,1-2: Nếu quả thật sự liên kết với Đức Kitô đem lại cho chúng ta một niềm an",
@@ -6963,7 +6963,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 784,
-        noi_dung: "Sao con trách móc khi người ta phụ ơn con? C ông nghiệp của con mất đi sao? Hay là con bắt Chúa cám ơn con?Những gì các ngươi đã làm cho một người trong các anh em hèn mọn nhất này của Ta, là các ngươi đã làm cho chính mình Ta (Mt 25,40). thôi, vì kẻ ấy là môn đệ của Thầy, thì Thầy bảo thật anh em, người đó sẽ không mất phần thưởng đâu.",
+        noi_dung: "Sao con trách móc khi người ta phụ ơn con? C ông nghiệp của con mất đi sao? Hay là con bắt Chúa cám ơn con?Những gì các ngươi đã làm cho một người trong các anh em hèn mọn nhất này của Ta, là các ngươi đã làm cho chính mình Ta (Mt 25,40). thôi, vì kẻ ấy là môn đệ của Thầy, thì Thầy bảo thậtanh em, người đó sẽ không mất phần thưởng đâu.",
         chuong: 31,
         loi_chua: [
             "Mt 10,42: Ai cho một trong những kẻ bé nhỏ này uống, dù chỉ một chén nước lã",
@@ -6976,7 +6976,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 786,
-        noi_dung: "Nếu các công việc từ thiện xã hội của con không phải vì Chúa, thì con chỉ là nhân viên của một chi nhánh Hồng thập tự. cho thiên hạ thấy. Bằng không, anh em sẽ chẳng được Cha của anh em, Đấng ngự trên trời, ban thưởng. Vậy khi bố thí, đừng có khua chiêng đánh trống, như bọn đạo đức giả thường bi ểu di ễn trong hội đường v à ngo ài phố x á, cốt để người ta khen. Thầy bảo thật anh em, chúng đã được phần thưởng rồi. cho Chúa Giêsu Kitô; các ngài hợp tác với giáo dân và cùng với họ, xử sự theo gương Thầy, Đấng đếnở giữa mọi người không để được phục vụ, nhưng để phục vụ và hiến mạng sống mình thay cho nhiều người (Mt 20,28).",
+        noi_dung: "Nếu các công việc từ thiện xã hội của con không phải vì Chúa, thì con chỉ là nhân viên của một chi nhánh Hồng thập tự. cho thiên hạ thấy. Bằng không, anh em sẽ chẳng được Cha của anh em, Đấng ngự trên trời, ban thưởng. Vậy khi bố thí, đừng có khua chiêng đánh trống, như bọn đạo đức giả thường bi ểu di ễn trong hội đường v à ngo ài phố x á, cốt để người ta khen. Thầy bảo thậtanh em, chúng đã được phần thưởng rồi. cho Chúa Giêsu Kitô; các ngài hợp tác với giáo dân và cùng với họ, xử sự theo gương Thầy, Đấng đếnở giữa mọi người không để được phục vụ, nhưng để phục vụ và hiến mạng sống mình thay cho nhiều người (Mt 20,28).",
         chuong: 31,
         loi_chua: [
             "Mt 6,1-2: Khi làm việc lành phúc đức, anh em phải coi chừng, chớ có phô trương",
@@ -6988,7 +6988,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 787,
-        noi_dung: "Bácái không có biên giới, nếu có biên giới không phải là bácái nữa. tộc, hoàn cảnh xã hội hay tôn giáo; bácái không cầu mong một lợi ích hay một sự tri ân nào.",
+        noi_dung: "Bácái không có biên giới, nếu có biên giới không phải là bác ái nữa. tộc, hoàn cảnh xã hội hay tôn giáo; bác ái không cầu mong một lợi ích hay một sự tri ân nào.",
         chuong: 31,
         loi_chua: [
             "TG 12a: Bácái Kitô giáo thực sự lan tr àn tới mọi người không phân biêt chủng",
@@ -6999,7 +6999,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 788,
-        noi_dung: "Khi con giúp ai điều gì, phải hết sức bácái, để người thụ ân tha thứ cho con cái nhục họ chịu khi nhận của con. bố thí được kín đáo. Và Cha của anh, Đấng thấu suốt những gì kín đáo, sẽ trả lại cho anh.",
+        noi_dung: "Khi con giúp ai điều gì, phải hết sức bác ái, để người thụ ân tha thứ cho con cái nhục họ chịu khi nhận của con. bố thí được kín đáo. Và Cha của anh, Đấng thấu suốt những gì kín đáo, sẽ trả lại cho anh.",
         chuong: 31,
         loi_chua: [
             "Mt 6,3-4: Còn anh, khi bố thí, đừng cho tay trái biết việc tay phải làm, để việc anh",
@@ -7007,7 +7007,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 789,
-        noi_dung: "Thường Chúa Giêsu làm phép lạ rồi dặn đừng choai bi ết. C ó nhiều người chưa làm phép lạ mà đã cho mọi người biết mình bácái.",
+        noi_dung: "Thường Chúa Giêsu làm phép lạ rồi dặn đừng choai biết. C ó nhiều người chưa làm phép lạ mà đã cho mọi người biết mình bác ái.",
         chuong: 31,
     },
     {
@@ -7017,12 +7017,12 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 791,
-        noi_dung: "Một bộ máy dù tinh vi và kiên cố đến đâu, nếu các bộ phận khô dầu cũng hư hỏng. Hãy rót dầu bácái của con vào để máy chạy điều hoà không sứt mẻ.",
+        noi_dung: "Một bộ máy dù tinh vi và kiên cố đến đâu, nếu các bộ phận khô dầu cũng hư hỏng. Hãy rót dầu bác ái của con vào để máy chạy điều hoà không sứt mẻ.",
         chuong: 31,
     },
     {
         stt: 792,
-        noi_dung: "Bácái là nối dài tình yêu Thiên Chúa đối với nhân loại. bằng chính tình bácái mà Thiên Chúa đã yêu chúng ta và muốn chúng ta cũng yêu thương nhau bằng tình bácái đó.",
+        noi_dung: "Bácái là nối dài tình yêu Thiên Chúa đối với nhân loại. bằng chính tình bác ái mà Thiên Chúa đã yêu chúng ta và muốn chúng ta cũng yêu thương nhau bằng tình bác ái đó.",
         chuong: 31,
         loi_chua: [
             "TG 12a: Sự hiện diện của các Kitô hữu giữa các nhóm người phải được tác động",
@@ -7051,12 +7051,12 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 796,
-        noi_dung: "Tu sĩ sống thánh nhờ nhiều việc đạo đức riêng: ăn chay, hãm mình, luật dòng, tĩnh tâm. Giáo dân chỉ có một phương thế: sống thánh là bácái.",
+        noi_dung: "Tu sĩ sống thánh nhờ nhiều việc đạo đức riêng: ăn chay, hãm mình, luật dòng, tĩnh tâm. Giáo dân chỉ có một phương thế: sống thánh là bác ái.",
         chuong: 31,
     },
     {
         stt: 797,
-        noi_dung: "Bácái là tu đức liên lỉ: tu miệng lưỡi, tu quả tim, tu lỗ tai, tu con m ắt, tu lá gan, tu b ộ óc… T ất cả con người con vẫy vùng, nhưng con phản ứng yêu thương, như Chúa Giêsu. yêu thương, và hãy sống trong tình bácái, như Đức Kitô đã yêu thương chúng ta, và vì chúng ta, đã tự nộp mình làm hiến lễ, làm hy lễ dâng lên Thiên Chúa tựa hương thơm ngào ngạt.",
+        noi_dung: "Bácái là tu đức liên lỉ: tu miệng lưỡi, tu quả tim, tu lỗ tai, tu con m ắt, tu lá gan, tu b ộ óc… T ất cả con người con vẫy vùng, nhưng con phản ứng yêu thương, như Chúa Giêsu. yêu thương, và hãy sống trong tình bác ái, như Đức Kitô đã yêu thương chúng ta, và vì chúng ta, đã tự nộp mình làm hiến lễ, làm hy lễ dâng lên Thiên Chúa tựa hương thơm ngào ngạt.",
         chuong: 31,
         loi_chua: [
             "Ep 5,1-2: Anh e m hãy bắt chước Thiên Chúa, vì anh em là con cái được Người",
@@ -7067,10 +7067,10 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 798,
-        noi_dung: "Trong nhà Cha Ta có nhiều chỗ ở (Ga 14,2). L ời Chúa rất là thấm thiá! Con hãy đối xử với mỗi người khác nhau, kính trọng từng tâm hồn. Đừng xem con người như một con số, một khối lượng, cộng lại là ra đáp số! Đ ối với con người không phải hai cộng hai là bốn luôn. Hai quả dưa với hai quả dưa có lúc là bốn ký, nhưng có lúc phải sáu quả mới được bốn ký. cần phải nhìn nhận nơi thanhân hình ảnh Thiên Chúa vì họ đã được dựng nên giống hình ảnh Ngài và nhìn nhận nơi họ chính Chúa Kitô, bởi vì bất cứ sự gì được tặng cho người nghèo là đã thực sự được dâng cho Người. Phải hết sức tế nhị tôn trọng tự do và nhân phẩm của người được trợ giúp. Đừng làm hoen ố ý hướng ngay lành vì mưu cầu tư lợi hay vì một tham vọng thống trị nào. Phải thoả mãn những đòi hỏi công bình trước đã kẻo những tặng phẩm đem cho tưởng là vì bácái, mà thực ra phải đền trả vì đức công bằng. Phải loại trừ không những hậu quả mà cả nguyên nhân gây nên sự dữ. Phải tổ chức giúp đỡ sao cho những người được trợ giúp dần dần thoát khỏi sự lệ thuộc người khác và có thể tự túc.",
+        noi_dung: "Trong nhà Cha Ta có nhiều chỗ ở (Ga 14,2). L ời Chúa rất là thấm thiá! Con hãy đối xử với mỗi người khác nhau, kính trọng từng tâm hồn. Đừng xem con người như một con số, một khối lượng, cộng lại là ra đáp số! Đ ối với con người không phải hai cộng hai là bốn luôn. Hai quả dưa với hai quả dưa có lúc là bốn ký, nhưng có lúc phải sáu quả mới được bốn ký. cần phải nhìn nhận nơi thanhân hình ảnh Thiên Chúa vì họ đã được dựng nên giống hình ảnh Ngài và nhìn nhận nơi họ chính Chúa Kitô, bởi vì bất cứ sự gì được tặng cho người nghèo là đã thực sự được dâng cho Người. Phải hết sức tế nhị tôn trọng tự do và nhân phẩm của người được trợ giúp. Đừng làm hoen ố ý hướng ngay lành vì mưu cầu tư lợi hay vì một tham vọng thống trị nào. Phải thoả mãn những đòi hỏi công bình trước đã kẻo những tặng phẩm đem cho tưởng là vì bác ái, mà thực ra phải đền trả vì đức công bằng. Phải loại trừ không những hậu quả mà cả nguyên nhân gây nên sự dữ. Phải tổ chức giúp đỡ sao cho những người được trợ giúp dần dần thoát khỏi sự lệ thuộc người khác và có thể tự túc.",
         chuong: 31,
         loi_chua: [
-            "TĐ  8e: Đ ể thực thi bácái mà không bị chỉ trích v à để tỏ ra là bácái đích thực,",
+            "TĐ  8e: Đ ể thực thi bác ái mà không bị chỉ trích v à để tỏ ra là bác ái đích thực,",
         ],
         tham_chieu: [
             "MV 26c, 27a, 28b; DT 14c",
@@ -7099,7 +7099,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 802,
-        noi_dung: "Không ghét ai chưa đủ, thương người chưa đủ, giúp người chưa đủ. Hiệp nhất trong tình yêu và hành động mới đủ. Chúa Giêsu cầu xin: … Đ ể hết thảy chúng nên một, cũng như, lạy Cha, Cha ở trong Con và Conở trong Cha (Ga 17,21). cả anh em h ãy nhất trí với nhau trong lời ăn tiếng nói, và đừng để có sự chia rẽ giữa anh em, nhưng hãy sống hoà thuận, một lòng một ý với nhau. Giáo hội ở trong Chúa Kitô như bí tích, nghĩa là dấu chỉ và khí cụ, của sự  kết hợp mật thiết với Thiên Chúa và của sự hiệp nhất toàn thể nhân loại. Như thế, chính Giáo hội b ày t ỏ cho thế giới bi ết rằng sự hi ệp nhất b ên ngo ài trong phạm vi x ã hội bắt nguồn từ sự hiệp nhất tâm trí, ngh ĩa là từ đức tin v à đức mến, căn bản hiệp nhất bất khả phân ly của Giáo hội trong Chúa Thánh Thần. Sinh lực mà Giáo hội có thể chuyển thông cho x ã hội nhân loại ngày nay là đức tin v à đức mến ấy, được thể hiện trong cuộc sống, chứ không phải do thế lực bên ngoài dựa vào những phương thế hoàn toàn nhân loại.",
+        noi_dung: "Không ghétai chưa đủ, thương người chưa đủ, giúp người chưa đủ. Hiệp nhất trong tình yêu và hành động mới đủ. Chúa Giêsu cầu xin: … Đ ể hết thảy chúng nên một, cũng như, lạy Cha, Cha ở trong Con và Conở trong Cha (Ga 17,21). cả anh em h ãy nhất trí với nhau trong lời ăn tiếng nói, và đừng để có sự chia rẽ giữa anh em, nhưng hãy sống hoà thuận, một lòng một ý với nhau. Giáo hội ở trong Chúa Kitô như bí tích, nghĩa là dấu chỉ và khí cụ, của sự  kết hợp mật thiết với Thiên Chúa và của sự hiệp nhất toàn thể nhân loại. Như thế, chính Giáo hội b ày t ỏ cho thế giới biết rằng sự hi ệp nhất b ên ngo ài trong phạm vi x ã hội bắt nguồn từ sự hiệp nhất tâm trí, ngh ĩa là từ đức tin v à đức mến, căn bản hiệp nhất bất khả phân ly của Giáo hội trong Chúa Thánh Thần. Sinh lực mà Giáo hội có thể chuyển thông cho x ã hội nhân loại ngày nay là đức tin v à đức mến ấy, được thể hiện trong cuộc sống, chứ không phải do thế lực bên ngoài dựa vào những phương thế hoàn toàn nhân loại.",
         chuong: 31,
         loi_chua: [
             "1Cr 1,10: Thưa anh em, nhân danh Đức Giêsu Kitô, Chúa chúng ta, tôi khuyên tất",
@@ -7112,11 +7112,11 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 803,
-        noi_dung: "Chúa Giêsu bị bỏ rơi trên Thánh giá, Chúa Giêsu còn bị bỏ rơi trong mỗi anh em đau khổ khắp nơi trên thế giới. mà chẳng động lòng thương, thì làm sao tình yêu Thiên Chúa ở lại trong người ấy được ? răn riêng của Người và mặc cho nó một ý nghĩa mới phong phú hơn, khi Người muốn đồng hoá mình với anh em như chính đối tượng của bácái, Người nói: Bao nhiêu lần các ngươi làm những việc đó cho một trong những người hèn mọn là anh em Ta đây, tức là các ngươi làm cho Ta vậy (Mt 25,40). Vì thế, Giáo hội đặc biệt đề cao lòng xót thương đối với người nghèo đói, bệnh tật cũng như những công trình mệnh danh là từ thiện và tương trợ để xoa dịu mọi nỗi thống khổ củanhân loại.",
+        noi_dung: "Chúa Giêsu bị bỏ rơi trên Thánh giá, Chúa Giêsu còn bị bỏ rơi trong mỗi anh em đau khổ khắp nơi trên thế giới. mà chẳng động lòng thương, thì làm sao tình yêu Thiên Chúa ở lại trong người ấy được ? răn riêng của Người và mặc cho nó một ý nghĩa mới phong phú hơn, khi Người muốn đồng hoá mình với anh em như chính đối tượng của bác ái, Người nói: Bao nhiêu lần các ngươi làm những việc đó cho một trong những người hèn mọn là anh em Ta đây, tức là các ngươi làm cho Ta vậy (Mt 25,40). Vì thế, Giáo hội đặc biệt đề cao lòng xót thương đối với người nghèo đói, bệnh tật cũng như những công trình mệnh danh là từ thiện và tương trợ để xoa dịu mọi nỗi thống khổ củanhân loại.",
         chuong: 31,
         loi_chua: [
             "1Ga 3,17: N ếu ai có của cải thế gian v à thấy anh em mình l âm cảnh túng thiếu,",
-            "TĐ  8bc: Chúa Kitô đã làm cho giới răn bácái đối với thanhân thành một giới",
+            "TĐ  8bc: Chúa Kitô đã làm cho giới răn bác ái đối với thanhân thành một giới",
         ],
         tham_chieu: [
             "GH 8c; MV 27b, 90c; TĐ  31e; TG 12a",
@@ -7140,7 +7140,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 806,
-        noi_dung: "Nếu không triệt để thi hành chúc thư của Chúa Giêsu, là sống bácái, thì con là đưá con bất hiếu vô phúc nhất. Thực hiện cách phi thường những việc tầm thường",
+        noi_dung: "Nếu không triệt để thi hành chúc thư của Chúa Giêsu, là sống bác ái, thì con là đưá con bất hiếu vô phúc nhất. Thực hiện cách phi thường những việc tầm thường",
         chuong: 31,
         loi_chua: [
             "Ga 14,15: Nếu anh em yêu mến Thầy, anh em sẽ giữ các điều răn của Thầy.",
@@ -7183,7 +7183,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 812,
-        noi_dung: "Với tâm hồn cao cả, việc tầm thường hoá ra cao cả: Ai cho một bát nước lã vì danh Chúa sẽ được thưởng trên Thiên đàng. thôi, vì kẻ ấy là môn đệ của Thầy, thì Thầy bảo thật anh em, người đó sẽ không mất phần thưởng đâu.",
+        noi_dung: "Với tâm hồn cao cả, việc tầm thường hoá ra cao cả: Ai cho một bát nước lã vì danh Chúa sẽ được thưởng trên Thiên đàng. thôi, vì kẻ ấy là môn đệ của Thầy, thì Thầy bảo thậtanh em, người đó sẽ không mất phần thưởng đâu.",
         chuong: 32,
         loi_chua: [
             "Mt 10,42: Ai cho một trong những kẻ bé nhỏ này uống, dù chỉ một chén nước lã",
@@ -7200,7 +7200,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         chuong: 32,
         loi_chua: [
             "1Cr 16,14: Hãy làm mọi sự vì đứcái.",
-            "GH 41c: C ác linh mục kết thành vòng hoa thiêng của hàng Giám mục và thông",
+            "GH 41c: Các linh mục kết thành vòng hoa thiêng của hàng Giám mục và thông",
         ],
         tham_chieu: [
             "MV 34b; LM 14ab",
@@ -7262,7 +7262,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 822,
-        noi_dung: "Ngày sống của con là một c huỗi lời nguy ện tin yêu cụ thể ho á trong c ông t ác tầm thường. và gia đình, công ăn việc làm thường ngày, việc nghỉ ngơi thể xác và tinh thần, nếu họ chu toàn trong Thánh Thần và cả đến những thử thách của cuộc sống, nếu họ kiên trì đón nhận, thì tất cả đều trở nên hiến lễ thiêng liêng đẹp lòng Thiên Chúa, nhờ Chúa Giêsu Kitô (x. 1Pr 2,5), được thành kính dâng lên Chúa Cha cùng với Mình Thánh Chúa khi cử hành Phép Thánh Thể. Như thế, giáo dân thánh hi ến thế giới n ày cho Thiên Chúanhờ bi ết phụng th ờ Ng ài bằng hành động thánh thiện khắp nơi.",
+        noi_dung: "Ngày sống của con là một c huỗi lời nguy ện tin yêu cụ thể ho á trong c ông t ác tầm thường. và gia đình, công ăn việc làm thường ngày, việc nghỉ ngơi thể xác và tinh thần, nếu họ chu toàn trong Thánh Thần và cả đến những thử thách của cuộc sống, nếu họ kiên trì đón nhận, thì tất cả đều trở nên hiến lễ thiêng liêng đẹp lòng Thiên Chúa, nhờ Chúa Giêsu Kitô (x. 1Pr 2,5), được thành kính dâng lên Chúa Cha cùng với Mình Thánh Chúa khi cử hành Phép Thánh Thể. Như thế, giáo dân thánh hi ến thế giới n ày cho Thiên Chúanhờ biết phụng th ờ Ng ài bằng hành động thánh thiện khắp nơi.",
         chuong: 32,
         loi_chua: [
             "GH 34b: … M ọi hoạt động, kinh nguyện và công cuộc tông đồ, đời sống hôn nhân",
@@ -7296,7 +7296,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Trên đường dâng hiến, không có việc gì là tầm thường cả. Một cử chỉ nhỏ nhặt nhất vì kẻ khác là một bước đến tình yêu, do tình yêu, là một sự phát triển con người. việc, bền chí trong khó khăn, nhẫn nại và can đảm chịu đựng nỗi cô quạnh, sự mệt nhọc và những cố gắng vô hiệu. Họ sẽ đến cùng mọi người với tâm hồn rộng mở, với con tim bao dung, tình nguy ện l ãnh nhận nhi ệm vụ được giao phó, quảng đại thích nghi cả với những phong tục khác thường của các dân tộc và những điều kiện sinh hoạt đổi thay, đồng tâm tương ái cộng tác với anh em và mọi người đang hi ến th ân cho cùng một c ông việc, để theo g ương cộng đoàn thời các Tông đồ, họ cùng với các tín hữu hợp thành một con tim v à một tâm hồn duy nhất.",
         chuong: 32,
         loi_chua: [
-            "TG 25a: … C ác nhà truyền giáo phải mau mắn khởi xướng, kiên trì hoàn tất công",
+            "TG 25a: … Các nhà truyền giáo phải mau mắn khởi xướng, kiên trì hoàn tất công",
         ],
         tham_chieu: [
             "MV 38a; TĐ  4a, 8b",
@@ -7387,7 +7387,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 839,
-        noi_dung: "Nếu không trịđược tính bi quan, thái độ thất vọng, thói quen rụt rè, con đừng lãnh đạo. ta tr ở n ên nh út nh át, nhưng là một Thần Khí khi ến ch úng ta được đầy sức mạnh, tình thương, và biết tự chủ. Vậy anh đừng hổ thẹn vì phải làm chứng cho Chúa chúng ta, cũng đừng hổ thẹn vì t ôi, người tù của Chúa; nhưng dựa vào sức mạnh của Thiên Chúa, anh hãy đồng lao cộng khổ với tôi để loan báo Tin Mừng.",
+        noi_dung: "Nếu không trịđược tính bi quan, thái độ thất vọng, thói quen rụt rè, con đừng lãnh đạo. ta tr ở n ên nh út nh át, nhưng là một Thần Khí khi ến chúng ta được đầy sức mạnh, tình thương, và biết tự chủ. Vậy anh đừng hổ thẹn vì phải làm chứng cho Chúa chúng ta, cũng đừng hổ thẹn vì t ôi, người tù của Chúa; nhưng dựa vào sức mạnh của Thiên Chúa, anh hãy đồng lao cộng khổ với tôi để loan báo Tin Mừng.",
         chuong: 33,
         loi_chua: [
             "2Tm 1,7-8: Vì Thiên Chúa đã chẳng ban cho chúng ta một thần khí làm cho chúng",
@@ -7482,7 +7482,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 854,
-        noi_dung: "Biết giữ kỷ luật cá nhân, biết tổ chức đời sống, biết bắt đầu hành động, biết phân giá trị mỗi việc. Đó  là những điều kiện giúp con lãnh đạo cách hiên ngang, anh hùng, đem lại tin tưởng lúc mọi người nao núng, hoảng hốt. vững chãi của đời sống cộng đoàn và bácái, mà hơn nữa, còn như một thành phần thiết yếu trong tất cả công cuộc huấn luyện đã đạt được tinh thần tự chủ, phát tri ển được sự trưởng thành vững ch ãi về nhân c ách, r èn luy ện được những tư cách khác giúp ích rất nhiều cho hoạt động của Giáo hội được quy củ và kết qủa.",
+        noi_dung: "Biết giữ kỷ luật cá nhân, biết tổ chức đời sống, biết bắt đầu hành động, biết phân giá trị mỗi việc. Đó  là những điều kiện giúp con lãnh đạo cách hiên ngang, anh hùng, đem lại tin tưởng lúc mọi người nao núng, hoảng hốt. vững chãi của đời sống cộng đoàn và bác ái, mà hơn nữa, còn như một thành phần thiết yếu trong tất cả công cuộc huấn luyện đã đạt được tinh thần tự chủ, phát tri ển được sự trưởng thành vững ch ãi về nhân c ách, r èn luy ện được những tư cách khác giúp ích rất nhiều cho hoạt động của Giáo hội được quy củ và kết qủa.",
         chuong: 33,
         loi_chua: [
             "Đ T 11b: Không những phải coi kỹ luật trong đời sống chủng viện như một trợ lực",
@@ -7551,7 +7551,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 863,
-        noi_dung: "Con hãy đặt mình vào địa vị các cộng sự viên, trao đổi quan điểm thân mật với họ, đón tiếp ân cần, tỏ cho h ọ thấy con quan t âm đến họ, con hi ểu họ. Thái độ nhân hậu ấy sẽ làm cho họ yêu thương con, tin tưởng con. đã không làm hại ai, không làm choai phải sạt nghiệp, không bóc lột ai. T ôi nói thế không phải để lên án anh em, vì t ôi đã từng nói: anh em hằng ở trong lòng chúng tôi, sống chết chúng ta đều có nhau. Tôi rất tin tưởng anh em, t ôi rất hãnh diện về anh em. T âm hồn tôi chứa chan niềm an ủi và tràn ngập nỗi vui mừng trong mọi cơn gian nan khốn khó.",
+        noi_dung: "Con hãy đặt mình vào địa vị các cộng sự viên, trao đổi quan điểm thân mật với họ, đón tiếp ân cần, tỏ cho h ọ thấy con quan t âm đến họ, con hi ểu họ. Thái độ nhân hậu ấy sẽ làm cho họ yêu thương con, tin tưởng con. đã không làm hại ai, không làm choai phải sạt nghiệp, không bóc lộtai. T ôi nói thế không phải để lên án anh em, vì t ôi đã từng nói: anh em hằng ở trong lòng chúng tôi, sống chết chúng ta đều có nhau. Tôi rất tin tưởng anh em, t ôi rất hãnh diện về anh em. T âm hồn tôi chứa chan niềm an ủi và tràn ngập nỗi vui mừng trong mọi cơn gian nan khốn khó.",
         chuong: 33,
         loi_chua: [
             "2Cr 7,2-4: Anh em hãy dành cho chúng tôi một chỗ trong lòng anh em. Chúng tôi",
@@ -7562,7 +7562,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 864,
-        noi_dung: "Công trạng của con không được ghi trong huy chương trên ngực, trong c ác bản tuyên dương, các diễn văn ca ngợi con. Phần thưởng của con được ghi trong cái nhìn, trong quả tim của các cộng sự viên. cho ch úng t ôi h ãnh di ện trước nhan Đức Giêsu, Chúa ch úng ta, khi Người quang lâm, nếu không phải là anh em? Phải, chính anh em là vinh quang và là niềm vui của chúng tôi.",
+        noi_dung: "Công trạng của con không được ghi trong huy chương trên ngực, trong c ác bản tuyên dương, các diễn văn ca ngợi con. Phần thưởng của con được ghi trong cái nhìn, trong quả tim của các cộng sự viên. cho chúng t ôi h ãnh di ện trước nhan Đức Giêsu, Chúa chúng ta, khi Người quang lâm, nếu không phải là anh em? Phải, chính anh em là vinh quang và là niềm vui của chúng tôi.",
         chuong: 33,
         loi_chua: [
             "1Tx 2,19-20: Ai là niềm hy vọng, là niềm vui của chúng tôi, ai là triều thiên làm",
@@ -7573,7 +7573,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 865,
-        noi_dung: "Chiếm được con tim của tùy viên, con có thể thấy họ dốc toàn lực để theo con vì họ biết con yêu họ thành thực, đậm đà, hy sinh tận tụy cho h ọ. Nếu con không lãnh đạo bằng tình yêu, con phải sử dụng hạ sách: vũ lực. sống mình cho đoàn chi ên. Người làm thu ê, vì không phải là mục t ử, v à vì chiên không thuộc về anh, nên khi thấy sói đến, anh bỏ chiên mà chạy. Sói vồ lấy chiên và làm cho chiên tán loạn. sống giữa dân mình như những người phục vụ, nghĩa là như những chủ chăn hiền từ biết các con chi ên mình v à con chi ên cũng biết chủ chăn; như những người cha đích thực tỏ lòng yêu thương và lo lắng cho h ết mọi người và mọi người tỏ lòng tri ân tuân phục quyền hành Thiên Chúa đã ban cho c ác ngài. Các ngài hãy quy tụ đoàn chiên của mình thành một gia đình đông đủ và cổ võ để mọi người đều ý thức nhiệm vụ riêng mà sống và hoạt động trong tình hiệp thông bácái.",
+        noi_dung: "Chiếm được con tim của tùy viên, con có thể thấy họ dốc toàn lực để theo con vì họ biết con yêu họ thành thực, đậm đà, hy sinh tận tụy cho h ọ. Nếu con không lãnh đạo bằng tình yêu, con phải sử dụng hạ sách: vũ lực. sống mình cho đoàn chi ên. Người làm thu ê, vì không phải là mục t ử, v à vì chiên không thuộc về anh, nên khi thấy sói đến, anh bỏ chiên mà chạy. Sói vồ lấy chiên và làm cho chiên tán loạn. sống giữa dân mình như những người phục vụ, nghĩa là như những chủ chăn hiền từ biết các con chi ên mình v à con chi ên cũng biết chủ chăn; như những người cha đích thực tỏ lòng yêu thương và lo lắng cho h ết mọi người và mọi người tỏ lòng tri ân tuân phục quyền hành Thiên Chúa đã ban cho c ác ngài. Các ngài hãy quy tụ đoàn chiên của mình thành một gia đình đông đủ và cổ võ để mọi người đều ý thức nhiệm vụ riêng mà sống và hoạt động trong tình hiệp thông bác ái.",
         chuong: 33,
         loi_chua: [
             "Ga 10,11-12: Tôi chính là Mục Tử nhân lành. Mục Tử nhân lành hy sinh mạng",
@@ -7628,7 +7628,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 870,
-        noi_dung: "Đ ặc điểm củanhà lãnh đạo thiên tài là biết quy tụ cộng tác viên bằng cách: - Tìm họ, - Khám phá họ, - Tiếp đón họ, - Chọn họ, - Huấn luyện họ, - Tín nhiệm họ, - Sử dụng họ, - Mến yêu họ, Không ai là nhà lãnh đạo lý tưởng cũng như không ai là cộng tác viên thập toàn. và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cảnhững gì anh em xin cùng Chúa Chanhân danh Thầy, thì Người ban cho anh em.",
+        noi_dung: "Đ ặc điểm củanhà lãnh đạo thiên tài là biết quy tụ cộng tác viên bằng cách: - Tìm họ, - Khám phá họ, - Tiếp đón họ, - Chọn họ, - Huấn luyện họ, - Tín nhiệm họ, - Sử dụng họ, - Mến yêu họ, Không ai là nhà lãnh đạo lý tưởng cũng như không ai là cộng tác viên thập toàn. và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cảnhững gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em.",
         chuong: 33,
         loi_chua: [
             "Ga 15,16: Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em,",
@@ -7636,7 +7636,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 871,
-        noi_dung: "Thiên Chúa là bí quyết củanhà lãnh đạo. Ngài ban uy quy ền và không bỏ rơi những ai dựa vào quyền năng của Ngài để lãnh đạo. Tinh thần khiêm nhượng và lòng bácái là căn bản; Phúc âm của Ngài hướng dẫn nhà lãnh đạo. thì phải làm người phục vụ anh em; ai muốn làm đầu anh em thì phải làm đầy tớ mọi người. Vì Con Người đến không phải để được người ta phục vụ, nhưng là để phục vụ, và hiến mạng sống làm giá chuộc muôn người. gương mẫu Chúa Chiên lành, Người đến để phục vụ chứ không phải để được phục vụ (x. Mt 20,28; Mc 10,45) v à hiến mạng sống mình vì con chi ên (x. ga 10,11). Được chọn giữa loài người và đầy yếu hèn, ngài có thể cảm thông nỗi đau khổ với những ai dốt nát và lầm lạc (x. Dt 5,1-2). Giám mục không nên từ chối lắng nghe những kẻ thuộc quyền, nhưng hãy ân cần săn sóc họ như những người con đích thực, và khuyên nhủ họ hăng hái cộng tác với mình. Vì phải trả lẽ với Chúa về linh hồn con cái mình (x. Dt 13,17), Giám mục hãy cầu nguyện, rao giảng và làm mọi việc bácái săn sóc họ và cảnhững người chưa thuộc đoàn chiên duy nhất mà ngài cũng phải coi như được trao phó cho mình trong Chúa. Như Tông đồ Phaolô, Giám mục mắc nợ tất cả mọi người, cho nên hãy hăng hái rao giảng Phúc âm cho mọi người (x. Rm 1,14 -15) và khuyến khích các tín hữu làm việc tông đồ và truyền giáo.",
+        noi_dung: "Thiên Chúa là bí quyết củanhà lãnh đạo. Ngài ban uy quy ền và không bỏ rơi những ai dựa vào quyền năng của Ngài để lãnh đạo. Tinh thần khiêm nhượng và lòng bác ái là căn bản; Phúc âm của Ngài hướng dẫn nhà lãnh đạo. thì phải làm người phục vụ anh em; ai muốn làm đầu anh em thì phải làm đầy tớ mọi người. Vì Con Người đến không phải để được người ta phục vụ, nhưng là để phục vụ, và hiến mạng sống làm giá chuộc muôn người. gương mẫu Chúa Chiên lành, Người đến để phục vụ chứ không phải để được phục vụ (x. Mt 20,28; Mc 10,45) v à hiến mạng sống mình vì con chi ên (x. ga 10,11). Được chọn giữa loài người và đầy yếu hèn, ngài có thể cảm thông nỗi đau khổ với những ai dốt nát và lầm lạc (x. Dt 5,1-2). Giám mục không nên từ chối lắng nghe những kẻ thuộc quyền, nhưng hãy ân cần săn sóc họ như những người con đích thực, và khuyên nhủ họ hăng hái cộng tác với mình. Vì phải trả lẽ với Chúa về linh hồn con cái mình (x. Dt 13,17), Giám mục hãy cầu nguyện, rao giảng và làm mọi việc bác ái săn sóc họ và cảnhững người chưa thuộc đoàn chiên duy nhất mà ngài cũng phải coi như được trao phó cho mình trong Chúa. Như Tông đồ Phaolô, Giám mục mắc nợ tất cả mọi người, cho nên hãy hăng hái rao giảng Phúc âm cho mọi người (x. Rm 1,14 -15) và khuyến khích các tín hữu làm việc tông đồ và truyền giáo.",
         chuong: 33,
         loi_chua: [
             "Mc 10,43-45: Giữa anh em thì không được như vậy: ai muốn làm lớn giữa anh em",
@@ -7653,7 +7653,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 873,
-        noi_dung: "Chúa Giêsu không có ý biến đổi tức khắc các Tông đồ bằng mệnh lệnh, nhưng Chúa để họ dần dần tự canh tân. Con hãy tin tưởng và làm cho người ta tin tưởng, sống và làm cho người ta thích sống như con. không có sức chịu nổi. trong khi họ thi hành bổn phận, tin vào Lời Chúa và dạy cho chúng ta biết tinh thần m à những đồ đệ của một vị Thầy như thế phải nhận bi ết v à tu ân theo trong mọi lãnh vực.",
+        noi_dung: "Chúa Giêsu không có ý biến đổi tức khắc các Tông đồ bằng mệnh lệnh, nhưng Chúa để họ dần dần tự canh tân. Con hãy tin tưởng và làm cho người ta tin tưởng, sống và làm cho người ta thích sống như con. không có sức chịu nổi. trong khi họ thi hành bổn phận, tin vào Lời Chúa và dạy cho chúng ta biết tinh thần m à những đồ đệ của một vị Thầy như thế phải nhận biết v à tu ân theo trong mọi lãnh vực.",
         chuong: 33,
         loi_chua: [
             "Ga 16,12: Thầy còn nhi ều điều phải nói với anh em. Nhưng b ây giờ, anh em",
@@ -7706,7 +7706,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 880,
-        noi_dung: "Chúa Giêsu không từ khước một ai đối thoại với Ngài. Ngài đối thoại với bạn hữu, với người lạ, với dân ngoại, với người tội lỗi, với người chống đối. đúng theo ki ểu loài người để dẫn họ đến ánh sáng thần linh, thì c ác môn đệ của Người đã thấm nhuần tinh thần Chúa Kitô, cũng phải hiểu biết người họ chung sống, và phải đàm thoại với họ, để nhờ chính việc đối thoại chân thành và nhẫn nại đó, các môn đệ học biết những ân huệ phong phú mà Thiên Chúa đã rộng ban cho c ác d ân t ộc; đồng thời c ác m ôn đệ phải cố gắng đem ánh sáng Phúc âm chiếu soi n hững ân huệ đó, giải thoát chúng và đem chúng về quy phục Chúa Cứu Thế.",
+        noi_dung: "Chúa Giêsu không từ khước mộtai đối thoại với Ngài. Ngài đối thoại với bạn hữu, với người lạ, với dân ngoại, với người tội lỗi, với người chống đối. đúng theo ki ểu loài người để dẫn họ đến ánh sáng thần linh, thì c ác môn đệ của Người đã thấm nhuần tinh thần Chúa Kitô, cũng phải hiểu biết người họ chung sống, và phải đàm thoại với họ, để nhờ chính việc đối thoại chân thành và nhẫn nại đó, các môn đệ học biết những ân huệ phong phú mà Thiên Chúa đã rộng ban cho c ác d ân t ộc; đồng thời c ác m ôn đệ phải cố gắng đem ánh sáng Phúc âm chiếu soi n hững ân huệ đó, giải thoát chúng và đem chúng về quy phục Chúa Cứu Thế.",
         chuong: 33,
         loi_chua: [
             "TG 11b: Như chính Chúa Kitô đã dò xét tâm hồn con người và đối thoại với họ",
@@ -7738,7 +7738,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 883,
-        noi_dung: "Trên đường Hy vọng, thỉnh thoảng con phải dừng chân, nơi bóng mát, để kiểm điểm, sửa ch ữanhững bước lệch lạc, r út ki nh nghi ệm cho bước tiến, chu ẩn b ị th êm hành trang. viên củanhững tổ chức này (tông đồ) kiểm điểm về những phương pháp, kết qủa của hoạt động tông đồ của mình, v à cùng nhau đem đời sống hằng ngày của mình đối chiếu với Phúc âm.",
+        noi_dung: "Trên đường Hy vọng, thỉnh thoảng con phải dừng chân, nơi bóng mát, để kiểm điểm, sửa ch ữanhững bước lệch lạc, r út ki nh nghi ệm cho bước tiến, chu ẩn b ị thêm hành trang. viên củanhững tổ chức này (tông đồ) kiểm điểm về những phương pháp, kết qủa của hoạt động tông đồ của mình, v à cùng nhau đem đời sống hằng ngày của mình đối chiếu với Phúc âm.",
         chuong: 34,
         loi_chua: [
             "TĐ  30e: Cùng với các bạn hữu hay với các đồng chí hợp thành tiểu tổ, các đoàn",
@@ -7844,7 +7844,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 895,
-        noi_dung: "Kiểm điểm mấy cũng vô ích, nếu con không dốc quyết cải thiện. Coi m áy mà không làm máy lại, xe chẳng chạy được. hãy nhớ lại xem ng ươi đã từ đâu r ơi xuống, h ãy hối cải v à làm những việc ngươi đã làm thuở ban đầu. Bằng không, Ta đến với ngươi, và Ta sẽ đem cây đèn của ngươi ra khỏi chỗ của nó, nếu ngươi không hối cải.",
+        noi_dung: "Kiểm điểm mấy cũng vô ích, nếu con không dốc quyết cải thiện. Coi m áy mà không làm máy lại, xe chẳng chạy được. hãy nhớ lại xem ngươi đã từ đâu r ơi xuống, h ãy hối cải v à làm những việc ngươi đã làm thuở ban đầu. Bằng không, Ta đến với ngươi, và Ta sẽ đem cây đèn của ngươi ra khỏi chỗ của nó, nếu ngươi không hối cải.",
         chuong: 34,
         loi_chua: [
             "Kh 2,4-5: Ta trách ngươi điều này: ngươi đã để mất tình yêu thuở ban đầu. Vậy",
@@ -7879,7 +7879,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
         noi_dung: "Đừng phiền muộn, đừng ngã lòng. Lắm lúc hiện tượng ấy do bệnh kiêu ngạo phát sinh. Con cứ đinh ninh rằng con thuộc chín phẩm thiên thần không thể phạm tội sao? gáy, thì anh đã chối Thầy ba lần. Ông Phê-rô lại nói: Dầu có phải chết với Thầy, con cũng không chối Thầy. Tất cả các môn đệ cũng đều nói như vậy.",
         chuong: 34,
         loi_chua: [
-            "Mt 26,34-35: Đức Giêsu bảo ông: Thầy bảo thật anh: nội đêm nay, gà chưa kịp",
+            "Mt 26,34-35: Đức Giêsu bảo ông: Thầy bảo thậtanh: nội đêm nay, gà chưa kịp",
         ],
         tham_chieu: [
             "Ga 8,7-9",
@@ -7898,7 +7898,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 901,
-        noi_dung: "Trước c ông cuộc lớn lao, l ắm l úc con nghe c ám d ỗ muốn được khuy ến khích, được phương tiện của quyền thế để làm việc Chúa chóng kết qủa hơn, vinh danh Chúa hơn. Vinh danh Chúa hay sáng danh con? - Nếu cần phương tiện quyền thế, Chúa Giêsu đã dùng rồi. - Hãy tìm Nước Trời rồi mọi sự sẽ được ban thêm cho con (x. Mt 6,33). - Chỉ trích kẻ khác, cậy quyền thế để rồi con cũng nương tựa và nô lệ quyền thế sao? tìm ki ếm vinh danh Thiên Chúa Cha trong Chúa Kitô. Vinh danh n ày hệ tại việc mọi người đón nhận một c ách ý th ức, tự do v à bi ết ơn c ông trình của Thiên Chúa đã được hoàn tất trong Chúa Kitô lại biểu lộ công trình đó trong suốt cuộc đời mình.",
+        noi_dung: "Trước c ông cuộc lớn lao, l ắm l úc con nghe c ám d ỗ muốn được khuy ến khích, được phương tiện của quyền thế để làm việc Chúa chóng kết qủa hơn, vinh danh Chúa hơn. Vinh danh Chúa hay sáng danh con? - Nếu cần phương tiện quyền thế, Chúa Giêsu đã dùng rồi. - Hãy tìm Nước Trời rồi mọi sự sẽ được ban thêm cho con (x. Mt 6,33). - Chỉ trích kẻ khác, cậy quyền thế để rồi con cũng nương tựa và nô lệ quyền thế sao? tìm ki ếm vinh danh Thiên Chúa Cha trong Chúa Kitô. Vinh danh n ày hệ tại việc mọi người đón nhận một c ách ý th ức, tự do v à biết ơn c ông trình của Thiên Chúa đã được hoàn tất trong Chúa Kitô lại biểu lộ công trình đó trong suốt cuộc đời mình.",
         chuong: 34,
         loi_chua: [
             "LM 2e: Trong ch ức vụ và đời sống của mình, c ác Linh mục phải nhằm mục đích",
@@ -8004,7 +8004,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 912,
-        noi_dung: "Tình yêu Mẹ như làn gió mát, như hạt sương mai, làm tâm hồn quằn quại khao khát an bình, được êm dịu ủi an.",
+        noi_dung: "Tình yêu Mẹ như làn gió mát, như hạt sương mai, làm tâm hồn quằn quại khao khátan bình, được êm dịu ủi an.",
         chuong: 35,
     },
     {
@@ -8088,7 +8088,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 923,
-        noi_dung: "Không gì quý bằng món qùa lòng Mẹ Maria t ặng cho ch úng ta: Chúa Giêsu, món quà quý nhất. Chính lòng Đức Mẹ cũng quý nhất vì: Giêsu Con lòng Bà. cưu mang cũng được chúc phúc. Bởi đâu tôi được Thân Mẫu Chúa tôi đến với tôi thế này?",
+        noi_dung: "Không gì quý bằng món qùa lòng Mẹ Maria t ặng cho chúng ta: Chúa Giêsu, món quà quý nhất. Chính lòng Đức Mẹ cũng quý nhất vì: Giêsu Con lòng Bà. cưu mang cũng được chúc phúc. Bởi đâu tôi được Thân Mẫu Chúa tôi đến với tôi thế này?",
         chuong: 35,
         loi_chua: [
             "Lc 1,42-43: Em được chúc phúc hơn mọi người phụ nữ, và người con em đang",
@@ -8124,7 +8124,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 927,
-        noi_dung: "Chúa Giêsu đang tiếp tục sống và hành động trong H ội thánh và trong con. M ẹ Maria cũng hiện diện trong Hội thánh và trong con, vì Mẹ là Mẹ Hội thánh và Mẹ con. dứt, nhưng Ngài vẫn tiếp tục liên lỉ cầu bầu để đem lại cho chúng tanhững ân huệ giúp ch úng ta được phần rỗi đời đời. V ới tình từ mẫu, Ng ài ch ăm s óc những anh em của Con Ng ài đang lữ hành trên dương thế và đang gặp bao nguy hiểm, thử thách, cho đến khi họ đạt tới hạnh phúc quê trời. Vì thế, trong Giáo hội, Đức Nữ Trinh được kêu cầu qua c ác tước hi ệu: Trạng sự, Vị Bảo Trợ, Đấng Phù Hộ và Đấng Trung Gian. Tuy nhiên phải hiểu các tước hiệu ấy thế nào để không thêm bớt gì vào vinh dự và quyền năng của Đấng Kitô Trung Gian duy nhất.",
+        noi_dung: "Chúa Giêsu đang tiếp tục sống và hành động trong H ội thánh và trong con. M ẹ Maria cũng hiện diện trong Hội thánh và trong con, vì Mẹ là Mẹ Hội thánh và Mẹ con. dứt, nhưng Ngài vẫn tiếp tục liên lỉ cầu bầu để đem lại cho chúng tanhững ân huệ giúp chúng ta được phần rỗi đời đời. V ới tình từ mẫu, Ng ài ch ăm s óc những anh em của Con Ng ài đang lữ hành trên dương thế và đang gặp bao nguy hiểm, thử thách, cho đến khi họ đạt tới hạnh phúc quê trời. Vì thế, trong Giáo hội, Đức Nữ Trinh được kêu cầu qua c ác tước hi ệu: Trạng sự, Vị Bảo Trợ, Đấng Phù Hộ và Đấng Trung Gian. Tuy nhiên phải hiểu các tước hiệu ấy thế nào để không thêm bớt gì vào vinh dự và quyền năng của Đấng Kitô Trung Gian duy nhất.",
         chuong: 35,
         loi_chua: [
             "GH 62a: Sau khi về Trời, vai tr ò của Đức Maria trong việc cứu độ không chấm",
@@ -8228,7 +8228,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 940,
-        noi_dung: "Bất cứ ở đâu con cũng hãy noi g ương Mẹ Maria, trao ban Chúa Giêsu cho thế gian… Điều cần không phải là nơi chỗ, vì lần đầu tiên, trong chuồng bò, Mẹ đã cho các mục tử Chúa Giêsu. Nhưng điều cần là con phải sống bácái, hiệp nhất vì l úc ấy mới có Chúa Giêsu ở giữa con. Đời con phải là một lễ Giáng sinh li ên lỉ, mang Chúa đến cho mọi người. nhảy lên vui sướng. Kitô là Người được thụ thai bởi phép Chúa Thánh Thần và được Đức Nữ Trinh sinh ra để, nhờ Giáo hội, cũng sinh ra v à lớn lên trong l òng các tín h ữu. Đời sống của Đức Nữ Trinh là một gương sáng của tình mẫu tử thắm thiết. Tình mẫu tử ấy phải là động lực của tất cảnhững ai cộng tác vào sứ mệnh tông đồ của Giáo hội để tái sinh nhân loại.",
+        noi_dung: "Bất cứ ở đâu con cũng hãy noi g ương Mẹ Maria, trao ban Chúa Giêsu cho thế gian… Điều cần không phải là nơi chỗ, vì lần đầu tiên, trong chuồng bò, Mẹ đã cho các mục tử Chúa Giêsu. Nhưng điều cần là con phải sống bác ái, hiệp nhất vì l úc ấy mới có Chúa Giêsu ở giữa con. Đời con phải là một lễ Giáng sinh li ên lỉ, mang Chúa đến cho mọi người. nhảy lên vui sướng. Kitô là Người được thụ thai bởi phép Chúa Thánh Thần và được Đức Nữ Trinh sinh ra để, nhờ Giáo hội, cũng sinh ra v à lớn lên trong l òng các tín h ữu. Đời sống của Đức Nữ Trinh là một gương sáng của tình mẫu tử thắm thiết. Tình mẫu tử ấy phải là động lực của tất cảnhững ai cộng tác vào sứ mệnh tông đồ của Giáo hội để tái sinh nhân loại.",
         chuong: 35,
         loi_chua: [
             "Lc 1,44: Vì n ày đây, tai t ôi vừa nghe tiếng em ch ào, thì đứa con trong b ụng đã",
@@ -8307,7 +8307,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 950,
-        noi_dung: "Người công giáo là ánh sáng giữa đêm tối, là muối sống giữa thối nát, và là hy vọng giữa một nhân loại thất vọng. muối nó cho m ặn lại? Nó đã thành vô dụng, thì chỉ còn việc quăng ra ngo ài cho người ta chà đạp thôi. Chính anh em là ánh sáng cho trần gian. Một thành xây trên núi không tài nào che giấu được. Chúa Kitô và đang sống giữa thế gian, giữ một vai trò rất quan trọng và đáng được đặc bi ệt l ưu t âm. Th ực vậy, bổn ph ận ri êng của h ọ là: sau khi th ấm nhuần tinh thần Chúa Kitô, họ phải làm sống động tự bên trong như men trong bột v à sắp đặt c ông việc trần thế để ch úng luôn luôn được thực hi ện theo ý Chúa Kitô.",
+        noi_dung: "Người công giáo là ánh sáng giữa đêm tối, là muối sống giữa thối nát, và là hy vọng giữa một nhân loại thất vọng. muối nó cho m ặn lại? Nó đã thành vô dụng, thì chỉ còn việc quăng ra ngo ài cho người ta chà đạp thôi. Chính anh em là ánh sáng cho trần gian. Một thành xây trên núi không tài nào che giấu được. Chúa Kitô và đang sống giữa thế gian, giữ một vai trò rất quan trọng và đáng được đặc bi ệt l ưu t âm. Th ực vậy, bổn ph ận ri êng của h ọ là: sau khi th ấm nhuần tinh thần Chúa Kitô, họ phải làm sống động tự bên trong như men trong bột v à sắp đặt c ông việc trần thế để chúng luôn luôn được thực hi ện theo ý Chúa Kitô.",
         chuong: 36,
         loi_chua: [
             "Mt 5,13 -14: Chính anh em là muối cho đời. Nhưng muối mà nhạt đi, thì l ấy gì",
@@ -8320,7 +8320,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 951,
-        noi_dung: "Thánh Phaol ô hằng khuyên nhủ giáo d ân đừng sống như những người không có hy vọng. để anh em chẳng hay bi ết gì, hầu anh em khỏi buồn phiền như những người khác, là những người không có niềm hy vọng.",
+        noi_dung: "Thánh Phaol ô hằng khuyên nhủ giáo d ân đừng sống như những người không có hy vọng. để anh em chẳng hay biết gì, hầu anh em khỏi buồn phiền như những người khác, là những người không có niềm hy vọng.",
         chuong: 36,
         loi_chua: [
             "1Tx 4,13: Thưa anh em, về những ai đã an giấc ngàn thu, chúng tôi không muốn",
@@ -8328,7 +8328,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 952,
-        noi_dung: "Kitô h ữu là những người ngóng đợi niềm hy vọng phúc lộc v à cuộc hi ển linh vinh quang của Thiên Chúa lớn lao và là Cứu Chúa của ta, Đức Giêsu Kitô (Tt 2,13). dường nào, phải sống đạo đức v à thánh thi ện bi ết bao, trong khi mong đợi ngày của Thiên Chúa và làm cho ngày đó mau đến, ngày mà các tầng trời sẽ bị thiêu huỷ và ngũ hành sẽ chảy tan ra trong lửa hồng. Nhưng, theo lời Thiên Chúa hứa, chúng ta mong đợi trời mới đất mới, nơi công lý ngự trị. sắp tới sẽ được giãi bày cho ch úng ta (Rm 8,16; x. 2Tm 2,11 -12), chúng ta mạnh mẽ tin tưởng trông đợi niềm hy vọng hạnh phúc và ngày trở lại vinh quang của Thiên Chúa cao cả v à Đấng cứu chu ộc ch úng ta là Chúa Giêsu Kitô (Tt 2,13). Người sẽ cải tạo thân xác hèn mạt ta ra giống thân xác sáng láng của Người (Pl 3,21), và sẽ ngự đến để được vinh quang trong các thánh của Người và được thán phục trong mọi người đã tin (2Tx 1,10).",
+        noi_dung: "Kitô h ữu là những người ngóng đợi niềm hy vọng phúc lộc v à cuộc hi ển linh vinh quang của Thiên Chúa lớn lao và là Cứu Chúa của ta, Đức Giêsu Kitô (Tt 2,13). dường nào, phải sống đạo đức v à thánh thi ện biết bao, trong khi mong đợi ngày của Thiên Chúa và làm cho ngày đó mau đến, ngày mà các tầng trời sẽ bị thiêu huỷ và ngũ hành sẽ chảy tan ra trong lửa hồng. Nhưng, theo lời Thiên Chúa hứa, chúng ta mong đợi trời mới đất mới, nơi công lý ngự trị. sắp tới sẽ được giãi bày cho chúng ta (Rm 8,16; x. 2Tm 2,11 -12), chúng ta mạnh mẽ tin tưởng trông đợi niềm hy vọng hạnh phúc và ngày trở lại vinh quang của Thiên Chúa cao cả v à Đấng cứu chu ộc chúng ta là Chúa Giêsu Kitô (Tt 2,13). Người sẽ cải tạo thân xác hèn mạt ta ra giống thân xác sáng láng của Người (Pl 3,21), và sẽ ngự đến để được vinh quang trong các thánh của Người và được thán phục trong mọi người đã tin (2Tx 1,10).",
         chuong: 36,
         loi_chua: [
             "2Pr 3,11-13: Muôn vật phải tiêu tan như thế, thì anh em phải là những người tốt",
@@ -8475,7 +8475,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 967,
-        noi_dung: "Con không trốn tránh hi ện tại để trông đợi một cuộc sống khác. Con tin hằng sống vậy. Niềm hy vọng ấy đã đâm chồi nơi con, và sẽ tiếp tục tươi nở bất tận. cao tự đại, cũng đừng đặt hy vọng v ào của cải ph ù v ân, nhưng v ào Thiên Chúa, Đấng cung cấp dồi dào mọi sự cho c húng ta hưởng dùng. Họ phải làm việc thiện và trở nên giàu có về các việc tốt lành, phải ănở rộng rãi, sẵn sàng chia sẻ. Như vậy họ tích trữ cho mình một vốn liếng vững chắc cho tương lai, để được sự sống thật. trái đất các giá trị về nhân phẩm, về hiệp thông huynh đệ và tự do, nghĩa làmọi thành quả tốt đẹp do bản tính và hoạt động con người đem lại, chúng ta sẽ gặp lại ch úng, nhưng là gặp lại sau khi ch úng ta được thanh t ẩy khỏi mọi t ỳ ố, được chiếu sáng và biến đổi, nghĩa là khi Chúa Kitô giao hoàn lại Chúa Cha vương quốc vĩnh cửu v à đại đồng: Vương quốc của Chân lý v à S ự sống, vương quốc thánh thiện và ân phúc, vương quốc công bình, yêu thương và hoà bình. Vương quốc ấy đã hiện diện cách mầu nhiệmở trần gian này và sẽ được kiện toàn khi Chúa đến.",
+        noi_dung: "Con không trốn tránh hi ện tại để trông đợi một cuộc sống khác. Con tin hằng sống vậy. Niềm hy vọng ấy đã đâm chồi nơi con, và sẽ tiếp tục tươi nở bất tận. cao tự đại, cũng đừng đặt hy vọng v ào của cải ph ù v ân, nhưng v ào Thiên Chúa, Đấng cung cấp dồi dào mọi sự cho c húng ta hưởng dùng. Họ phải làm việc thiện và trở nên giàu có về các việc tốt lành, phải ănở rộng rãi, sẵn sàng chia sẻ. Như vậy họ tích trữ cho mình một vốn liếng vững chắc cho tương lai, để được sự sống thật. trái đất các giá trị về nhân phẩm, về hiệp thông huynh đệ và tự do, nghĩa làmọi thành quả tốt đẹp do bản tính và hoạt động con người đem lại, chúng ta sẽ gặp lại chúng, nhưng là gặp lại sau khi chúng ta được thanh t ẩy khỏi mọi t ỳ ố, được chiếu sáng và biến đổi, nghĩa là khi Chúa Kitô giao hoàn lại Chúa Cha vương quốc vĩnh cửu v à đại đồng: Vương quốc của Chân lý v à S ự sống, vương quốc thánh thiện và ân phúc, vương quốc công bình, yêu thương và hoà bình. Vương quốc ấy đã hiện diện cách mầu nhiệmở trần gian này và sẽ được kiện toàn khi Chúa đến.",
         chuong: 36,
         loi_chua: [
             "1Tm 6,17-19: Những người giàu ở trần gian này, anh hãy truyền cho họ đừng tự",
@@ -8685,7 +8685,7 @@ export const duongHyVongCorpus: CorpusEntry[] = [
     },
     {
         stt: 1001,
-        noi_dung: "Con chỉ có một phần thưởng: Thiên Chúa (x. Mt 25,21.23; 2Tm 4,7 -8; Kh 2,26 -28; 3,21; 22,12-14). Khi Chúa hỏi T ôma Aqui nô: Con đã viết rất đúng về Ta, con muốn phần thưởng nào? – Con chỉ muốn Chúa! THÁNH GIUSE 1) Thánh Giuse không sống lâu đủ để nghe Chúa Giêsu giảng dạy, hoặc để đọc cuốn Phúc âm đầu tiên do thánh Matthêu chép vào giữa thập niên 80-90. Nhưng Ngài đã sống Phúc âm trước khi có sách Phúc âm. Ngài đã thực hiện được sự thống nhất giữa chiêm niệm và hoạt động. Con thử ngắm nhìn cuộc đời tuyệt diệu ấy dưới ba khiá cạnh: a) Thánh Giuse lắng nghe Lời Chúa, đón nhận Lời Chúa và gìn giữ Lời Chúa (x. Mt 1,18- 25). Lời Chúa ở đây trước hết chính là Ngôi Lời Nhập Thể. Hạnh phúc chừng nào lúc được nghe lời Chúa Giêsu, được Người gọi là cha! Thánh Giuse đã sống Phúc âm nguyên chất, Phúc âm bằng xương thịt. Con đừng đọc Thánh Kinh như bất cứ sách nào khác, nhưng qua mỗi dòng chữ trong đó, con hãy lắng nghe Lời Chúa nói với con, nhưng Thánh Giuse. b) Thánh Giuse đã sống Lời Chúa: Ngài sống với Lời Chúa, bằng Lời Chúa và vì L ời Chúa. Ngài hằng ghi tạc vào lòng và suy niệm mỗi lời Chúa Giêsu nói, ngay khi người còn bé (x. Lc 2,41-52). Ngài đã đọc Lời Chúa qua các biến cố (x. Mt 2,1-23). Con h ãy xin Thánh Giuse tập cho con bi ết  đọc L ời Chúa, bi ết  đánh v ần L ời Chúa… Con ngạc nhi ên sao? H ãy xem người mù ch ữ: họ đâu có mù! Họ vẫn nhìn thấy các mẫu tự nhưng không đánh vần được, vẫn nhìn thấy chữ mà đọc không ra. Là một tâm hồn tận hiến, một Kitô hữu ngoan đạo, thế mà lắm lúc con lại mắc nạn mù Lời Chúa: Đọc một tranh Thánh Kinh, con không thấy gì cả; thậm chí ngày nào cũng nghe L ời Chúa, cũng thưa Tạ ơn Chúa, Lạy Chúa Kitô, ngợi khen Chúa, nhưng rồi chẳng hiểu gì, coi Lời Chúa chẳng có gơ-ram nào hết, còn thua cả chương trình Truyền hình nữa! c) Thánh Giuse thực hi ện Lời Chúa. L ời Chúa đã đi s âu vào cuộc sống của Ngài, lay chuyển và đổi mới đời Ngài. Ngài chấp nhận chịu liên lụy vì Lời Chúa: vất vả trốn sang Ai-cập (x. Mt 2,13 -14), đau xót khi nghe Simêon tiên báo Con mình sẽ chịu khổ nạn (x. Lc 2,33 -35)… Không giữ cho ri êng mình, Ng ài chia sẻ L ời Chúa với mọi người, nhất là với Mẹ Maria. Sung sướng biết ngần nào! Vì Lời Chúa là chân lý, và chân lý giải thoát (x. Ga 8,31 -32) khỏi những đê hèn củanhân loại, nên hiểu được Lời Chúa, Giuse và Maria đã bỏ mọi sự, chấp nhận mọi hậu quả, trung thành gìn giữ kho tàng quý yêu ấy. Đó  là hạnh phúc lớn nhất trên đời. Lời Chúa đã gây nên cuộc cách mạng Kitô giáo: Thánh Giuse đã nêu cao giá trị của lao động; Ngài đã đánh tan thành kiến giai cấp: dù thuộc dòng dõi vua Đ avít, dù là cha nuôi Đấng Cứu Thế, Ngài vẫn không ngại làm một người thợ mộc tầm thường (x. Mt 13,55). Ngài đã nêu gương sáng trong cuộc sống gia đình. 2) Thánh Giuse không được phúc tham dự Thánh lễ, không được phúc rước lễ. Đó  có thể là hoàn cảnh của con b ây giờ hay trong tương lai, vì điều ki ện sinh ho ạt, vì c ông t ác không thuận tiện… L úc ấy, con h ãy nhớ lời Công Đồng Vaticanô II: Giáo hội luôn tôn kính Thánh Kinh như chính Th ân Thể Chúa, nhất là trong Ph ụng vụ thánh, Giáo hội không ngừng l ấy bánh ban sự sống từ b àn tiệc Lời Chúa, cũng như từ b àn tiệc Mình Chúa Kitô để ban ph át cho các tín h ữu (x. MK 21), Thánh Giuse đã sống bên cạnh Ngôi Lời làm người, rước Lời của Người vào lòng. Thánh Giuse đã kết hiệp với Chúa Giêsu, đời Ngài đã nên một với Lời Chúa. Có giây phút chiêm ngắm nào, có lời cầu nguyện nào tốt đẹp hơn, cao cả hơn? Nhờ bí tích Thánh Thể, Chúa Giêsu có thể hiện diện nhiều nơi, còn những nơi không có Thánh Thể, Người cũng có thể hiện diện nhờ Lời Người (x.1Ga 2,24). Dù không được rước lễ hay được rước lễ mỗi ngày, con h ãy tiếp tục sống Lời Chúa (x. Mt 4,4; Lc 4,4). Các sách thiêng liêng thường xem Thánh Giuse như mẫu gương của đời nội tâm thâm trầm, điều này rất đúng. Nhưng nếu xem Ng ài như một thầy dòng khổ tu c âm lặng, viện lý rằng Phúc âm đã không ghi lại một lời nào của Ngài, thì cha không đồng ý. Cha nghĩ rằng: sở dĩ Phúc âm không nhắc lại lời nào của Thánh Giuse, là vì như tất cả mọi người, Ngài đã nói những câu rất thông thường trong cuộc sống. Chỉ có điều là Ngài đã nói với tinh thần Phúc âm. Chúa Giêsu đã nói suốt ba mươi năm trước khi đi giảng dạy, nhưng sách Phúc âm đâu có ghi lại một lời nào trong khoảng thời gian rất dài này! Con không phải là nhà hùng biện, giáo sư, văn hào, chính trị gia… cho n ên không ai ghi lại lời con. Nhưng cũng như Thánh Giuse, con h ãy dùng những lời đơn sơ, thông thường mà mang lại hạnh phúc, vui tươi, an bình cho nhi ều người. Với mọi người con gặp mỗi ngày, con hãy đọc những bài tham luận tình thương, những kinh Magnificat văn vắn, dễ thương. Cha không muốn tách lìa l òng sùng kính M ẹ Maria với việc tôn kính Thánh Giuse. Vì xưa ở trần gian Mẹ Maria và Chúa Giêsu không thể yêu qúy và tin c ậy ai hơn Thánh Giuse (x. Lc 8,21). Qua Ng ôi Lời Nhập Thể, chắc chắn Thánh Giuse kết hiệp với Mẹ Maria còn mật thiết hơn mọi đôi bạn khác, vì Lời Chúa đem lại hiệp nhất cho các tâm hồn, khác nào hai cành nho, một khi đã được tước bỏ hết lớp vỏ trần tục bên ngoài, được đem ghép vào thân nho là Nguồn Sống. Tất cả cùng chung một nhựa sống, một sinh lực và trở nên Một. Đường Hy Vọng được đặt dưới sự bảo trợ đặc biệt của Thánh Giuse nên gọi là Công trình của Thánh Giuse (Opus Joseph). Nguyện vọng tha thiết của cha là các con hãy dâng hiến cuộc đời cho Mẹ Maria và Thánh Giuse, trở nên những đứa con điên của các Ngài, và nhờ các Ngài đưa các con đến với Chúa Giêsu. Các con hãy sống và làm cho người khác thích sống tâm tình dâng hiến ấy như các con.",
+        noi_dung: "Con chỉ có một phần thưởng: Thiên Chúa (x. Mt 25,21.23; 2Tm 4,7 -8; Kh 2,26 -28; 3,21; 22,12-14). Khi Chúa hỏi T ôma Aqui nô: Con đã viết rất đúng về Ta, con muốn phần thưởng nào? – Con chỉ muốn Chúa! THÁNH GIUSE 1) Thánh Giuse không sống lâu đủ để nghe Chúa Giêsu giảng dạy, hoặc để đọc cuốn Phúc âm đầu tiên do thánh Matthêu chép vào giữa thập niên 80-90. Nhưng Ngài đã sống Phúc âm trước khi có sách Phúc âm. Ngài đã thực hiện được sự thống nhất giữa chiêm niệm và hoạt động. Con thử ngắm nhìn cuộc đời tuyệt diệu ấy dưới ba khiá cạnh: a) Thánh Giuse lắng nghe Lời Chúa, đón nhận Lời Chúa và gìn giữ Lời Chúa (x. Mt 1,18- 25). Lời Chúa ở đây trước hết chính là Ngôi Lời Nhập Thể. Hạnh phúc chừng nào lúc được nghe lời Chúa Giêsu, được Người gọi là cha! Thánh Giuse đã sống Phúc âm nguyên chất, Phúc âm bằng xương thịt. Con đừng đọc Thánh Kinh như bất cứ sách nào khác, nhưng qua mỗi dòng chữ trong đó, con hãy lắng nghe Lời Chúa nói với con, nhưng Thánh Giuse. b) Thánh Giuse đã sống Lời Chúa: Ngài sống với Lời Chúa, bằng Lời Chúa và vì L ời Chúa. Ngài hằng ghi tạc vào lòng và suy niệm mỗi lời Chúa Giêsu nói, ngay khi người còn bé (x. Lc 2,41-52). Ngài đã đọc Lời Chúa qua các biến cố (x. Mt 2,1-23). Con h ãy xin Thánh Giuse tập cho con biết  đọc L ời Chúa, biết  đánh v ần L ời Chúa… Con ngạc nhi ên sao? H ãy xem người mù ch ữ: họ đâu có mù! Họ vẫn nhìn thấy các mẫu tự nhưng không đánh vần được, vẫn nhìn thấy chữ mà đọc không ra. Là một tâm hồn tận hiến, một Kitô hữu ngoan đạo, thế mà lắm lúc con lại mắc nạn mù Lời Chúa: Đọc một tranh Thánh Kinh, con không thấy gì cả; thậm chí ngày nào cũng nghe L ời Chúa, cũng thưa Tạ ơn Chúa, Lạy Chúa Kitô, ngợi khen Chúa, nhưng rồi chẳng hiểu gì, coi Lời Chúa chẳng có gơ-ram nào hết, còn thua cả chương trình Truyền hình nữa! c) Thánh Giuse thực hi ện Lời Chúa. L ời Chúa đã đi s âu vào cuộc sống của Ngài, lay chuyển và đổi mới đời Ngài. Ngài chấp nhận chịu liên lụy vì Lời Chúa: vất vả trốn sang Ai-cập (x. Mt 2,13 -14), đau xót khi nghe Simêon tiên báo Con mình sẽ chịu khổ nạn (x. Lc 2,33 -35)… Không giữ cho ri êng mình, Ng ài chia sẻ L ời Chúa với mọi người, nhất là với Mẹ Maria. Sung sướng biết ngần nào! Vì Lời Chúa là chân lý, và chân lý giải thoát (x. Ga 8,31 -32) khỏi những đê hèn củanhân loại, nên hiểu được Lời Chúa, Giuse và Maria đã bỏ mọi sự, chấp nhận mọi hậu quả, trung thành gìn giữ kho tàng quý yêu ấy. Đó  là hạnh phúc lớn nhất trên đời. Lời Chúa đã gây nên cuộc cách mạng Kitô giáo: Thánh Giuse đã nêu cao giá trị của lao động; Ngài đã đánh tan thành kiến giai cấp: dù thuộc dòng dõi vua Đ avít, dù là cha nuôi Đấng Cứu Thế, Ngài vẫn không ngại làm một người thợ mộc tầm thường (x. Mt 13,55). Ngài đã nêu gương sáng trong cuộc sống gia đình. 2) Thánh Giuse không được phúc tham dự Thánh lễ, không được phúc rước lễ. Đó  có thể là hoàn cảnh của con b ây giờ hay trong tương lai, vì điều ki ện sinh ho ạt, vì c ông t ác không thuận tiện… L úc ấy, con h ãy nhớ lời Công Đồng Vaticanô II: Giáo hội luôn tôn kính Thánh Kinh như chính Th ân Thể Chúa, nhất là trong Ph ụng vụ thánh, Giáo hội không ngừng l ấy bánh ban sự sống từ b àn tiệc Lời Chúa, cũng như từ b àn tiệc Mình Chúa Kitô để ban ph át cho các tín h ữu (x. MK 21), Thánh Giuse đã sống bên cạnh Ngôi Lời làm người, rước Lời của Người vào lòng. Thánh Giuse đã kết hiệp với Chúa Giêsu, đời Ngài đã nên một với Lời Chúa. Có giây phút chiêm ngắm nào, có lời cầu nguyện nào tốt đẹp hơn, cao cả hơn? Nhờ bí tích Thánh Thể, Chúa Giêsu có thể hiện diện nhiều nơi, còn những nơi không có Thánh Thể, Người cũng có thể hiện diện nhờ Lời Người (x.1Ga 2,24). Dù không được rước lễ hay được rước lễ mỗi ngày, con h ãy tiếp tục sống Lời Chúa (x. Mt 4,4; Lc 4,4). Các sách thiêng liêng thường xem Thánh Giuse như mẫu gương của đời nội tâm thâm trầm, điều này rất đúng. Nhưng nếu xem Ng ài như một thầy dòng khổ tu c âm lặng, viện lý rằng Phúc âm đã không ghi lại một lời nào của Ngài, thì cha không đồng ý. Cha nghĩ rằng: sở dĩ Phúc âm không nhắc lại lời nào của Thánh Giuse, là vì như tất cả mọi người, Ngài đã nói những câu rất thông thường trong cuộc sống. Chỉ có điều là Ngài đã nói với tinh thần Phúc âm. Chúa Giêsu đã nói suốt ba mươi năm trước khi đi giảng dạy, nhưng sách Phúc âm đâu có ghi lại một lời nào trong khoảng thời gian rất dài này! Con không phải là nhà hùng biện, giáo sư, văn hào, chính trị gia… cho n ên không ai ghi lại lời con. Nhưng cũng như Thánh Giuse, con h ãy dùng những lời đơn sơ, thông thường mà mang lại hạnh phúc, vui tươi, an bình cho nhi ều người. Với mọi người con gặp mỗi ngày, con hãy đọc những bài tham luận tình thương, những kinh Magnificat văn vắn, dễ thương. Cha không muốn tách lìa l òng sùng kính M ẹ Maria với việc tôn kính Thánh Giuse. Vì xưa ở trần gian Mẹ Maria và Chúa Giêsu không thể yêu qúy và tin c ậy ai hơn Thánh Giuse (x. Lc 8,21). Qua Ng ôi Lời Nhập Thể, chắc chắn Thánh Giuse kết hiệp với Mẹ Maria còn mật thiết hơn mọi đôi bạn khác, vì Lời Chúa đem lại hiệp nhất cho các tâm hồn, khác nào hai cành nho, một khi đã được tước bỏ hết lớp vỏ trần tục bên ngoài, được đem ghép vào thân nho là Nguồn Sống. Tất cả cùng chung một nhựa sống, một sinh lực và trở nên Một. Đường Hy Vọng được đặt dưới sự bảo trợ đặc biệt của Thánh Giuse nên gọi là Công trình của Thánh Giuse (Opus Joseph). Nguyện vọng tha thiết của cha là các con hãy dâng hiến cuộc đời cho Mẹ Maria và Thánh Giuse, trở nên những đứa con điên của các Ngài, và nhờ các Ngài đưa các con đến với Chúa Giêsu. Các con hãy sống và làm cho người khác thích sống tâm tình dâng hiến ấy như các con.",
         chuong: 37,
         loi_chua: [
             " ",

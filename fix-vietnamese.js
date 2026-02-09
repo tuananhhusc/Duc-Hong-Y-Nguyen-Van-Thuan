@@ -845,6 +845,67 @@ const specificFixes = [
     ['ơ n', 'ơn'],
     ['ơ i', 'ơi'],
 
+    // Missing specific patterns
+    ['ng ươi', 'ngươi'],
+    ['Ng ươi', 'Ngươi'],
+    ['th êm', 'thêm'],
+    ['h âm', 'hâm'],
+    ['h ẩm', 'hẩm'],
+    ['l iều', 'liều'],
+    ['ch úng', 'chúng'],
+    ['bi ết', 'biết'],
+    ['C ác', 'Các'],
+    ['C ủa', 'Của'],
+    ['H ọ', 'Họ'],
+    ['T a', 'Ta'],
+    ['t a', 'ta'],
+    ['m ọi', 'mọi'],
+
+    // Fix sticky words (created by over-aggressive replacing or original OCR)
+    ['vịấy', 'vị ấy'],
+    ['rõhơn', 'rõ hơn'],
+    ['tấtcả', 'tất cả'],
+    ['tấtcảnhư', 'tất cả như'],
+    ['cảnhư', 'cả như'],
+    ['Chanhân', 'Cha nhân'],
+    ['ranhư', 'ra như'],
+    ['bácái', 'bác ái'],
+    ['Chúađặt', 'Chúa đặt'],
+    ['trênđường', 'trên đường'],
+    ['rađi', 'ra đi'],
+    ['thuđược', 'thu được'],
+    ['Đườngấy', 'Đường ấy'],
+    ['làđường', 'là đường'],
+    ['vìđẹp', 'vì đẹp'],
+    ['conđi', 'con đi'],
+    ['rađi', 'ra đi'],
+    ['sinhđược', 'sinh được'],
+    ['Chúa Cha', 'Chúa Cha'],
+    ['bướcđi', 'bước đi'],
+    ['lốiđó', 'lối đó'],
+    ['conđã', 'con đã'],
+    ['mônđệ', 'môn đệ'],
+    ['Tađược', 'Ta được'],
+    ['mônđệ', 'môn đệ'],
+    ['thúcđẩy', 'thúc đẩy'],
+    ['Aiđến', 'Ai đến'],
+    ['kẻẩn', 'kẻ ẩn'],
+    ['tađược', 'ta được'],
+    ['Đấngđãđến', 'Đấng đã đến'],
+    ['khôngđểđược', 'không để được'],
+    ['gìở', 'gì ở'],
+    ['nhàđâu', 'nhà đâu'],
+    ['thánhđược', 'thánh được'],
+    ['Chúađã', 'Chúa đã'],
+    ['chọnđể', 'chọn để'],
+    ['chịđã', 'chị đã'],
+    ['vịấy', 'vị ấy'],
+    ['thêmđiều', 'thêm điều'],
+    ['trảiqua', 'trải qua'],
+    ['quanhiều', 'qua nhiều'],
+    ['hồngphúc', 'hồng phúc'],
+    ['loanbáo', 'loan báo'],
+
     // Fix triple question mark (OCR artifact for em-dash)
     ['??? ', '– '],
 ];
@@ -852,6 +913,23 @@ const specificFixes = [
 // Apply all specific fixes
 for (const [pattern, replacement] of specificFixes) {
     // Use a simple string replacement (safer)
+    content = content.split(pattern).join(replacement);
+}
+
+// Additional pass for sticky words that might form after first pass
+const stickyFixes = [
+    ['vịấy', 'vị ấy'],
+    ['tấtcảnhư', 'tất cả như'],
+    ['cảnhư', 'cả như'],
+    ['Chanhân', 'Cha nhân'],
+    ['ranhư', 'ra như'],
+    ['bácái', 'bác ái'],
+    ['trảiqua', 'trải qua'],
+    ['quanhiều', 'qua nhiều'],
+    ['loanbáo', 'loan báo'],
+];
+
+for (const [pattern, replacement] of stickyFixes) {
     content = content.split(pattern).join(replacement);
 }
 
