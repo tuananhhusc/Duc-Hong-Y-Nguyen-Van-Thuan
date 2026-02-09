@@ -21,7 +21,7 @@ export function HeroSection() {
                         className="space-y-4"
                     >
                         <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-7xl font-serif text-catholic-gold">
-                            Đức Hồng y<br />Nguyễn Văn Thuận
+                            ĐỨC HỒNG Y<br />NGUYỄN VĂN THUẬN
                         </h1>
                         <p className="mx-auto max-w-[700px] text-lg text-muted-foreground md:text-xl font-serif italic">
                             "Chứng nhân của Hy vọng"

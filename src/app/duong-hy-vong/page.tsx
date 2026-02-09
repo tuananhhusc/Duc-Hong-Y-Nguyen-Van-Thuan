@@ -3,6 +3,9 @@ import { APAReferences } from "@/components/sections/apa-references"
 import { Badge } from "@/components/ui/badge"
 import { bookStructure, duongHyVongCorpus, bookMetadata } from "@/lib/data/corpus"
 import { BookOpen, Quote, Search } from "lucide-react"
+import {
+    Accordion,
+} from "@/components/ui/accordion"
 
 export default function CorpusPage() {
     // Group meditations by chapter
@@ -17,53 +20,62 @@ export default function CorpusPage() {
 
             {/* Hero Header */}
             <section className="bg-catholic-gold/10 py-16 md:py-24 border-b border-border">
-                <div className="container px-4 md:px-6 text-center max-w-4xl mx-auto space-y-6">
+                <div className="container mx-auto px-4 md:px-6 text-center max-w-4xl space-y-6">
                     <Badge variant="outline" className="text-catholic-gold border-catholic-gold uppercase tracking-widest mb-4">
                         Đường Hy Vọng
                     </Badge>
                     <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-foreground">
                         {bookMetadata.totalMeditations} Câu Suy Niệm
                     </h1>
-                    <p className="text-lg md:text-xl text-muted-foreground font-serif italic max-w-2xl mx-auto">
+                    <p className="text-base md:text-lg text-muted-foreground font-serif italic max-w-2xl mx-auto">
                         "Chấm mỗi chấm cho đúng, đường sẽ đẹp. Sống mỗi phút cho tốt, đời sẽ thánh."
                     </p>
                 </div>
             </section>
 
-            <div className="container px-4 md:px-6 py-12 md:py-16">
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
-                    {/* Sidebar Navigation (Desktop) - LEFT SIDE */}
-                    <aside className="hidden lg:block lg:col-span-3">
-                        <div className="sticky top-24 space-y-6">
-                            <div className="p-5 rounded-xl border border-border bg-card shadow-sm max-h-[70vh] overflow-y-auto">
-                                <h4 className="font-bold text-xs uppercase tracking-widest text-catholic-gold mb-4 pb-3 border-b border-border sticky top-0 bg-card">
-                                    Mục lục ({bookMetadata.totalChapters} chương)
-                                </h4>
-                                <nav className="space-y-1">
-                                    <a
-                                        href="#gioi-thieu"
-                                        className="flex items-center gap-2 text-sm py-2 px-3 rounded-lg transition-all hover:bg-muted hover:text-catholic-gold text-foreground/70 hover:translate-x-1"
-                                    >
-                                        <BookOpen className="w-3.5 h-3.5 flex-shrink-0 text-catholic-gold/70" />
-                                        <span>Giới thiệu</span>
-                                    </a>
-                                    {bookStructure.map((chapter) => (
-                                        <a
-                                            key={chapter.chapter}
-                                            href={`#chuong-${chapter.chapter}`}
-                                            className="flex items-start gap-2 text-sm py-2 px-3 rounded-lg transition-all hover:bg-muted hover:text-catholic-gold text-foreground/70 hover:translate-x-1"
-                                        >
-                                            <span className="text-xs text-catholic-gold/60 font-mono mt-0.5 w-5 flex-shrink-0">{chapter.chapter}.</span>
-                                            <span className="line-clamp-1">{chapter.title}</span>
-                                        </a>
-                                    ))}
-                                </nav>
-                            </div>
-                        </div>
-                    </aside>
+            <div className="container mx-auto px-4 md:px-6 py-12 md:py-16">
 
-                    {/* Main Content - RIGHT SIDE */}
-                    <main className="lg:col-span-9 space-y-16">
+                <div className="max-w-4xl mx-auto space-y-12">
+                    {/* TOC Accordion */}
+                    <div className="bg-card border border-border rounded-xl overflow-hidden shadow-sm mb-12">
+                        <Accordion
+                            className="w-full"
+                            items={[{
+                                id: "toc",
+                                trigger: (
+                                    <div className="flex items-center gap-2">
+                                        <BookOpen className="w-4 h-4 text-catholic-gold" />
+                                        <h4 className="font-bold text-sm uppercase tracking-widest text-catholic-gold">
+                                            Mục lục ({bookMetadata.totalChapters} chương)
+                                        </h4>
+                                    </div>
+                                ),
+                                content: (
+                                    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 pt-2">
+                                        <a
+                                            href="#gioi-thieu"
+                                            className="flex items-center gap-2 text-sm p-3 bg-muted/50 rounded-lg hover:bg-catholic-gold/10 hover:text-catholic-gold transition-colors col-span-full mb-2 border border-transparent hover:border-catholic-gold/20"
+                                        >
+                                            <span className="font-semibold">Giới thiệu tác phẩm</span>
+                                        </a>
+                                        {bookStructure.map((chapter) => (
+                                            <a
+                                                key={chapter.chapter}
+                                                href={`#chuong-${chapter.chapter}`}
+                                                className="flex items-center gap-2 p-2 rounded-md hover:bg-muted transition-colors text-sm text-foreground/80 hover:text-catholic-gold group border border-transparent hover:border-border"
+                                            >
+                                                <span className="font-mono text-catholic-gold/60 text-xs font-bold w-5">{chapter.chapter}.</span>
+                                                <span className="truncate group-hover:underline decoration-catholic-gold/30 underline-offset-4">{chapter.title}</span>
+                                            </a>
+                                        ))}
+                                    </div>
+                                )
+                            }]}
+                        />
+                    </div>
+
+                    {/* Main Content - CENTERED */}
+                    <main className="space-y-16">
                         {/* Introduction Section */}
                         <article id="gioi-thieu" className="scroll-mt-24 space-y-8">
                             <header className="border-l-4 border-catholic-gold pl-6 py-2">
@@ -72,7 +84,7 @@ export default function CorpusPage() {
                                 </h2>
                             </header>
 
-                            <div className="prose prose-lg dark:prose-invert max-w-none text-foreground/85 leading-relaxed font-serif">
+                            <div className="prose dark:prose-invert max-w-none text-foreground/85 leading-relaxed font-serif">
                                 <p className="text-justify">
                                     {bookMetadata.description}
                                 </p>
@@ -128,7 +140,7 @@ export default function CorpusPage() {
                                 </header>
 
                                 {chapter.description && (
-                                    <p className="text-lg text-muted-foreground font-serif italic border-b border-border pb-6">
+                                    <p className="text-base text-muted-foreground font-serif italic border-b border-border pb-6">
                                         {chapter.description}
                                     </p>
                                 )}
@@ -136,35 +148,37 @@ export default function CorpusPage() {
                                 <div className="space-y-6">
                                     {chapter.meditations.map((meditation) => (
                                         <div
-                                            key={meditation.id}
+                                            key={meditation.stt}
                                             className="group p-6 bg-card border border-border rounded-lg hover:border-catholic-gold/50 transition-colors"
                                         >
                                             <div className="flex items-start gap-4">
                                                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-catholic-gold/10 flex items-center justify-center">
                                                     <span className="text-sm font-bold text-catholic-gold">
-                                                        {meditation.soCau}
+                                                        {meditation.stt}
                                                     </span>
                                                 </div>
                                                 <div className="flex-1 space-y-3">
-                                                    <blockquote className="text-lg font-serif leading-relaxed text-foreground">
-                                                        "{meditation.vanBan}"
+                                                    <blockquote className="text-base font-serif leading-relaxed text-foreground text-justify">
+                                                        "{meditation.noi_dung}"
                                                     </blockquote>
 
-                                                    <div className="flex flex-wrap gap-2">
-                                                        {meditation.chuDeLinhDao.map((theme, idx) => (
-                                                            <span
-                                                                key={idx}
-                                                                className="px-2 py-0.5 bg-muted text-xs text-muted-foreground rounded-full"
-                                                            >
-                                                                {theme}
-                                                            </span>
-                                                        ))}
-                                                    </div>
-
-                                                    {meditation.thamChieuKinhThanh && (
-                                                        <p className="text-sm text-catholic-gold/80 italic">
-                                                            📖 {meditation.thamChieuKinhThanh}
-                                                        </p>
+                                                    {meditation.loi_chua && meditation.loi_chua.length > 0 && (
+                                                        <div className="space-y-1 mt-3">
+                                                            {meditation.loi_chua.map((lc, idx) => (
+                                                                <p key={`lc-${idx}`} className="text-sm text-catholic-gold/80 italic">
+                                                                    📖 {lc}
+                                                                </p>
+                                                            ))}
+                                                        </div>
+                                                    )}
+                                                    {meditation.tham_chieu && meditation.tham_chieu.length > 0 && (
+                                                        <div className="space-y-1 mt-1">
+                                                            {meditation.tham_chieu.map((tc, idx) => (
+                                                                <p key={`tc-${idx}`} className="text-xs text-muted-foreground/80 italic pl-1">
+                                                                    🔗 {tc}
+                                                                </p>
+                                                            ))}
+                                                        </div>
                                                     )}
                                                 </div>
                                             </div>

@@ -10,10 +10,11 @@ import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 
 const navigation = [
-    { name: "Tiểu sử", href: "/tieu-su" },
-    { name: "Linh đạo", href: "/linh-dao" },
-    { name: "Đường Hy Vọng", href: "/duong-hy-vong" },
-    { name: "Ứng dụng", href: "/ung-dung" },
+    { name: "TIỂU SỬ", href: "/tieu-su" },
+    { name: "LINH ĐẠO", href: "/linh-dao" },
+    { name: "ĐƯỜNG HY VỌNG", href: "/duong-hy-vong" },
+    { name: "ỨNG DỤNG", href: "/ung-dung" },
+    { name: "PHONG THÁNH", href: "/phong-thanh" },
 ]
 
 export function Header() {
@@ -23,17 +24,17 @@ export function Header() {
 
     return (
         <header className="sticky top-0 z-50 w-full border-b border-border-gray bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-            <div className="flex h-16 w-full items-center justify-between px-4 sm:px-8">
+            <div className="flex h-16 w-full items-center gap-4 px-4 sm:px-8">
                 <div className="flex items-center gap-2">
                     <Link href="/" className="flex items-center gap-2 font-serif font-bold text-xl text-foreground hover:text-catholic-gold transition-colors">
                         {/* Removed Cross icon to match the text-only style of Image 2 if implied, but keeping text structure */}
-                        <span className="hidden sm:inline-block text-xl">ĐHY Nguyễn Văn Thuận</span>
+                        <span className="hidden sm:inline-block text-xl">ĐHY NGUYỄN VĂN THUẬN</span>
                         <span className="sm:hidden">ĐHY NVT</span>
                     </Link>
                 </div>
 
                 {/* Desktop Navigation */}
-                <nav className="hidden md:flex items-center gap-1">
+                <nav className="hidden md:flex items-center gap-1 ml-auto">
                     {navigation.map((item) => {
                         const isActive = pathname === item.href || (item.href !== "/" && pathname.startsWith(item.href));
                         return (

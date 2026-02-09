@@ -29,26 +29,29 @@ export function APAReferences({ pageId, className }: APAReferencesProps) {
                     Trích dẫn theo chuẩn APA (American Psychological Association)
                 </p>
 
-                <ol className="space-y-4 list-decimal list-inside">
+                <ol className="space-y-4">
                     {references.map((ref, index) => (
-                        <li key={ref.id} className="text-foreground/90 text-sm leading-relaxed pl-2 -indent-6 ml-6">
-                            <span className="font-semibold">{ref.author}</span>{" "}
-                            ({ref.year}).{" "}
-                            <span className="italic">{ref.title}</span>.{" "}
-                            {ref.source}
-                            {ref.pages && ` (${ref.pages})`}
-                            .
-                            {ref.url && (
-                                <a
-                                    href={ref.url}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="inline-flex items-center gap-1 text-primary hover:underline ml-1 break-all"
-                                >
-                                    <ExternalLink className="h-3 w-3 flex-shrink-0" />
-                                    <span className="text-xs">Truy cập</span>
-                                </a>
-                            )}
+                        <li key={ref.id} className="flex gap-3 text-foreground/90 text-sm leading-relaxed">
+                            <span className="font-semibold text-catholic-gold flex-shrink-0">{index + 1}.</span>
+                            <div>
+                                <span className="font-semibold">{ref.author}</span>{" "}
+                                ({ref.year}).{" "}
+                                <span className="italic">{ref.title}</span>.{" "}
+                                {ref.source}
+                                {ref.pages && ` (${ref.pages})`}
+                                .
+                                {ref.url && (
+                                    <a
+                                        href={ref.url}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="inline-flex items-center gap-1 text-catholic-gold hover:underline ml-2"
+                                    >
+                                        <ExternalLink className="h-3 w-3 flex-shrink-0" />
+                                        <span className="text-xs">Truy cập</span>
+                                    </a>
+                                )}
+                            </div>
                         </li>
                     ))}
                 </ol>

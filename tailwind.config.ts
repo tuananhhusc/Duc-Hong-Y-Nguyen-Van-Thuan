@@ -62,7 +62,7 @@ const config: Config = {
                 sm: "calc(var(--radius) - 4px)",
             },
             fontFamily: {
-                serif: ["var(--font-crimson-text)", "serif"],
+                serif: ["var(--font-merriweather)", "serif"],
                 sans: ["var(--font-inter)", "sans-serif"],
                 mono: ["var(--font-jetbrains-mono)", "monospace"],
             },

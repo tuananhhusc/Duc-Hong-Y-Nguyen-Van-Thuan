@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
-import { Crimson_Text, Inter } from "next/font/google";
+import { Merriweather, Inter } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 
-const crimsonText = Crimson_Text({
-  weight: ["400", "600", "700"],
+const merriweather = Merriweather({
+  weight: ["300", "400", "700", "900"],
   subsets: ["vietnamese", "latin"],
-  variable: "--font-crimson-text",
+  variable: "--font-merriweather",
   display: "swap",
   style: ["normal", "italic"],
 });
@@ -39,7 +39,7 @@ export default function RootLayout({
   return (
     <html lang="vi" suppressHydrationWarning>
       <body
-        className={`${crimsonText.variable} ${inter.variable} antialiased bg-background text-foreground`}
+        className={`${merriweather.variable} ${inter.variable} antialiased bg-background text-foreground`}
       >
         <ThemeProvider
           attribute="class"
