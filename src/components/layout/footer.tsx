@@ -8,7 +8,7 @@ export function Footer() {
                     {/* Brand & Quote */}
                     <div className="space-y-4">
                         <h3 className="font-serif text-lg font-bold text-catholic-gold">
-                            Nguyễn Văn Thuận
+                            Đức Hồng Y Phanxicô Xaviê Nguyễn Văn Thuận
                         </h3>
                         <blockquote className="italic text-foreground/80 border-l-2 border-catholic-gold pl-4 text-sm">
                             "Con phải phân biệt giữa Thiên Chúa và các công việc của Thiên Chúa."
@@ -41,10 +41,10 @@ export function Footer() {
                     <div className="space-y-4">
                         <h4 className="font-serif font-semibold text-foreground">Thông tin</h4>
                         <p className="text-sm text-foreground/70">
-                            Website nghiên cứu và lưu trữ di sản của Đấng Đáng Kính - Đức Hồng y Phanxicô Xaviê Nguyễn Văn Thuận.
+                            Website nghiên cứu và lưu trữ di sản của Đấng Đáng Kính - Đức Hồng Y Phanxicô Xaviê Nguyễn Văn Thuận.
                         </p>
                         <p className="text-xs text-foreground/50 mt-4">
-                            &copy; {new Date().getFullYear()} Nguyễn Văn Thuận Research. All rights reserved.
+                            &copy; {new Date().getFullYear()}  Đức Hồng Y Phanxicô Xaviê Nguyễn Văn Thuận. All rights reserved.
                         </p>
                     </div>
                 </div>
